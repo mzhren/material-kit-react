@@ -18,9 +18,29 @@ const sidebarConfig = [
     icon: getIcon(pieChart2Fill)
   },
   {
+    title: '链接列表',
+    path: '/links/blog',
+    icon: getIcon(shoppingBagFill)
+  },
+  {
     title: 'user',
     path: '/dashboard/user',
     icon: getIcon(peopleFill)
+  },
+  {
+    title: '技术博客',
+    path: '/list/blog',
+    icon: getIcon(peopleFill),
+    children: [{
+      title: 'user',
+      path: '/list/blog',
+      icon: getIcon(peopleFill)
+    },
+    {
+      title: 'home',
+      path: '/dashboard/home',
+      icon: getIcon(peopleFill)
+    },]
   },
   {
     title: 'product',

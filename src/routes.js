@@ -6,6 +6,8 @@ import LogoOnlyLayout from './layouts/LogoOnlyLayout';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import DashboardApp from './pages/DashboardApp';
+import DashboardLinks from './pages/DashboardLinks';
+import List from './pages/List';
 import Products from './pages/Products';
 import Blog from './pages/Blog';
 import User from './pages/User';
@@ -22,8 +24,18 @@ export default function Router() {
         { path: '/', element: <Navigate to="/dashboard/app" replace /> },
         { path: 'app', element: <DashboardApp /> },
         { path: 'user', element: <User /> },
+        { path: 'list', element: <List /> },
+        { path: 'home', element: <DashboardLinks /> },
         { path: 'products', element: <Products /> },
         { path: 'blog', element: <Blog /> }
+      ]
+    },
+    {
+      path: '/links',
+      element: <DashboardLayout />,
+      children: [
+        { path: '/', element: <Navigate to="/links/blog" replace /> },
+        { path: 'blog', element: <List /> }
       ]
     },
     {
