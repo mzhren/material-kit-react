@@ -1,12 +1,13 @@
 import React from 'react'
-import { Grid } from '@material-ui/core';
+import { Grid,Typography} from '@material-ui/core';
 import LinkCard from './LinkCard';
 
 function LinkList({ name, links }) {
-    console.log(links)
     return (
         <div>
-            <h3>{name}</h3>
+             <Typography variant="h4" mb={2} mt={2} ml={1}>
+                    {name}
+                </Typography>
             <Grid container spacing={3} >
                 {
                     links.map((item, k) => (

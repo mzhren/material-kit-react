@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams } from 'react-router';
 
 // material
-import { Container, Typography } from '@material-ui/core';
+import { Container } from '@material-ui/core';
 // components
 import Page from '../components/Page';
 
@@ -34,9 +34,7 @@ function Links() {
     return (
         <Page title="Dashboard: Products | Minimal-UI">
             <Container maxWidth="xl">
-                <Typography variant="h4" sx={{ mb: 5 }}>
-                    技术博客
-                </Typography>
+               
 
                 {
                     sites.map((list,k) => (
