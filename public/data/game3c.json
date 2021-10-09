@@ -1,0 +1,45 @@
+[{
+    "name": "游戏数码",
+    "sites": [
+        {
+            "title": "少数派 - 高效工作，品质生活",
+            "desc": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
+            "url": "https://sspai.com/",
+            "logo": "https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico",
+            "tags": [
+                "效率",
+                "软件",
+                "评测"
+            ]
+        },
+        {
+            "title": "钛媒体-专业无止境",
+            "desc": "【钛媒体官方网站】钛媒体是国内首家TMT公司人社群媒体，最有钛度的一人一媒体平台，集信息交流融合、IT技术信息、新媒体于一身的媒体平台。",
+            "url": "https://www.tmtpost.com/",
+            "logo": "https://www.tmtpost.com/favicon.ico?v=1",
+            "tags":["科技资讯","社区","新媒体"]
+        },
+        {
+            "title": "机核",
+            "url": "https://www.gcores.com",
+            "logo": "https://www.gcores.com/apple-touch-icon.png?v=jw7pQOOwRY",
+            "desc": "机核从2010年开始一直致力于分享游戏玩家的生活，以及深入探讨游戏相关的文化。",
+            "tags": [
+                "游戏",
+                "二次元",
+                "书影音"
+            ]
+        },
+        {
+            "title": "数字尾巴 分享美好数字生活",
+            "desc": "致力于分享美好数字生活体验，囊括你闻所未闻的最丰富数码资讯，触所未触最抢鲜产品评测，随时随地感受尾巴们各式数字生活精彩图文、摄影感悟、旅行游记、爱物分享。旗下产品：精品电商平台「尾巴良品」 ；移动客户端「数字尾巴」 ，覆盖 iOS、Android 两大主流平台。",
+            "url": "https://www.dgtle.com/",
+            "logo": "https://www.dgtle.com/favicon.ico",
+            "tags": [
+                "摄影",
+                "数码",
+                "评测"
+            ]
+        }
+    ]
+}]

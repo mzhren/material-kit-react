@@ -1,0 +1,194 @@
+[
+    {
+        "name": "在线刷题",
+        "sites": [
+            {
+                "title": "LintCode 领扣",
+                "desc": "Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on. We provide Chinese and English versions for coders around the world.",
+                "url": "https://www.lintcode.com/",
+                "logo": "https://www.lintcode.com/static/favicon.ico",
+                "tags": [
+                    "在线刷题"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "码农文档",
+        "icon": "file",
+        "sites": [
+            {
+                "title": "MDN Web 文档",
+                "desc": "MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API。它还记录了一些用于 Mozilla 产品的面向开发者的文档，例如 Firefox 开发者工具。",
+                "url": "https://developer.mozilla.org/zh-CN/",
+                "logo": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
+                "tags": [
+                    "web",
+                    "MDN",
+                    "前端"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CSS",
+        "icon": "tools",
+        "sites": [
+            {
+                "title": "Can I use... Support tables for HTML5, CSS3, etc",
+                "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+                "url": "https://caniuse.com/css-rrggbbaa",
+                "logo": "https://caniuse.com/img/favicon-128.png",
+                "tags": [
+                    "CSS",
+                    "兼容性"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SVG",
+        "icon": "tools",
+        "sites": [
+            {
+                "title": "Calligrapher.ai: Realistic computer-generated handwriting",
+                "desc": "Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.",
+                "url": "https://www.calligrapher.ai/",
+                "logo": "https://www.calligrapher.ai/favicon.ico",
+                "tags": [
+                    "手写",
+                    "文字转svg"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "图床",
+        "icon": "photo",
+        "sites": [
+            {
+                "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
+                "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
+                "url": "https://imgchr.com/",
+                "logo": "https://imgchr.com/content/images/system/favicon_1587118523486_91617a.png",
+                "tags": []
+            }
+        ]
+    },
+    {
+        "name": "码农工具",
+        "icon": "tools",
+        "sites": [
+            {
+                "title": "Carbon | Create and share beautiful images of your source code",
+                "desc": "Carbon is the easiest way to create and share beautiful images of your source code.",
+                "url": "https://carbon.now.sh/",
+                "logo": "https://carbon.now.sh/favicon.ico",
+                "tags": [
+                    "代码截图"
+                ]
+            },
+            {
+                "title": "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript",
+                "desc": "Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.",
+                "url": "https://regex101.com/",
+                "logo": "https://regex101.com/static/assets/favicon.ico",
+                "tags": [
+                    "正则工具"
+                ]
+            },
+            {
+                "title": "在线工具 —— OSCHINA.NET社区",
+                "desc": "OSCHINA.NET在线工具,ostools为开发设计人员提供在线工具，提供jsbin在线 CSS、JS 调试，在线 Java API文档,在线 PHP API文档,在线 Node.js API文档,Less CSS编译器，MarkDown编译器等其他在线工具",
+                "url": "https://tool.oschina.net/",
+                "logo": "https://tool.oschina.net/img/favicon.ico",
+                "tags": [
+                    "api",
+                    "md",
+                    "正则"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "在线工具",
+        "sites": [
+            {
+                "url": "https://tableconvert.com/",
+                "title": "tableconvert online",
+                "logo": "https://tableconvert.com/static/images/favicon.png",
+                "desc": "A powerful online table generator and editor that converts between csv, html and markdown. easy to convert html tables to sql, json, xml, excel, latex tables and text, making the table easier to use.",
+                "tags": [
+                    "表格",
+                    "json",
+                    "excel"
+                ]
+            },
+            {
+                "url": "https://g.dituhui.com/apps/range",
+                "title": "地图绘-大众制图",
+                "logo": "https://g.dituhui.com/favicon.ico?t=201807161015",
+                "desc": "一起做更好的地图",
+                "tags": [
+                    "数据可视化",
+                    "地图",
+                    "绘图"
+                ]
+            },
+            {
+                "url": "https://zhuwei.me/y2b/",
+                "title": "YouTube字幕下载",
+                "logo": "https://zhuwei.me/y2b/imgs/youtube-captions.png",
+                "desc": "YouTube字幕下载_Vimeo字幕下载_VoiceTube字幕下载",
+                "tags": [
+                    "youtube",
+                    "vimeo",
+                    "字幕"
+                ]
+            },
+            {
+                "url": "https://www.json.cn/",
+                "title": "JSON在线解析及格式化验证",
+                "desc": "Json中文网致力于在中国推广Json,并提供相关的Json解析、验证、格式化、压缩、编辑器以及Json与XML相互转换等服务",
+                "logo": "https://www.json.cn/favicon.ico",
+                "tags": [
+                    "json",
+                    "格式化"
+                ]
+            },
+            {
+                "url": "https://tool.lu/",
+                "title": "在线工具",
+                "logo": "https://tool.lu/favicon.ico",
+                "desc": "程序员的工具箱",
+                "tags": [
+                    "程序员"
+                ]
+            },
+            {
+                "title": "HIPA黑帕云 | 新一代在线数据协作管理工具",
+                "desc": "黑帕云(hipacloud.com)是一款更加简单、高效、安全的在线数据协作管理工具。在这里，您可以使用已经熟悉的技能如电子表格、看板、图表等创建符合自己业务的软件，满足各行业多场景业务需求。",
+                "url": "https://hipacloud.com/",
+                "logo": "https://hipacloud.com/favicon.ico",
+                "tags": [
+                    "数据协作"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "导航站",
+        "icon": "sitemap",
+        "sites": [
+            {
+                "title": "LinkFind",
+                "desc": "LinkFind",
+                "url": "https://linkfind.cn/",
+                "logo": "https://linkfind.cn/static/image/favicon.ico",
+                "tags": [
+                    "导航站"
+                ]
+            }
+        ]
+    }
+]

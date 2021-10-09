@@ -1,0 +1,23 @@
+[
+    {
+        "name": "线上教程",
+        "sites": [
+            {
+                "title": "现代 JavaScript 教程",
+                "desc": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
+                "url": "https://zh.javascript.info/",
+                "logo": "https://zh.javascript.info/img/favicon/apple-touch-icon-precomposed.png",
+                "tags": [
+                    "js"
+                ]
+            },
+            {
+                "title": "HelloDjango - django REST framework 教程_追梦人物的博客",
+                "desc": "HelloDjango - django REST framework 教程_追梦人物的博客",
+                "url": "https://www.zmrenwu.com/courses/django-rest-framework-tutorial/",
+                "logo": "https://www.zmrenwu.com/favicon.ico",
+                "tags": ["django"]
+            }
+        ]
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "name": "开源软件",
+        "icon": [
+            "fab",
+            "osi"
+        ],
+        "sites": [
+            {
+                "title": "Flarum 中文站：优雅简洁的轻论坛",
+                "desc": "Flarum 官方授权中文站。Flarum 是一款现代的，优雅的，简洁的，强大的论坛软件。Flarum 让在线交流变得更加轻松愉快。",
+                "url": "https://flarum.org.cn/",
+                "logo": "https://flarum.org.cn/img/apple-touch-icon.png",
+                "tags": [
+                    "论坛程序"
+                ]
+            },
+            {
+                "title": "Umbraco - the flexible open source .NET CMS",
+                "desc": "Umbraco is the leading Open Source ASP.NET CMS | More than 500,000 websites worldwide are powered by our flexible and editor-friendly CMS",
+                "url": "https://umbraco.com/",
+                "logo": "https://umbraco.com/dist/icons/fav_32x32.png",
+                "tags": [
+                    "cms"
+                ]
+            },
+            {
+                "title": "BookStack",
+                "desc": "简洁免费开源wiki程序",
+                "url": "https://www.bookstackapp.com/",
+                "logo": "https://www.bookstackapp.com/images/apple-touch-icon-114x114.png",
+                "tags": [
+                    "wiki"
+                ]
+            },
+            {
+                "title": "SuiteCRM - Open Source CRM Software Application for Businesses",
+                "desc": "Open Source CRM (Customer Relationship Manangement) software solution for SME and Enterprise. Available as SaaS or on-premise, download for free today!",
+                "url": "https://suitecrm.com/",
+                "logo": "https://suitecrm.com/wp-content/uploads/2018/01/favicon.ico",
+                "tags": [
+                    "CRM"
+                ]
+            },
+            {
+                "title": "osTicket | Support Ticketing System",
+                "desc": "osTicket is a widely-used and trusted open source support ticket system. Easily scale and streamline your customer service and drastically improve your customer’s experience.",
+                "url": "https://osticket.com/",
+                "logo": "https://osticket.com/wp-content/uploads/2017/03/cropped-osticket-icon-512-1-32x32.png",
+                "tags": [
+                    "工单系统"
+                ]
+            },
+            {
+                "title": "Zammad Community | Home & Download",
+                "desc": "The Zammad - Help Desk and Ticket System - Community Page",
+                "url": "https://zammad.org/",
+                "logo": "https://zammad.org/assets/images/favicon.ico",
+                "tags": [
+                    "工单系统"
+                ]
+            },
+            {
+                "title": "XXL-JOB",
+                "desc": "XXL-JOB是一个轻量级分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。",
+                "url": "https://www.xuxueli.com/xxl-job/",
+                "logo": "https://www.xuxueli.com/favicon.ico",
+                "tags": [
+                    "分布式任务调度"
+                ]
+            },
+            {
+                "title": "dokuwiki [DokuWiki]",
+                "desc": "dokuwiki [DokuWiki]",
+                "url": "https://www.dokuwiki.org/dokuwiki",
+                "logo": "https://www.dokuwiki.org/lib/tpl/dokuwiki/images/favicon.ico",
+                "tags": [
+                    "wiki"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "免费软件",
+        "icon": [
+            "fab",
+            "freebsd"
+        ],
+        "sites": [
+            {
+                "title": "项目管理软件 开源项目管理软件 免费项目管理软件 - 禅道开源项目管理软件",
+                "desc": "禅道 项目管理软件 是国产的开源项目管理软件，专注研发项目管理，内置需求管理、任务管理、bug管理、缺陷管理、用例管理、计划发布等功能，实现了软件的完整生命周期管理。",
+                "url": "https://www.zentao.net/",
+                "logo": "https://www.zentao.net/file.php?f=201908/f_3e8c31b19a1779be6b90bd8b89aed967.ico&t=ico&o=&s=&v=1601183410",
+                "tags": [
+                    "项目管理"
+                ]
+            },
+            {
+                "title": "语雀 - 专业的云端知识库",
+                "desc": "优雅高效的在线文档编辑与协同工具，让每个企业轻松拥有文档中心，阿里巴巴集团内部使用多年，众多中小企业首选。主流 Office 文件全兼容，多人协同，轻松拥有团队知识库。企业文档中心化管理，各类文档井然有序，独立域名，随时随地安全获取。语雀致力于帮助每一个个体与企业，都拥有珍贵的知识财富。写文档，就用语雀！",
+                "url": "https://www.yuque.com/",
+                "logo": "https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*CUIoT4xopNYAAAAAAAAAAABkARQnAQ",
+                "tags": [
+                    "知识管理",
+                    "免费试用"
+                ]
+            },
+            {
+                "title": "TAPD-敏捷开发 项目管理 腾讯敏捷产品研发平台",
+                "desc": "TAPD是源自于腾讯的敏捷产品研发协作平台，提供贯穿敏捷开发生命周期的一站式服务。覆盖从产品概念形成、产品规划、需求分析、项目规划和跟踪、质量测试到构建发布、用户反馈跟踪的产品研发全过程，提供了灵活的可定制化应用和强大的集成能力，帮助研发团队有效地管理需求、资源、进度和质量，规范和改进产品研发过程，提高研发效率和产品质量。",
+                "url": "https://www.tapd.cn/",
+                "logo": "https://www.tapd.cn/favicon.ico",
+                "tags": [
+                    "项目管理",
+                    "免费试用"
+                ]
+            },
+            {
+                "title": "Nextcloud",
+                "desc": "Nextcloud is the most deployed on-premises file share and collaboration platform. Access & collaborate across your devices. Your data remains under your control.",
+                "url": "https://nextcloud.com/",
+                "logo": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054",
+                "tags": [
+                    "文件共享"
+                ]
+            },
+            {
+                "title": "腾讯文档",
+                "desc": "腾讯文档",
+                "url": "https://docs.qq.com/desktop",
+                "logo": "https://docs.idqqimg.com/tim/docs/desktop/favicon.ico",
+                "tags": [
+                    "文档共享"
+                ]
+            },
+            {
+                "title": "WGCLOUD监控系统",
+                "desc": "WGCLOUD是高性能高并发的分布式监控系统，专注linux性能监控，应用进程管理，业务数据监控，服务接口心跳检测，邮件短信告警信息推送，服务器故障排查。我们的愿景是让运维工作简单高效，打造极简监控系统，不用写监控模板和脚本。",
+                "url": "https://www.wgstart.com/",
+                "logo": "https://www.wgstart.com/wgcloud/images/favicon-32x32.png",
+                "tags": [
+                    "分布式监控"
+                ]
+            },
+            {
+                "title": "Listary中文网",
+                "desc": "Listary中文网 | Listary下载 | Listary软件| Listary Pro",
+                "url": "https://www.listarypro.com/",
+                "logo": "https://www.listarypro.com/images/favicon.ico",
+                "tags": ["listary"]
+            }
+        ]
+    },
+    {
+        "name": "工具软件",
+        "icon": "toolbox",
+        "sites": [
+            {
+                "url": "https://msdn.itellyou.cn",
+                "title": "MSDN 我告诉你",
+                "desc": "致力于原版windows生态服务",
+                "logo": "https://msdn.itellyou.cn/favicon.ico",
+                "tags": [
+                    "软件",
+                    "操作系统"
+                ]
+            },
+            {
+                "url": "https://www.ffmpeg.org/",
+                "title": "FFMpeg",
+                "logo": "https://www.ffmpeg.org/favicon.ico",
+                "desc": "A complete, cross-platform solution to record, convert and stream audio and video.",
+                "tags": [
+                    "开源",
+                    "命令行"
+                ]
+            },
+            {
+                "title": "yuanqing/vdx: An intuitive CLI for processing video, powered by FFmpeg",
+                "desc": ":film_strip: An intuitive CLI for processing video, powered by FFmpeg - yuanqing/vdx",
+                "url": "https://github.com/yuanqing/vdx",
+                "logo": "https://github.com/fluidicon.png",
+                "tags": [
+                    "FFmpeg",
+                    "CLI"
+                ]
+            },
+            {
+                "title": "Awesome Data Engineering Learning Path - Best resources, books, courses",
+                "desc": "Complete learning path for data engineer with best books, best courses and best free resources for every subject in the path.",
+                "url": "https://awesomedataengineering.com/",
+                "logo": "https://awesomedataengineering.com/favicon.svg",
+                "tags": [
+                    "数据科学学习路径"
+                ]
+            },
+            {
+                "title": "Tern - Subtitle Translator",
+                "desc": "Translate Subtitle File like .srt .ass .vtt",
+                "url": "https://tern.1c7.me/",
+                "logo": "https://tern.1c7.me/favicon.ico",
+                "tags": [
+                    "字幕",
+                    "翻译"
+                ]
+            },
+            {
+                "title": "HWiNFO - Free System Information, Monitoring and Diagnostics",
+                "desc": "Free Hardware Analysis, Monitoring and Reporting. In-depth Hardware Information, Real-Time System Monitoring, Reporting & more",
+                "url": "https://www.hwinfo.com/",
+                "logo": "https://www.hwinfo.com/favicon.ico",
+                "tags": [
+                    "系统分析监控"
+                ]
+            },
+            {
+                "title": "Image Viewer | Photo Viewer | XnView",
+                "desc": "XnView, one of the best and popular image viewer",
+                "url": "https://www.xnview.com/en/",
+                "logo": "https://www.xnview.com/assets/ico/favicon.ico",
+                "tags": [
+                    "看图",
+                    "图片编辑"
+                ]
+            },
+            {
+                "title": "IrfanView - Official Homepage - One of the Most Popular Viewers Worldwide",
+                "desc": "IrfanView ... one of the most popular viewers worldwide.",
+                "url": "https://www.irfanview.com/",
+                "logo": "https://www.irfanview.com/images/favicon.png",
+                "tags": [
+                    "图片浏览",
+                    "轻快",
+                    "定制化"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "云开发",
+        "icon": "cloud",
+        "sites": [
+            {
+                "title": "Firebase",
+                "desc": "Firebase 是 Google 的移动平台，可帮助您快速开发优质应用并发展业务。",
+                "url": "https://firebase.google.com/?hl=zh-cn",
+                "logo": "https://www.gstatic.com/devrel-devsite/prod/vfe8af62599ec445552c3fb43608c37ff46463c9fce3b14d8ee63b2e71edddffd/firebase/images/favicon.png",
+                "tags": [
+                    "谷歌"
+                ]
+            },
+            {
+                "title": "云开发 CloudBase_TCB_移动应用开发_后端云服务 - 腾讯云",
+                "desc": "云开发（Tencent Cloud Base，TCB）是腾讯云为移动开发者提供的一站式后端云服务，支持小程序、小游戏、Web、APP开发。它帮助开发者统一构建和管理资源，让开发者可以专注于业务逻辑的实现，而无需理解后端逻辑及服务器运维知识，开发门槛更低，效率更高。",
+                "url": "https://cloud.tencent.com/product/tcb",
+                "logo": "https://cloud.tencent.com/favicon.ico?t=201902181234",
+                "tags": [
+                    "云开发",
+                    "TCB",
+                    "后端云"
+                ]
+            },
+            {
+                "title": "LeanCloud",
+                "desc": "领先的 BaaS 提供商，提供数据存储、文件存储、云引擎、容器、即时通讯、消息推送、短信、游戏云等多项服务，为移动开发提供强有力的后端支持。",
+                "url": "https://www.leancloud.cn/",
+                "logo": "https://www.leancloud.cn/apple-touch-icon.png",
+                "tags": [
+                    "baas",
+                    "云引擎"
+                ]
+            },
+            {
+                "title": "Bmob后端云",
+                "desc": "国内首家专注于移动应用Serverless云服务的平台,Bmob后端云让移动开发更简单,全方位一体化的后端服务平台",
+                "url": "https://www.bmob.cn/",
+                "logo": "https://assets2016.bmob.cn/img/favicon.ico",
+                "tags": [
+                    "serverless",
+                    "后端云"
+                ]
+            },
+            {
+                "title": "Kaggle: Your Home for Data Science",
+                "desc": "Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals.",
+                "url": "https://www.kaggle.com/",
+                "logo": "https://www.kaggle.com/static/images/favicon.ico",
+                "tags": [
+                    "数据科学"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "下载站",
+        "sites": [
+            {
+                "title": "FOSSHUB",
+                "desc": "No adware, no spyware, no bundles, no malware, fast downloads, free services and a single ad.",
+                "url": "https://www.fosshub.com/",
+                "logo": "https://www.fosshub.com/media/favicon/apple-touch-icon.png",
+                "tags": [
+                    "开源软件托管"
+                ]
+            },
+            {
+                "title": "微当下载",
+                "desc": "微当下载是一个免费无下载器的软件下载站，以官方软件、绿色软件、浏览器、单机游戏、手机软件、手机游戏等软件为主，全站下载提供CDN加速，让您享受满速下载的体验。",
+                "url": "https://www.weidown.com/",
+                "logo": "https://www.weidown.com/favicon.ico",
+                "tags": [
+                    "官方软件",
+                    "绿色软件"
+                ]
+            },
+            {
+                "url": "https://www.423down.com",
+                "title": "423down绿色软件下载",
+                "desc": "一个有品质的软件分享下载站",
+                "tags": [
+                    "软件"
+                ]
+            }
+        ]
+    }
+]

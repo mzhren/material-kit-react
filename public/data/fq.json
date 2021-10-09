@@ -1,0 +1,75 @@
+[
+    {
+        "name": "科学上网",
+        "icon": "network-wired",
+        "sites": [
+            {
+                "title": "Vultr.com",
+                "desc": "Vultr Global Cloud Hosting - Brilliantly Fast SSD VPS Cloud Servers. 100% KVM Virtualization",
+                "url": "https://www.vultr.com/",
+                "logo": "https://www.vultr.com/apple-touch-icon.png?v=1",
+                "tags": [
+                    "支付宝",
+                    "全球"
+                ]
+            },
+            {
+                "title": "Dukou",
+                "desc": "Dukou",
+                "url": "https://dukou.icu/",
+                "logo": "https://dukou.icu/logo.ico",
+                "tags": [
+                    "免费2小时"
+                ]
+            },
+            {
+                "title": "佛跳墙加速器",
+                "desc": "佛跳墙加速器",
+                "url": "https://www.henzixin.com/cn",
+                "logo": "https://www.henzixin.com/favicon.ico",
+                "tags": [
+                    "国内",
+                    "免费"
+                ]
+            },
+            {
+                "title": "快狗雲加速器|Welcome to ComWorld|Global data transmission",
+                "desc": "免费私密、安全、高速稳定、自由的访问互联网，网游加速，畅游TVB、Netflix、YouTube、Twitter、Facebook、Instagram等国际网络。IOS、Android、Mac、Windows等全平台支持。独有海外中转加速，解锁海外访问QQ音乐/网易云音乐/酷狗音乐/优酷/爱奇艺/腾讯视频/bilibili等国内应用和网站",
+                "url": "https://fastdog.vip/",
+                "logo": "https://fastdog.vip/templates/default/img/apple-touch-icon-144-precomposed.png",
+                "tags": [
+                    "vpn",
+                    "v2rayN"
+                ]
+            },
+            {
+                "title": "hide.me",
+                "desc": "Hide.me VPN offers privacy protection, wi-fi security, and encryption for a truly private web browser experience, regardless of your location. Try for free!",
+                "url": "https://hide.me/en/",
+                "logo": "https://hide.me/favicon.ico",
+                "tags": [
+                    "免费",
+                    "vpn"
+                ]
+            },
+            {
+                "title": "最快VPN | Hotspot Shield",
+                "desc": "想要使用市场上最快VPN？Ookla速度测试之后Hotspot Shield被公认为“2020年度最快VPN”。改变您的IP，用Hotspot Shield VPN的军事级别技术加密，享受您最喜欢的内容，防御黑客。",
+                "url": "https://www.hotspotshield.com/zh/",
+                "logo": "https://www.hotspotshield.com/favicon.ico",
+                "tags": [
+                    "免费",
+                    "500M/天",
+                    "慢"
+                ]
+            },
+            {
+                "title": "ProtonVPN: The only free VPN with no ads and no speed limits",
+                "desc": "The ProtonVPN Free VPN service has no data limit, no advertisements, and a no-logs guarantee. Our free plan encrypts your Internet activity, protects your IP address, and lets you view censored content. ProtonVPN’s free plan is the only free VPN service that has no data limit, no advertisements and no logs of user activity. By using a VPN, you can keep your personal data private and secure.",
+                "url": "https://protonvpn.com/free-vpn",
+                "logo": "https://protonvpn.com/assets/img/favicon.ico",
+                "tags": ["免费","不限速","无广告"]
+            }
+        ]
+    }
+]

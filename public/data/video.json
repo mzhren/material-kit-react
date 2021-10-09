@@ -1,0 +1,30 @@
+[{
+    "name": "视频教程",
+    "sites": [
+        {
+            "url": "https://msdn.itellyou.cn",
+            "title": "MSDN 我告诉你",
+            "desc": "致力于原版windows生态服务",
+            "tags": [
+                "软件","操作系统"
+            ]
+        },
+        {
+            "url": "https://www.423down.com",
+            "title": "423down绿色软件下载",
+            "desc": "一个有品质的软件分享下载站",
+            "tags": [
+                "软件"
+            ]
+        },
+        {
+            "url": "https://www.ffmpeg.org/",
+            "title": "FFMpeg",
+            "logo":"https://www.ffmpeg.org/favicon.ico",
+            "desc": "A complete, cross-platform solution to record, convert and stream audio and video.",
+            "tags": [
+                "开源","命令行"
+            ]
+        }
+    ]
+}]

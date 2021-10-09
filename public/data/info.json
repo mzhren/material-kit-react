@@ -1,0 +1,25 @@
+[
+    {
+        "name": "科技资讯",
+        "sites": [
+            {
+                "title": "品玩-有品好玩的科技，一切与你有关",
+                "desc": "品玩是具有全球化视野的科技内容平台和创新连接器，致力于服务全球科技创新者。",
+                "url": "https://www.pingwest.com/",
+                "logo": "https://www.pingwest.com/",
+                "tags": ["科技","创新"]
+            },
+            {
+                "url": "https://topbook.cc/overview",
+                "title": "TopBook",
+                "logo": "https://cdn.labs.topbook.cc/icon.png",
+                "desc": "高效生活视频书",
+                "tags": [
+                    "视频书",
+                    "技能",
+                    "应用"
+                ]
+            }
+        ]
+    }
+]

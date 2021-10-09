@@ -1,0 +1,107 @@
+[
+    {
+        "name": "免费下载",
+        "sites": [
+            {
+                "url": "http://www.aigei.com/",
+                "title": "爱给网",
+                "logo": "http://cdn-sqn.aigei.com/assets/site/img/icon/favicon.ico",
+                "desc": "中国最大的数字娱乐免费素材下载网站,免费提供免费的音效配乐|3D模型|视频|游戏素材资源下载",
+                "tags": [
+                    "素材",
+                    "音效",
+                    "免费"
+                ]
+            },
+            {
+                "title": "觅元素",
+                "desc": "觅元素,设计元素的免费下载网站,提供位图、透明背景素材、高清png、图片素材、漂浮元素、装饰元素、标签元素、字体元素、图标元素等免抠设计元素的免费下载.",
+                "url": "http://www.51yuansu.com/",
+                "logo": "http://www.51yuansu.com/favicon.ico",
+                "tags": [
+                    "图片",
+                    "免抠",
+                    "设计"
+                ]
+            },
+            {
+                "title": "图鱼 ",
+                "desc": "提供无缝平铺底纹素材，CSS渐变色网页背景代码，圣诞斜纹布纹木纹纸中国风麻布卡通古典等网页UI设计和PPT背景底纹素材。",
+                "url": "https://www.hituyu.com/",
+                "logo": "https://store.hituyu.com/favicon-v2.png",
+                "tags": [
+                    "图片",
+                    "背景"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "网盘搜索",
+        "icon": "",
+        "sites": [
+            {
+                "title": "云盘狗-百度云网盘搜索",
+                "desc": "百度云网盘资源搜索分享与下载",
+                "url": "http://www.yunpangou.com/",
+                "logo": "http://www.yunpangou.com/favicon.ico",
+                "tags": ["电子书","网盘"]
+            },
+            {
+                "title": "网盘搜索，就用大力盘搜索 - 最好用的百度网盘搜索引擎，https://www.dalipan.com。",
+                "desc": "大力盘搜索支持百度云搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
+                "url": "https://www.dalipan.com/",
+                "logo": "https://www.dalipan.com/favicon.ico",
+                "tags": ["网盘"]
+            },
+            {
+                "title": "坑搜网",
+                "desc": "坑搜网网盘搜索是专业的百度云搜索引擎，实时收录百度云、百度网盘等资源，每天更新各类高清电影、视频、种子、小说等网盘资源，真正你懂的网盘搜索神器!",
+                "url": "http://www.kengso.com/",
+                "logo": "http://www.kengso.com/static/favicon.ico",
+                "tags": [
+                    "视频",
+                    "电子书",
+                    "网盘"
+                ]
+            },
+            {
+                "title": "V盘搜(vpansou.com)",
+                "desc": "V盘搜 基于百度云盘(百度网盘)资源搜索，致力于云盘资源的技术收集和整理，千万级的大数据量,每天都会更新收录大量视频,种子,小说,壁纸,音乐等优质网盘资源,各种百度网盘资源你懂的,让您一网打尽所有网盘资源。",
+                "url": "http://www.vpansou.com/",
+                "logo": "http://www.vpansou.com/static/favicon.ico",
+                "tags": [
+                    "视频",
+                    "电子书",
+                    "网盘"
+                ]
+            }
+        ]
+    },
+    {
+        "sites": [
+            {
+                "title": "【熊猫办公】PPT模板，创意设计素材 高效办公在熊猫",
+                "desc": "熊猫办公是一家专注创意设计模板下载的网站，涵盖行业优质精品PPT模板、Word模板、Excel模板、免抠元素、视频素材、字体和音效及配乐素材等，集办公设计模板于一体的素材网。",
+                "url": "https://www.tukuppt.com/",
+                "logo": "https://www.tukuppt.com/favicon.ico",
+                "tags": [
+                    "ppt",
+                    "免抠",
+                    "视频"
+                ]
+            },
+            {
+                "title": "字魂网--商用字体下载，字体定制，免费字体下载",
+                "desc": "字魂网（izihun.com）是一家提供商用字体下载授权,字体定制,免费字体下载,字体授权,以及在线字体转换器的字体公司，致力于让所有人用得起正版字体.",
+                "url": "https://izihun.com/",
+                "logo": "https://izihun.com/favicon.ico",
+                "tags": [
+                    "商用字体",
+                    "设计"
+                ]
+            }
+        ],
+        "name": "付费下载"
+    }
+]

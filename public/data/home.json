@@ -1,0 +1,98 @@
+[
+    {
+        "name": "常用网站",
+        "sites": [
+            {
+                "url": "http://www.mzh.ren",
+                "logo": "http://www.mzh.ren/wp-content/themes/codeman/img/logo2.png",
+                "title": "码中人- 深入编程",
+                "desc": "做最好的开发者交流平台",
+                "tags": [
+                    "编程",
+                    "前端",
+                    "web开发"
+                ]
+            }, {
+                "title": "网易云音乐",
+                "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+                "url": "https://music.163.com/",
+                "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
+                "tags": ["云音乐"]
+            },
+            {
+                "title": "微信网页版",
+                "desc": "微信网页版",
+                "url": "https://wx2.qq.com/",
+                "logo": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico",
+                "tags": [
+                    "微信",
+                    "网页"
+                ]
+            },
+            {
+                "title": "NBA_腾讯体育_腾讯网_NBA中国数字媒体独家官方合作伙伴",
+                "desc": "腾讯NBA频道是NBA官方合作伙伴，覆盖新鲜的NBA赛况，呈现海量NBA资讯，全方位报道30支球队以及科比、詹姆斯、库里、杜兰特、哈登、霍华德、林书豪、汤普森等NBA球星动态，提供直播、视频、数据、图片、专题、评论等各类信息，收录球队、球员、比分、赛程赛果等各类数据。",
+                "url": "https://sports.qq.com/nba/",
+                "logo": "https://mat1.gtimg.com/www/icon/favicon2.ico",
+                "tags": [
+                    "体育",
+                    "nba"
+                ]
+            },
+            {
+                "title": "NBA录像下载|NBA视频下载|NBA比赛下载 - 直播吧",
+                "desc": "NBA录像下载,NBA下载,NBA视频下载,NBA比赛下载尽在直播吧",
+                "url": "http://www.zhiboba.tv/nbaxiazai/",
+                "logo": "http://www.zhiboba.tv/favicon.ico",
+                "tags": [
+                    "nba",
+                    "直播",
+                    "录像下载"
+                ]
+            },
+            {
+                "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "desc": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。",
+                "url": "https://www.bilibili.com/",
+                "logo": "https://www.bilibili.com/favicon.ico",
+                "tags": [
+                    "视频",
+                    "二次元",
+                    "教学"
+                ]
+            },
+            {
+                "title": "西瓜视频 - 高清免费在线视频 - 点亮对生活的好奇心",
+                "desc": "西瓜视频是字节跳动旗下视频平台，通过个性化推荐为您提供新鲜、好看的视频内容，并帮助视频创作人们轻松地向全世界分享自己的视频作品，更有原创综艺节目等你来看。",
+                "url": "https://www.ixigua.com/",
+                "logo": "https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lpqpflo/ixigua_favicon.ico",
+                "tags": [
+                    "电影",
+                    "vlog"
+                ]
+            },
+            {
+                "url": "http://www.dzxfsc.com/",
+                "logo": "http://www.dzxfsc.com/wp-content/uploads/2019/08/logo.jpg",
+                "title": "大众消费手册",
+                "desc": "购物优惠指南",
+                "tags": [
+                    "淘宝",
+                    "优惠券",
+                    "京东"
+                ]
+            },
+            {
+                "url": "http://quickweb.mzh.ren/",
+                "title": "快网指南",
+                "desc": "建站教程",
+                "logo": "http://quickweb.mzh.ren/favicon.ico",
+                "tags": [
+                    "wordpress",
+                    "建站",
+                    "小程序"
+                ]
+            }
+        ]
+    }
+]

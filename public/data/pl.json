@@ -1,0 +1,98 @@
+[
+    {
+        "name": "编程语言",
+        "icon": "code",
+        "sites": [
+            {
+                "title": "Learn C and C++ Programming - Cprogramming.com",
+                "desc": "The best site for C and C++ programming. Popular, beginner-friendly C and C++ tutorials to help you become an expert!",
+                "url": "https://www.cprogramming.com/",
+                "logo": "https://www.cprogramming.com/favicon.ico",
+                "tags": [
+                    "C语言",
+                    "C++"
+                ]
+            },
+            {
+                "title": "JavaScript.com",
+                "desc": "JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript experts. Learn JavaScript or free with our easy to use input output machine.",
+                "url": "https://www.javascript.com/",
+                "logo": "https://www.javascript.com/etc/clientlibs/pluralsight/main/images/favicons/apple-touch-icon-57x57.png",
+                "tags": [
+                    "js"
+                ]
+            },
+            {
+                "title": "TypeScript中文网 · TypeScript——JavaScript的超集",
+                "desc": "TypeScript带来了可选的静态类型检查以及最新的ECMAScript特性。",
+                "url": "https://www.tslang.cn/",
+                "logo": "https://www.tslang.cn/assets/images/icons/apple-touch-icon-57x57.png",
+                "tags": [
+                    "ts",
+                    "js"
+                ]
+            },
+            {
+                "title": "PHP: Hypertext Preprocessor",
+                "desc": "PHP: Hypertext Preprocessor",
+                "url": "https://www.php.net/",
+                "logo": "https://www.php.net/favicon.ico",
+                "tags": [
+                    "php",
+                    "php文档"
+                ]
+            },
+            {
+                "title": "Welcome to Python.org",
+                "desc": "The official home of the Python Programming Language",
+                "url": "https://www.python.org/",
+                "logo": "https://www.python.org/static/favicon.ico",
+                "tags": [
+                    "python"
+                ]
+            },
+            {
+                "title": "Dart 编程语言主页 | Dart",
+                "desc": "Dart 是一个针对全平台优化的编程语言。",
+                "url": "https://dart.cn/",
+                "logo": "https://dart.cn/assets/shared/dart/icon/64.png",
+                "tags": [
+                    "dart"
+                ]
+            },
+            {
+                "title": "PowerShell Documentation - PowerShell | Microsoft Docs",
+                "desc": "Official product documentation for PowerShell",
+                "url": "https://docs.microsoft.com/en-us/powershell/",
+                "logo": "https://docs.microsoft.com/favicon.ico",
+                "tags": [
+                    "PowerShell",
+                    "官方文档"
+                ]
+            },
+            {
+                "title": "GraphQL | 一种为你的 API 而生的查询语言",
+                "desc": "GraphQL 提供了 API 中数据的完整描述，提供让客户端能够准确地获取需要的数据而不包含任何冗余的能力，让 API 更加容易随着时间推移而演进，并提供强大的开发者工具。",
+                "url": "https://graphql.cn/",
+                "logo": "https://graphql.cn/img/favicon.png",
+                "tags": ["API"]
+            }
+        ]
+    },
+    {
+        "name": "文档",
+        "icon": "file",
+        "sites": [
+            {
+                "title": "JavaScript | MDN",
+                "desc": "本部分将专注于 JavaScript 语言本身，而非局限于网页或其他限制环境。想要了解网页有关的 APIs ，请参考 Web APIs 以及 DOM。",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
+                "logo": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
+                "tags": [
+                    "js",
+                    "MDN"
+                ]
+            }
+        ]
+    }
+]
