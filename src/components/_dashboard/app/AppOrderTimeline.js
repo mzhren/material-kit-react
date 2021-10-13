@@ -17,27 +17,27 @@ import { fDateTime } from '../../../utils/formatTime';
 
 const TIMELINES = [
   {
-    title: '1983, orders, $4220',
+    title: '前端通过MUI V4重构,部署 http://startpage.site',
     time: faker.date.past(),
     type: 'order1'
   },
   {
-    title: '12 Invoices have been paid',
+    title: '部署上线 http://sp.mzh.ren/',
     time: faker.date.past(),
     type: 'order2'
   },
   {
-    title: 'Order #37745 from September',
+    title: '网站API开发(Express)',
     time: faker.date.past(),
     type: 'order3'
   },
   {
-    title: 'New order placed #XF-2356',
+    title: '网站前端开发',
     time: faker.date.past(),
     type: 'order4'
   },
   {
-    title: 'New order placed #XF-2346',
+    title: '购买startpage.site域名',
     time: faker.date.past(),
     type: 'order5'
   }
@@ -86,7 +86,7 @@ export default function AppOrderTimeline() {
         }
       }}
     >
-      <CardHeader title="Order Timeline" />
+      <CardHeader title="网站更新日志" />
       <CardContent>
         <Timeline>
           {TIMELINES.map((item, index) => (

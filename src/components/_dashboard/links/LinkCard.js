@@ -5,7 +5,7 @@ import CardActionArea from '@material-ui/core/CardActionArea';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import CardHeader from '@material-ui/core/CardHeader';
-import { Avatar, IconButton, Typography, Chip,Grid } from '@material-ui/core';
+import { Avatar, IconButton, Typography, Chip, Grid } from '@material-ui/core';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import Rating from '@material-ui/lab/Rating';
 
@@ -18,7 +18,6 @@ const contentStyle = {
 
 const headerTitleStyle = {
     overflow: "hidden",
-    whiteSpace: "nowrap",
     textOverflow: "ellipsis",
     maxWidth: "80%"
 }
@@ -37,12 +36,14 @@ function LinkCard({ link }) {
                     </Avatar>
                 }
                     action={
-                        <IconButton aria-label="settings">
+                        <IconButton aria-label="settings" onClick={(e) => {
+                            e.preventDefault();
+                        }} >
                             <MoreVertIcon />
                         </IconButton>
                     }
                     title={
-                        <Typography gutterBottom variant="h5" component="h3" style={headerTitleStyle}>
+                        <Typography gutterBottom variant="h5" noWrap component="h3" style={headerTitleStyle}>
                             {title}
                         </Typography>
                     }

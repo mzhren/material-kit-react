@@ -66,7 +66,7 @@ export default function Searchbar() {
               autoFocus
               fullWidth
               disableUnderline
-              placeholder="Search…"
+              placeholder="站内搜索…"
               startAdornment={
                 <InputAdornment position="start">
                   <Box

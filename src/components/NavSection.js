@@ -63,8 +63,9 @@ function NavItem({ item, active }) {
     color: 'primary.main',
     fontWeight: 'fontWeightMedium',
     bgcolor: alpha(theme.palette.primary.main, theme.palette.action.selectedOpacity),
-    '&:before': { display: 'block' }
+    '&:before': { display: 'block' },
   };
+
 
   const activeSubStyle = {
     color: 'text.primary',

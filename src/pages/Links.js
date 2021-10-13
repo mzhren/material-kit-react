@@ -10,13 +10,23 @@ import {
     LinkList
 } from '../components/_dashboard/links';
 
+const LINK_GROUP = {
+    blogs:"个人博客",
+    pl:"语言框架",
+    sns:"圈子社区",
+    game3c:"数码娱乐",
+    tool:"工具软件",
+    online:"在线工具",
+    resources:"资源教程"
+}
+
 
 function Links() {
-    console.log('slug changed')
     const { slug } = useParams()
-    console.log(slug)
 
     const [sites, setSites] = useState([])
+
+    const pageTitle = `${LINK_GROUP[slug]} | StartPage.site`;
 
     useEffect(() => {
         let list_data_url = document.location.origin + '/data/home.json';
@@ -32,7 +42,7 @@ function Links() {
             });
     }, [slug]);
     return (
-        <Page title="Dashboard: Products | Minimal-UI">
+        <Page title={pageTitle}>
             <Container maxWidth="xl">
                
 

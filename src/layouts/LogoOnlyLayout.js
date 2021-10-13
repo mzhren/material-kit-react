@@ -24,7 +24,7 @@ export default function LogoOnlyLayout() {
   return (
     <>
       <HeaderStyle>
-        <RouterLink to="/">
+        <RouterLink style={{ textDecoration: 'none' }} to="/">
           <Logo />
         </RouterLink>
       </HeaderStyle>

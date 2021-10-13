@@ -14,11 +14,11 @@ import {
 // ----------------------------------------------------------------------
 
 const TASKS = [
-  'Create FireStone Logo',
-  'Add SCSS and JS files if required',
-  'Stakeholder Meeting',
-  'Scoping & Estimations',
-  'Sprint Showcase'
+  '优化网站Logo',
+  '重构RSS订阅器模块',
+  '增加SSL证书',
+  '性能调优',
+  '后端API适配'
 ];
 
 // ----------------------------------------------------------------------
@@ -70,7 +70,7 @@ export default function AppTasks() {
 
   return (
     <Card>
-      <CardHeader title="Tasks" />
+      <CardHeader title="今日待办" />
       <Box sx={{ px: 3, py: 1 }}>
         <FormikProvider value={formik}>
           <Form autoComplete="off" noValidate onSubmit={handleSubmit}>
