@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import SearchForm from './SearchForm';
 import searchOptions from './SearchOptionData';
 import SearchType from './SearchType';
@@ -10,12 +10,12 @@ function AppGlobalSearch() {
     let searchItems = searchOptions.find((option, k) => {
         return option.type === sType
     })
-    const [sId, setSId] = useState(searchItems.default)
+    let [sId, setSId] = useState(searchItems.default)
     let defaultSObj = searchItems.items.find((item, k) => item.id === searchItems.default)
-    const [sObj, setSObj] = useState(defaultSObj)
+    let [sObj, setSObj] = useState(defaultSObj)
 
 
-    function typeChanged() {
+    function typeChanged(sType) {
         searchItems = searchOptions.find((option, k) => {
             return option.type === sType
         })
@@ -24,12 +24,9 @@ function AppGlobalSearch() {
         setSObj(defaultSObj)
     }
 
-    useEffect(() => {
-        typeChanged()
-    }, [sType])
-
     const changeSearchType = (type) => {
         setSType(type);
+        typeChanged(type);
     }
 
     const changeSObj = (item) => {
