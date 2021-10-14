@@ -172,6 +172,39 @@ const gitee = {
     "query": "q"
 }
 
+const youtube = {
+    "action":"https://www.youtube.com/results",
+    "id":"youtube",
+    "name":"油管",
+    "placeholder":"youtube",
+    "query":"search_query"
+}
+
+const bilibili = {
+    "action":"https://search.bilibili.com/all",
+    "id":"bilibili",
+    "name":"B站",
+    "placeholder":"bilibili",
+    "query":"keyword"
+}
+
+const vqq = {
+    "action":"https://v.qq.com/x/search/",
+    "id":"vqq",
+    "name":"腾讯视频",
+    "placeholder":"腾讯视频",
+    "query":"q"
+}
+
+
+const iqiyi = {
+    "action":"https://www.iq.com/search",
+    "id":"iqiyi",
+    "name":"爱奇异",
+    "placeholder":"爱奇异",
+    "query":"query"
+}
+
 const searchOptions = [
     {
         name: "常用",
@@ -198,6 +231,12 @@ const searchOptions = [
         type: 'repo',
         default: 'github',
         items: [github,gitee]
+    },
+    {
+        name: "视频",
+        type: 'video',
+        default: 'youtube',
+        items: [youtube,bilibili,vqq,iqiyi]
     },
     {
         name:"图片",
