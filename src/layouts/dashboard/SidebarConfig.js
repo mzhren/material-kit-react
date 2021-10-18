@@ -1,5 +1,5 @@
 import { Icon } from '@iconify/react';
-import { Home, LocalCafe, Code, GitHub,VideogameAsset,Build,Web,CloudDownload,RssFeed } from '@material-ui/icons';
+import { Home, LocalCafe, Code, GitHub,VideogameAsset,Build,Web,CloudDownload,RssFeed,Book,Gesture } from '@material-ui/icons';
 // import peopleFill from '@iconify/icons-eva/people-fill';
 // import shoppingBagFill from '@iconify/icons-eva/shopping-bag-fill';
 // import fileTextFill from '@iconify/icons-eva/file-text-fill';
@@ -35,6 +35,18 @@ const sidebarConfig = [
     title: '奇趣娱乐',
     path: '/links/game3c',
     icon: <VideogameAsset />
+  },
+
+  {
+    title: '电子阅读',
+    path: '/links/ereading',
+    icon: <Book />
+  },
+
+  {
+    title: '设计图标',
+    path: '/links/design',
+    icon: <Gesture />
   },
   {
     title: '工具软件',

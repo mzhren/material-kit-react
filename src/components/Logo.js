@@ -18,7 +18,7 @@ const LogoTitleStyle = {
 export default function Logo({ sx }) {
   return (
     <Box display="flex">
-      <Box component="img" src="/static/logo.svg" sx={{ width: 40, height: 40, ...sx }} />
+      <Box component="img" src="/static/logo.png" sx={{ width: 40, height: 40, ...sx }} />
       <Typography style={LogoTitleStyle} ml={1} variant="h1">StartPage.site</Typography>
     </Box>
   )

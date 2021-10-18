@@ -11,13 +11,15 @@ import {
 } from '../components/_dashboard/links';
 
 const LINK_GROUP = {
-    blogs:"个人博客",
+    blogs:"技术博客",
     pl:"语言框架",
     sns:"圈子社区",
     game3c:"数码娱乐",
     tool:"工具软件",
     online:"在线工具",
-    resources:"资源教程"
+    resources:"资源教程",
+    ereading:"电子阅读",
+    design:"设计图标"
 }
 
 
