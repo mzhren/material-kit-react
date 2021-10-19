@@ -9,7 +9,7 @@ import {
 
 
 
-const SearchForm = ({ action, query, placeholder }) => {
+const SearchForm = ({ action, query, placeholder,query2 }) => {
 
     const theme = useTheme();
 
@@ -38,6 +38,7 @@ const SearchForm = ({ action, query, placeholder }) => {
                 </Box>
                 <input type="hidden" id="hidden-text" className="input-hidden" name="from" value="startpage.site" />
                 <input type="submit" className="btn-submit" value="提交" hidden />
+                { query2 && <input type="hidden" id="hidden-query-2" className="input-hidden" name={query2.name} value={query2.value} />}
             </form>
         </div>
     )

@@ -19,18 +19,18 @@ const contentStyle = {
 const headerTitleStyle = {
     overflow: "hidden",
     textOverflow: "ellipsis",
-    maxWidth: "80%"
+    maxWidth: "200px"
 }
 
 
 function LinkCard({ link }) {
     console.log(link);
-    const { title, desc, logo, url, tags } = link;
-    const [rate, setRate] = useState(4.5)
+    const { title, desc, logo, url, tags,rating=4.5 } = link;
+    const [rate, setRate] = useState(rating)
     return (
         <Card>
             <CardActionArea href={url} target="_blank">
-                <CardHeader avatar={
+                <CardHeader display="flex" avatar={
                     <Avatar aria-label="recipe" className="avatar" src={logo}>
                         SP
                     </Avatar>

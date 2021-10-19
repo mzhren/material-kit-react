@@ -97,11 +97,28 @@ const stackoverflow = {
 }
 
 const weixin = {
-    "action":"https://weixin.sogou.com/weixin",
+    "action":"https://weixin.sogou.com/weixin?type=2",
     "id": "weixin",
-    "name": "微信",
+    "name": "微信文章",
     "placeholder": "微信文章",
-    "query": "query"
+    "query": "query",
+    "query2":{
+        "name":"type",
+        "value":2
+    }
+}
+
+
+const wxgzh = {
+    "action":"https://weixin.sogou.com/weixin",
+    "id": "wxgzh",
+    "name": "微信公众号",
+    "placeholder": "微信公众号",
+    "query": "query",
+    "query2":{
+        "name":"type",
+        "value":1
+    }
 }
 
 
@@ -188,6 +205,14 @@ const bilibili = {
     "query":"keyword"
 }
 
+const zlib = {
+    "action":"https://book4you.org/s/",
+    "id":"zlib",
+    "name":"Z-Library",
+    "placeholder":"Z-Library——the world's largest ebook library",
+    "query":"q"
+}
+
 const vqq = {
     "action":"https://v.qq.com/x/search/",
     "id":"vqq",
@@ -210,7 +235,7 @@ const searchOptions = [
         name: "常用",
         type: "most",
         default: 'google',
-        items: [google, baidu, github, bing, jd, taobao]
+        items: [google, baidu, github, bing, zlib,jd, taobao]
     },
     {
         name: "搜索",
@@ -223,7 +248,7 @@ const searchOptions = [
         name: "社区",
         type: 'sns',
         default: 'stackoverflow',
-        items: [stackoverflow,segmentfault,juejin,weixin,jianshu,zhihu,csdn,douban]
+        items: [stackoverflow,segmentfault,juejin,weixin,wxgzh,jianshu,zhihu,csdn,douban]
     },
 
     {

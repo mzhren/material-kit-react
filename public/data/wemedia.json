@@ -1,0 +1,50 @@
+[
+  {
+    "name": "自媒体",
+    "sites": [
+      {
+        "title": "微信公众号",
+        "desc": "微信公众号",
+        "url": "https://mp.weixin.qq.com/",
+        "logo": "https://res.wx.qq.com/a/fed_upload/9300e7ac-cec5-4454-b75c-f92260dd5b47/logo-mp.ico",
+        "tags": [],
+        "rating":3
+      },
+      {
+        "title": "百家号",
+        "desc": "百家号",
+        "url": "https://baijiahao.baidu.com/",
+        "logo": "https://www.baidu.com/favicon.ico?t=20171027",
+        "tags": []
+      },
+      {
+        "title": "登录-腾讯内容开放平台",
+        "desc": "登录-腾讯内容开放平台",
+        "url": "https://om.qq.com/userAuth/index",
+        "logo": "https://om.gtimg.cn/om/om_2.0/images/favicon_om.ico",
+        "tags": []
+      },
+      {
+        "title": "网易号",
+        "desc": "登录 - 媒体开放平台 - 网易号",
+        "url": "https://mp.163.com/login.html?url=https%3A%2F%2Fmp.163.com%2F",
+        "logo": "https://static.ws.126.net/utf8/mp/favicon.ico",
+        "tags": []
+      },
+      {
+        "title": "新浪看点平台",
+        "desc": "新浪看点是新浪网为自媒体提供的优质原创内容生产平台。作为新浪核心战略级产品，新浪看点全方位打通新浪系资源， 原创内容将在新浪新闻客户端、新浪微博、手机新浪网和新浪网等多个平台分发。帮助自媒体人提升自身价值、打造个人IP，实现商业变现、收益增值。",
+        "url": "https://mp.sina.com.cn/",
+        "logo": "https://mjs.sinaimg.cn/wap/public/addToHome/201404101830/images/sinacn-114_114.png?pos=108&vt=4",
+        "tags": []
+      },
+      {
+        "title": "大鱼号官网",
+        "desc": "大鱼号是阿里文娱体系为内容创作者提供的统一账号。大鱼号实现了阿里文娱体系一点接入，多点分发。内容创作者一点接入大鱼号，上传图文/视频可被分发到UC、优酷、土豆、淘系客户端，未来还会扩展到豌豆荚、神马搜索、PP助手等。",
+        "url": "https://mp.dayu.com/?redirect_url=",
+        "logo": "https://image.uc.cn/s/uae/g/1v/images/index/favicon.ico",
+        "tags": []
+      }
+    ]
+  }
+]

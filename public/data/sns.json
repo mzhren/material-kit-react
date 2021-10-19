@@ -1,5 +1,18 @@
 [
   {
+    "name": "代码托管",
+    "sites": [
+      {
+        "title": "GitHub",
+        "desc": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
+        "url": "https://github.com/",
+        "logo": "https://github.com/fluidicon.png",
+        "tags": ["圣城","开源"],
+        "rating":5
+      }
+    ]
+  },
+  {
     "name": "码农社区",
     "sites": [
       {
@@ -68,7 +81,7 @@
         "desc": "抛砖问答(PZWD)又称“P站问答“，是一个非商业性质的，独立的，开放的，程序员的问答社区。提供Stackoverflow最热门问题与答案。",
         "url": "https://pzwd.net/",
         "logo": "https://pzwd.net/assets/favicon-vbeszurg.png",
-        "tags": ["问答","stackoverflow"]
+        "tags": ["问答", "stackoverflow"]
       }
     ]
   }
