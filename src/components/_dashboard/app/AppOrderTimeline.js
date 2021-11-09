@@ -35,8 +35,7 @@ const TIMELINES = [
     title: '网站前端开发',
     time: faker.date.past(),
     type: 'order4'
-  },
-  {
+  }, {
     title: '购买startpage.site域名',
     time: faker.date.past(),
     type: 'order5'

@@ -29,6 +29,25 @@
         "url": "https://refactoringguru.cn/",
         "logo": "https://refactoringguru.cn/favicon.ico?id=e1894c5648d77c8db9cb",
         "tags": ["设计模式","重构"]
+      }, {
+        "title": "小浩算法 | 小浩算法",
+        "desc": "和小浩一起学算法",
+        "url": "https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html",
+        "logo": "https://www.geekxh.com/favicon.ico",
+        "tags": ["算法"],
+        "rating": 4.6
+      }
+    ]
+  },{
+    "name": "慕课平台",
+    "sites": [
+      {
+        "title": "Learn to Code — For Free — Coding Courses for Busy People",
+        "desc": "Learn to Code — For Free",
+        "url": "https://www.freecodecamp.org/",
+        "logo": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
+        "tags": ["免费"],
+        "rating":4.6
       }
     ]
   },

@@ -94,18 +94,26 @@
         "tags": ["flutter"]
       },
       {
+        "title": "Electron | 使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序。",
+        "desc": "Electron | 使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序。",
+        "url": "https://www.electronjs.org/",
+        "logo": "https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico",
+        "tags": ["WEB技术","开源","跨平台"],
+        "rating":4.8
+      },
+      {
         "title": "MUI: The React component library you always wanted",
         "desc": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design. You will develop React applications faster.",
         "url": "https://mui.com/zh/",
         "logo": "https://mui.com/static/favicon.ico",
-        "tags": ["Material-UI", "React","V5"]
+        "tags": ["Material-UI", "React", "V5"]
       },
       {
         "title": "Material-UI：当下流行的 React UI 框架",
         "desc": "React 组件用于更快速、更简便的 web 开发。你也可以建立你自己的设计系统，或者从 Material Design 开始。",
         "url": "https://v4.mui.com/zh/",
         "logo": "https://v4.mui.com/static/favicon.ico",
-        "tags": ["Material-UI","V4"]
+        "tags": ["Material-UI", "V4"]
       }
     ]
   },
