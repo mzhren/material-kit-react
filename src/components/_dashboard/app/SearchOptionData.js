@@ -30,6 +30,14 @@ const jd = {
     "query": "keyword"
 }
 
+const duck = {
+    "action":"https://duckduckgo.com/",
+    "id": "duck",
+    "name": "DuckDuckGo",
+    "placeholder": "DuckDuckGo",
+    "query": "q"
+}
+
 const taobao = {
     "id": "taobao",
     "name": "淘宝",
@@ -241,7 +249,7 @@ const searchOptions = [
         name: "搜索",
         type: 'serach',
         default: 'baidu',
-        items: [google, bing, baidu,so360,sogou,sm]
+        items: [google, bing, baidu,duck,so360,sogou,sm]
     },
 
     {

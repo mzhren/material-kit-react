@@ -1,183 +1,200 @@
-[{
-    "name": "游戏数码",
-    "sites": [
-        {
-            "title": "少数派 - 高效工作，品质生活",
-            "desc": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
-            "url": "https://sspai.com/",
-            "logo": "https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico",
-            "tags": [
-                "效率",
-                "软件",
-                "评测"
-            ]
-        },
-        {
-            "title": "钛媒体-专业无止境",
-            "desc": "【钛媒体官方网站】钛媒体是国内首家TMT公司人社群媒体，最有钛度的一人一媒体平台，集信息交流融合、IT技术信息、新媒体于一身的媒体平台。",
-            "url": "https://www.tmtpost.com/",
-            "logo": "https://www.tmtpost.com/favicon.ico?v=1",
-            "tags":["科技资讯","社区","新媒体"]
-        },
-        {
-            "title": "机核",
-            "url": "https://www.gcores.com",
-            "logo": "https://www.gcores.com/apple-touch-icon.png?v=jw7pQOOwRY",
-            "desc": "机核从2010年开始一直致力于分享游戏玩家的生活，以及深入探讨游戏相关的文化。",
-            "tags": [
-                "游戏",
-                "二次元",
-                "书影音"
-            ]
-        },
-        {
-            "title": "数字尾巴 分享美好数字生活",
-            "desc": "致力于分享美好数字生活体验，囊括你闻所未闻的最丰富数码资讯，触所未触最抢鲜产品评测，随时随地感受尾巴们各式数字生活精彩图文、摄影感悟、旅行游记、爱物分享。旗下产品：精品电商平台「尾巴良品」 ；移动客户端「数字尾巴」 ，覆盖 iOS、Android 两大主流平台。",
-            "url": "https://www.dgtle.com/",
-            "logo": "https://www.dgtle.com/favicon.ico",
-            "tags": [
-                "摄影",
-                "数码",
-                "评测"
-            ]
-        }
-    ]
-},{
-    "name": "有趣网站",
-    "sites": [
-        {
-            "title": "ArchDaily | 传播世界建筑",
-            "desc": "ArchDaily, 传播世界建筑: 为建筑专业人士时刻更新建筑新闻，竞赛和最新项目",
-            "url": "https://www.archdaily.cn/cn",
-            "logo": "https://assets.adsttc.com/ico/cn/apple-touch-icon-57x57.png",
-            "tags": [
-                "建筑"
-            ]
-        },
-        {
-            "title": "100,000 Stars",
-            "desc": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
-            "url": "http://stars.chromeexperiments.com/",
-            "logo": "http://stars.chromeexperiments.com/favicon.ico",
-            "tags": [
-                "天文"
-            ]
-        },
-        {
-            "title": "Things Come Apart - TODD MCLELLAN MOTION/STILLS",
-            "desc": "Project of disassembled objects shown in detail in a flat lay. Once laid out, the pieces were thrown through the air.",
-            "url": "https://www.toddmclellan.com/",
-            "logo": "https://format-com-cld-res.cloudinary.com/image/upload/s--flgw5fDD--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive,q_95/51589-2992525-Apart_Phone_ICON.ico",
-            "tags": [
-                "分解"
-            ]
-        },
-        {
-            "title": "Welcome to Method of Action",
-            "desc": "Method of Action is education made fun",
-            "url": "https://method.ac/",
-            "logo": "https://method.ac/favicon-32x32.png",
-            "tags": [
-                "ps",
-                "设计",
-                "游戏"
-            ]
-        },
-        {
-            "title": "开源表情包",
-            "desc": "PP制造计划 开源表情包",
-            "url": "https://www.v2fy.com/asset/0i/ChineseBQB/",
-            "logo": "https://www.v2fy.com/asset/0i/ChineseBQB/icon.png",
-            "tags": [
-                "表情包",
-                "斗图"
-            ]
-        }
-    ]
-},
-{
-    "name": "漫画",
-    "sites": [
-        {
-            "title": "日本漫画 漫画大全 看漫画 在线漫画-漫画DB",
-            "desc": "漫画DB是全网最专业的日本漫画大全资料库。网站上的所有漫画均可免费在线看，同时每部漫画都有丰富的资料，包括登场人物、用语、设定、改编作品及创作幕后等深层的内容。",
-            "url": "https://www.manhuadb.com/",
-            "logo": "https://www.manhuadb.com/assets/www/img/favicon.png",
-            "tags": [
-                "日本漫画",
-                "在线"
-            ]
-        },
-        {
-            "title": "六漫画 - 好看的热门漫画_最新最全漫画_免费观看",
-            "desc": "六漫画为您推荐全网最新最全漫画，漫画在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。第一时间更新漫画。",
-            "url": "http://6mh7.com/",
-            "logo": "http://6mh7.com/favicon.ico",
-            "tags": [
-                "漫画"
-            ]
-        },
-        {
-            "title": "日本漫畫_在線漫畫閱讀第一站_mangabz",
-            "desc": "mangabz是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人178、海賊王993、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
-            "url": "http://mangabz.com/",
-            "logo": "http://mangabz.com/favicon.ico",
-            "tags": [
-                "日本漫畫"
-            ]
-        },
-        {
-            "title": "Webtoon XYZ : Read Webtoon (Korean Manhwa) in English Online Free!",
-            "desc": "Digital platform for read Korean webtoons. Find your favorite premium manhwa and webtoons translated to english for free. Read Webtoon Online at WEBTOON XYZ",
-            "url": "https://www.webtoon.xyz/",
-            "logo": "https://www.webtoon.xyz/wp-content/uploads/2020/09/cropped-favicon-512x512-1-32x32.png",
-            "tags": [
-                "韩国燙",
-                "18+",
-                "英语"
-            ]
-        },
-        {
-            "title": "看漫画网 mh-mh.com-免费日韩漫画、美女写真，无弹窗无广告",
-            "desc": "看漫画网 mh-mh.com提供免费日韩漫画和美女写真，看漫画网 mh-mh.com收录全网最好看的漫画最新章节，免费阅读下载、无弹窗！",
-            "url": "https://www.mh-mh.com/",
-            "logo": "https://www.mh-mh.com/static/touch-icon.png",
-            "tags": [
-                "日韩漫画",
-                "18+"
-            ]
-        },
-        {
-            "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
-            "desc": "With more than half a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.",
-            "url": "https://e-hentai.org/",
-            "logo": "https://e-hentai.org/favicon.ico",
-            "tags": [
-                "变态漫画",
-                "免费"
-            ]
-        }
-    ]
-},
-{
-    "name": "音乐",
-    "icon": "music",
-    "sites": [
-        {
-            "title": "网易云音乐",
-            "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
-            "url": "https://music.163.com/",
-            "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
-            "tags": ["云音乐"]
-        },
-        {
-            "title": "Deepwork.fm | The ultimate work playlist",
-            "desc": "With weeks of unique, carefully selected tunes. Pick one of our 4 channels or just hit random and do your thing.",
-            "url": "https://deepwork.fm/",
-            "logo": "https://deepwork.fm/assets/images/favicon.png?v89893136269951",
-            "tags": [
-                "fm"
-            ]
-        }
-    ]
-}]
+[
+    {
+        "name": "游戏数码",
+        "sites": [
+            {
+                "title": "少数派 - 高效工作，品质生活",
+                "desc": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
+                "url": "https://sspai.com/",
+                "logo": "https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico",
+                "tags": [
+                    "效率",
+                    "软件",
+                    "评测"
+                ]
+            },
+            {
+                "title": "钛媒体-专业无止境",
+                "desc": "【钛媒体官方网站】钛媒体是国内首家TMT公司人社群媒体，最有钛度的一人一媒体平台，集信息交流融合、IT技术信息、新媒体于一身的媒体平台。",
+                "url": "https://www.tmtpost.com/",
+                "logo": "https://www.tmtpost.com/favicon.ico?v=1",
+                "tags": [
+                    "科技资讯",
+                    "社区",
+                    "新媒体"
+                ]
+            },
+            {
+                "title": "机核",
+                "url": "https://www.gcores.com",
+                "logo": "https://www.gcores.com/apple-touch-icon.png?v=jw7pQOOwRY",
+                "desc": "机核从2010年开始一直致力于分享游戏玩家的生活，以及深入探讨游戏相关的文化。",
+                "tags": [
+                    "游戏",
+                    "二次元",
+                    "书影音"
+                ]
+            },
+            {
+                "title": "数字尾巴 分享美好数字生活",
+                "desc": "致力于分享美好数字生活体验，囊括你闻所未闻的最丰富数码资讯，触所未触最抢鲜产品评测，随时随地感受尾巴们各式数字生活精彩图文、摄影感悟、旅行游记、爱物分享。旗下产品：精品电商平台「尾巴良品」 ；移动客户端「数字尾巴」 ，覆盖 iOS、Android 两大主流平台。",
+                "url": "https://www.dgtle.com/",
+                "logo": "https://www.dgtle.com/favicon.ico",
+                "tags": [
+                    "摄影",
+                    "数码",
+                    "评测"
+                ]
+            },
+            {
+                "title": "游研社",
+                "desc": "游研社是以游戏内容为主的新媒体，出品内容包括大量游戏、动漫有关的研究文章和社长聊街机、社长说、游研剧场、老四强等系列视频内容",
+                "url": "https://www.yystv.cn/",
+                "logo": "https://alioss.yystv.cn/images/yyslogo124.png",
+                "tags": ["游戏","动漫"],
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "name": "有趣网站",
+        "sites": [
+            {
+                "title": "ArchDaily | 传播世界建筑",
+                "desc": "ArchDaily, 传播世界建筑: 为建筑专业人士时刻更新建筑新闻，竞赛和最新项目",
+                "url": "https://www.archdaily.cn/cn",
+                "logo": "https://assets.adsttc.com/ico/cn/apple-touch-icon-57x57.png",
+                "tags": [
+                    "建筑"
+                ]
+            },
+            {
+                "title": "100,000 Stars",
+                "desc": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
+                "url": "http://stars.chromeexperiments.com/",
+                "logo": "http://stars.chromeexperiments.com/favicon.ico",
+                "tags": [
+                    "天文"
+                ]
+            },
+            {
+                "title": "Things Come Apart - TODD MCLELLAN MOTION/STILLS",
+                "desc": "Project of disassembled objects shown in detail in a flat lay. Once laid out, the pieces were thrown through the air.",
+                "url": "https://www.toddmclellan.com/",
+                "logo": "https://format-com-cld-res.cloudinary.com/image/upload/s--flgw5fDD--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive,q_95/51589-2992525-Apart_Phone_ICON.ico",
+                "tags": [
+                    "分解"
+                ]
+            },
+            {
+                "title": "Welcome to Method of Action",
+                "desc": "Method of Action is education made fun",
+                "url": "https://method.ac/",
+                "logo": "https://method.ac/favicon-32x32.png",
+                "tags": [
+                    "ps",
+                    "设计",
+                    "游戏"
+                ]
+            },
+            {
+                "title": "开源表情包",
+                "desc": "PP制造计划 开源表情包",
+                "url": "https://www.v2fy.com/asset/0i/ChineseBQB/",
+                "logo": "https://www.v2fy.com/asset/0i/ChineseBQB/icon.png",
+                "tags": [
+                    "表情包",
+                    "斗图"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "漫画",
+        "sites": [
+            {
+                "title": "日本漫画 漫画大全 看漫画 在线漫画-漫画DB",
+                "desc": "漫画DB是全网最专业的日本漫画大全资料库。网站上的所有漫画均可免费在线看，同时每部漫画都有丰富的资料，包括登场人物、用语、设定、改编作品及创作幕后等深层的内容。",
+                "url": "https://www.manhuadb.com/",
+                "logo": "https://www.manhuadb.com/assets/www/img/favicon.png",
+                "tags": [
+                    "日本漫画",
+                    "在线"
+                ]
+            },
+            {
+                "title": "六漫画 - 好看的热门漫画_最新最全漫画_免费观看",
+                "desc": "六漫画为您推荐全网最新最全漫画，漫画在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。第一时间更新漫画。",
+                "url": "http://6mh7.com/",
+                "logo": "http://6mh7.com/favicon.ico",
+                "tags": [
+                    "漫画"
+                ]
+            },
+            {
+                "title": "日本漫畫_在線漫畫閱讀第一站_mangabz",
+                "desc": "mangabz是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人178、海賊王993、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
+                "url": "http://mangabz.com/",
+                "logo": "http://mangabz.com/favicon.ico",
+                "tags": [
+                    "日本漫畫"
+                ]
+            },
+            {
+                "title": "Webtoon XYZ : Read Webtoon (Korean Manhwa) in English Online Free!",
+                "desc": "Digital platform for read Korean webtoons. Find your favorite premium manhwa and webtoons translated to english for free. Read Webtoon Online at WEBTOON XYZ",
+                "url": "https://www.webtoon.xyz/",
+                "logo": "https://www.webtoon.xyz/wp-content/uploads/2020/09/cropped-favicon-512x512-1-32x32.png",
+                "tags": [
+                    "韩国燙",
+                    "18+",
+                    "英语"
+                ]
+            },
+            {
+                "title": "看漫画网 mh-mh.com-免费日韩漫画、美女写真，无弹窗无广告",
+                "desc": "看漫画网 mh-mh.com提供免费日韩漫画和美女写真，看漫画网 mh-mh.com收录全网最好看的漫画最新章节，免费阅读下载、无弹窗！",
+                "url": "https://www.mh-mh.com/",
+                "logo": "https://www.mh-mh.com/static/touch-icon.png",
+                "tags": [
+                    "日韩漫画",
+                    "18+"
+                ]
+            },
+            {
+                "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
+                "desc": "With more than half a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.",
+                "url": "https://e-hentai.org/",
+                "logo": "https://e-hentai.org/favicon.ico",
+                "tags": [
+                    "变态漫画",
+                    "免费"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "音乐",
+        "icon": "music",
+        "sites": [
+            {
+                "title": "网易云音乐",
+                "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+                "url": "https://music.163.com/",
+                "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
+                "tags": [
+                    "云音乐"
+                ]
+            },
+            {
+                "title": "Deepwork.fm | The ultimate work playlist",
+                "desc": "With weeks of unique, carefully selected tunes. Pick one of our 4 channels or just hit random and do your thing.",
+                "url": "https://deepwork.fm/",
+                "logo": "https://deepwork.fm/assets/images/favicon.png?v89893136269951",
+                "tags": [
+                    "fm"
+                ]
+            }
+        ]
+    }
+]
