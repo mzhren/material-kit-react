@@ -11,3 +11,4 @@ export { default as AppTrafficBySite } from './AppTrafficBySite';
 export { default as AppWebsiteVisits } from './AppWebsiteVisits';
 export { default as AppWeeklySales } from './AppWeeklySales';
 export { default as AppGlobalSearch } from './AppGlobalSearch';
+export { default as AppV2exNews } from './AppV2exNews';

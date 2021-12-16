@@ -14,6 +14,7 @@ import {
 // ----------------------------------------------------------------------
 
 const TASKS = [
+  '更新V2ex热帖子',
   '优化网站Logo',
   '重构RSS订阅器模块',
   '增加SSL证书',
@@ -59,7 +60,7 @@ function TaskItem({ task, checked, formik, ...other }) {
 export default function AppTasks() {
   const formik = useFormik({
     initialValues: {
-      checked: [TASKS[2]]
+      checked: [TASKS[0],TASKS[2]]
     },
     onSubmit: (values) => {
       console.log(values);

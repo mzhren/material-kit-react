@@ -6,7 +6,7 @@ import { keyframes } from "@material-ui/styled-engine";
 import Page from '../components/Page';
 import {
   AppTasks,
-  AppNewsUpdate,
+  AppV2exNews,
   AppGlobalSearch,
   AppOrderTimeline,
   AppTrafficBySite,
@@ -55,7 +55,7 @@ animation:
           </Grid>
 
           <Grid item xs={12} md={6} lg={8}>
-            <AppNewsUpdate />
+            <AppV2exNews />
           </Grid>
 
           <Grid item xs={12} md={6} lg={4}>
