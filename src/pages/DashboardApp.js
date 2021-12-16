@@ -9,7 +9,7 @@ import {
   AppV2exNews,
   AppGlobalSearch,
   AppOrderTimeline,
-  AppTrafficBySite,
+  AppOfficialAccount,
 } from '../components/_dashboard/app';
 
 // ----------------------------------------------------------------------
@@ -63,7 +63,7 @@ animation:
           </Grid>
 
           <Grid item xs={12} md={6} lg={4}>
-            <AppTrafficBySite />
+            <AppOfficialAccount />
           </Grid>
 
           <Grid item xs={12} md={6} lg={8}>

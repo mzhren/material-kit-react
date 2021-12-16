@@ -24,7 +24,6 @@ const headerTitleStyle = {
 
 
 function LinkCard({ link }) {
-    console.log(link);
     const { title, desc, logo, url, tags,rating=4.5 } = link;
     const [rate, setRate] = useState(rating)
     return (

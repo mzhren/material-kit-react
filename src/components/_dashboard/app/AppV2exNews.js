@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 import { Icon } from '@iconify/react';
 import { format } from 'date-fns';
-import { Link as RouterLink } from 'react-router-dom';
 import arrowIosForwardFill from '@iconify/icons-eva/arrow-ios-forward-fill';
 import { useState, useEffect } from 'react';
 // material
@@ -56,7 +55,7 @@ function NewsItem({ news }) {
                 src={image}
                 onError={e => {
                     e.target.src = "/static/logo.png";
-                  }}
+                }}
                 sx={{ width: 48, height: 48, borderRadius: 1.5 }}
             />
             <Box sx={{ minWidth: 240 }}>
@@ -70,7 +69,7 @@ function NewsItem({ news }) {
                 </Typography>
             </Box>
             <Typography variant="caption" sx={{ pr: 3, flexShrink: 0, color: 'text.secondary' }}>
-                { format(postedAt,'yyyy/mm/dd') }
+                {format(postedAt, 'yyyy/MM/dd')}
             </Typography>
         </Stack>
     );
@@ -106,12 +105,12 @@ function NewsItem({ news }) {
 
 export default function AppV2exNews() {
     const [newsList, setNewsList] = useState([]);
-    let url = 'https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json';
+    const todayDate = new Date().toISOString().slice(0, 10);
+    let url = 'https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json?timestamp' + todayDate;
     useEffect(() => {
 
         fetch(url).then((response) => response.json())
             .then((data) => {
-                console.log(data.posts);
                 setNewsList(data.posts)
             });
 
@@ -123,7 +122,7 @@ export default function AppV2exNews() {
             <Scrollbar>
                 <Stack spacing={3} sx={{ p: 3, pr: 0 }}>
                     {newsList.map((news) => (
-                        <NewsItem key={news.title} news={news} />
+                        <NewsItem key={news.id} news={news} />
                     ))}
                 </Stack>
             </Scrollbar>
@@ -132,10 +131,11 @@ export default function AppV2exNews() {
 
             <Box sx={{ p: 2, textAlign: 'right' }}>
                 <Button
-                    to="#"
+                    target="_blank"
+                    href="https://www.v2ex.com/"
                     size="small"
                     color="inherit"
-                    component={RouterLink}
+                    component={Link}
                     endIcon={<Icon icon={arrowIosForwardFill} />}
                 >
                     View all

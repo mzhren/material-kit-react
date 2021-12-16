@@ -9,9 +9,9 @@ const SearchType = ({ sType, searchOptions, changeSearchType }) => {
             {
                 searchOptions.map((option, k) => {
                     if (option.type === sType) {
-                        return (<Box mr={1}><Chip label={option.name} color="primary" deleteIcon={<DoneIcon />} clickable className="active" onClick={() => changeSearchType(option.type)} key={k} /></Box>)
+                        return (<Box mr={1} key={k}><Chip label={option.name} color="primary" deleteIcon={<DoneIcon />} clickable className="active" onClick={() => changeSearchType(option.type)} /></Box>)
                     } else {
-                        return (<Box mr={1}><Chip mr={1} label={option.name} variant="outlined" clickable onClick={() => changeSearchType(option.type)} key={k} /></Box>)
+                        return (<Box mr={1} key={k}><Chip mr={1} label={option.name} variant="outlined" clickable onClick={() => changeSearchType(option.type)} /></Box>)
                     }
                 })
             }

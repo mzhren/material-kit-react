@@ -9,10 +9,10 @@ const SearchOption = ({searchItems,sId,changeSObj}) => {
             {
                 searchItems.map((item,k)=>{
                     if(item.id === sId){
-                        return (<Box mr={1}><Chip className="active" color="primary"
-                        deleteIcon={<Done />} size="small" label={item.name} mr={1} variant="outlined" clickable onClick = {()=>changeSObj(item)} key={k} /></Box>)
+                        return (<Box key={k}  mr={1}><Chip className="active" color="primary"
+                        deleteIcon={<Done />} size="small" label={item.name} mr={1} variant="outlined" clickable onClick = {()=>changeSObj(item)} /></Box>)
                     }else{
-                        return (<Box mr={1}><Chip size="small" label={item.name} key={k} mr={1} variant="outlined" clickable onClick = {()=>changeSObj(item)} /></Box>)
+                        return (<Box mr={1} key={k} ><Chip size="small" label={item.name} mr={1} variant="outlined" clickable onClick = {()=>changeSObj(item)} /></Box>)
                     }
                 })
             }
