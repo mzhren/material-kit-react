@@ -7,8 +7,48 @@
         "desc": "GitHub is where people build software. More than 65 million people use GitHub to discover, fork, and contribute to over 200 million projects.",
         "url": "https://github.com/",
         "logo": "https://github.com/fluidicon.png",
-        "tags": ["圣城","开源"],
-        "rating":5
+        "tags": [
+          "圣城",
+          "开源",
+          "git",
+          "DevOps"
+        ],
+        "rating": 5
+      },
+      {
+        "title": "Iterate faster, innovate together | GitLab",
+        "desc": "GitLab's DevOps platform is a single application for unparalleled collaboration, visibility, and development velocity. Learn more here!",
+        "url": "https://about.gitlab.com/",
+        "logo": "https://about.gitlab.com/ico/favicon.ico",
+        "tags": [
+          "git",
+          "en",
+          "DevOps"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "CODING - 一站式软件研发管理平台",
+        "desc": "CODING 是一站式软件研发管理协作平台，提供 Git/SVN 代码托管、项目协同、测试管理、制品库、CI/CD 等一系列在线工具，帮助研发团队快速落地敏捷开发与 DevOps 开发方式，提升研发管理效率，实现研发效能升级。",
+        "url": "https://coding.net/",
+        "logo": "https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico",
+        "tags": [
+          "国内",
+          "git",
+          "DevOps"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "Gitee - 基于 Git 的代码托管和研发协作平台",
+        "desc": "Gitee.com（码云） 是 OSCHINA.NET 推出的代码托管平台，支持 Git 和 SVN，提供免费的私有仓库托管。目前已有超过 600 万的开发者选择 Gitee。",
+        "url": "https://gitee.com/",
+        "logo": "https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico",
+        "tags": [
+          "cn",
+          "git"
+        ],
+        "rating": 4.9
       }
     ]
   },
@@ -20,56 +60,126 @@
         "desc": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
         "url": "https://www.v2ex.com/",
         "logo": "https://www.v2ex.com/static/img/v2ex_192.png",
-        "tags": ["论坛", "创意", "IT"]
+        "tags": [
+          "论坛",
+          "创意",
+          "IT"
+        ]
+      },
+      {
+        "title": "Stack Overflow - Where Developers Learn, Share, & Build Careers",
+        "desc": "Stack Overflow is the largest, most trusted online community for developers to learn, share​ ​their programming ​knowledge, and build their careers.",
+        "url": "https://stackoverflow.com/",
+        "logo": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+        "tags": [
+          "开发者社区",
+          "问答",
+          "en"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "SegmentFault 思否",
+        "desc": "SegmentFault 思否是中国领先的开发者技术社区。我们以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，为开发者提供纯粹、高质的技术交流平台。",
+        "url": "https://segmentfault.com/",
+        "logo": "https://cdn.segmentfault.com/r-753f514f/favicon.ico",
+        "tags": [
+          "开发者社区",
+          "问答"
+        ],
+        "rating": 4.9
       },
       {
         "title": "Hi!PDA Hi!PDA",
         "desc": " Hi!PDA  - Board",
         "url": "https://www.hi-pda.com/forum/",
         "logo": "https://www.hi-pda.com/favicon.ico",
-        "tags": ["数码", "二手", "discovery"]
+        "tags": [
+          "数码",
+          "二手",
+          "discovery"
+        ]
+      },
+      {
+        "title": "DEV Community 👩‍💻👨‍💻",
+        "desc": "A constructive and inclusive social network for software developers. With you every step of your journey.",
+        "url": "https://dev.to/",
+        "logo": "https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico",
+        "tags": [
+          "开发者社区",
+          "博客平台"
+        ],
+        "rating": 4.9
       },
       {
         "title": "36氪_让一部分人先看到未来",
         "desc": "36氪通过全面，独家的视角为用户深度剖析最前沿的资讯，致力于让一部分人先看到未来，内容涵盖快讯，科技，金融，投资，房产，汽车，互联网，股市，教育，生活，职场等，秉承着新商业媒体人的使命砥砺前行",
         "url": "https://www.36kr.com/",
         "logo": "https://www.36kr.com/favicon.ico",
-        "tags": ["资讯", "金融", "互联网"]
+        "tags": [
+          "资讯",
+          "金融",
+          "互联网"
+        ]
       },
       {
         "title": "极客公园-推动商业新变量",
         "desc": "极客公园聚焦互联网领域，跟踪最新的科技新闻动态，关注极具创新精神的科技产品。目前涵盖前沿科技、游戏、手机评测、硬件测评、出行方式、共享经济、人工智能等全方位的科技生活内容。现有前沿社、挖App、深度报道、极客养成指南等多个内容栏目。",
         "url": "http://www.geekpark.net/",
         "logo": "http://imgslim.geekpark.net/geekpark-icon-196-03ac430f5643fc17aba3b3f5429a287d.png",
-        "tags": ["游戏", "评测", "前沿科技"]
+        "tags": [
+          "游戏",
+          "评测",
+          "前沿科技"
+        ]
       },
       {
         "title": "雷锋网_读懂智能&未来",
         "desc": "雷锋网成立于2011年，秉承“关注智能与未来”的宗旨，持续对全球前沿技术趋势与产品动态进行深入调研与解读，是国内具有代表性的实力型科技新媒体与信息服务平台.",
         "url": "https://www.leiphone.com/",
         "logo": "https://www.leiphone.com/favicon.ico",
-        "tags": ["前沿科技", "新媒体", "智能"]
+        "tags": [
+          "前沿科技",
+          "新媒体",
+          "智能"
+        ]
       },
       {
         "title": "PingWest 品玩-有品好玩的科技，一切与你有关",
         "desc": "PingWest品玩是具有全球化视野的科技内容平台和创新连接器，致力于服务全球科技创新者。",
         "url": "https://www.pingwest.com/",
         "logo": "https://www.pingwest.com/favicon.ico",
-        "tags": ["科技", "评测"]
+        "tags": [
+          "科技",
+          "评测"
+        ]
       },
       {
         "title": "砍柴网_探索科技与商业的逻辑",
         "desc": "砍柴网（ikanchai.com）创立于2013年，是一家拥有全球视野的前沿科技媒体，我们始终秉承观点独到、全面深入、有料有趣的宗旨，在科技与人文之间寻找商业新价值，坚持以人文的视角解读科技，用专业的精神剖析时代，孜孜不倦探索科技与商业的未来。 ",
         "url": "http://www.ikanchai.com/",
         "logo": "http://www.ikanchai.com/favicon.ico",
-        "tags": ["前沿", "商业"]
+        "tags": [
+          "前沿",
+          "商业"
+        ]
       },
       {
         "title": "知识盒子 - 专业轻量级的内容赋能技术服务平台",
         "desc": "专业轻量级的内容赋能技术服务平台",
         "url": "https://zhishihezi.net/",
         "logo": "https://static.cdnjs.cloud/20200310/box_logo_8475.png",
-        "tags": ["教程"]
+        "tags": [
+          "教程"
+        ]
+      },
+      {
+        "title": "站长之家 - 站长资讯-我们致力于为中文网站提供动力！",
+        "desc": "站长之家(中国站长站)为个人站长与企业网络提供全面的站长资讯、源代码程序下载、海量建站素材、强大的搜索优化辅助工具、网络产品设计与运营理念以及一站式网络解决方案，十年来我们一直致力为中文网站提供动力。",
+        "url": "https://www.chinaz.com/",
+        "logo": "https://img.chinaz.com/2020/img/favicon.ico",
+        "tags": ["建站"],
+        "rating": 4.9
       }
     ]
   },
@@ -81,7 +191,10 @@
         "desc": "抛砖问答(PZWD)又称“P站问答“，是一个非商业性质的，独立的，开放的，程序员的问答社区。提供Stackoverflow最热门问题与答案。",
         "url": "https://pzwd.net/",
         "logo": "https://pzwd.net/assets/favicon-vbeszurg.png",
-        "tags": ["问答", "stackoverflow"]
+        "tags": [
+          "问答",
+          "stackoverflow"
+        ]
       }
     ]
   }

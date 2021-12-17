@@ -93,7 +93,9 @@
         "desc": "Create awesome images from your code! Codepng turns you code into beautiful png images.",
         "url": "https://www.codepng.app/",
         "logo": "https://www.codepng.app/favicon.ico",
-        "tags": ["代码截图"],
+        "tags": [
+          "代码截图"
+        ],
         "rating": 3.9
       },
       {
@@ -104,6 +106,14 @@
         "tags": [
           "正则工具"
         ]
+      },
+      {
+        "title": "JavaScript Obfuscator Tool",
+        "desc": "JavaScript Obfuscator is a free online tool that obfuscates your source code, preventing it from being stolen and used without permission.",
+        "url": "https://obfuscator.io/",
+        "logo": "https://obfuscator.io/favicon.ico",
+        "tags": ["js","代码混淆"],
+        "rating": 4.9
       },
       {
         "title": "在线工具 —— OSCHINA.NET社区",

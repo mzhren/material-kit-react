@@ -75,38 +75,10 @@ function NewsItem({ news }) {
     );
 }
 
-// function NewsItem2({ news }) {
-//     const { image, title, description, postedAt } = news;
-
-//     return (
-//         <Stack direction="row" alignItems="center" spacing={2}>
-//             <Box
-//                 component="img"
-//                 alt={title}
-//                 src={image}
-//                 sx={{ width: 48, height: 48, borderRadius: 1.5 }}
-//             />
-//             <Box sx={{ minWidth: 240 }}>
-//                 <Link to="#" color="inherit" underline="hover" component={RouterLink}>
-//                     <Typography variant="subtitle2" noWrap>
-//                         {title}
-//                     </Typography>
-//                 </Link>
-//                 <Typography variant="body2" sx={{ color: 'text.secondary' }} noWrap>
-//                     {description}
-//                 </Typography>
-//             </Box>
-//             <Typography variant="caption" sx={{ pr: 3, flexShrink: 0, color: 'text.secondary' }}>
-//                 {formatDistance(postedAt, new Date())}
-//             </Typography>
-//         </Stack>
-//     );
-// }
-
 export default function AppV2exNews() {
     const [newsList, setNewsList] = useState([]);
     const todayDate = new Date().toISOString().slice(0, 10);
-    let url = 'https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json?timestamp' + todayDate;
+    let url = 'https://cdn.jsdelivr.net/gh/v2hot/v2hot.github.io@data/v2ex-api/hot-topics.json?timestamp=' + todayDate;
     useEffect(() => {
 
         fetch(url).then((response) => response.json())

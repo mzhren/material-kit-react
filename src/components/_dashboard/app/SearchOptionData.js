@@ -31,7 +31,7 @@ const jd = {
 }
 
 const duck = {
-    "action":"https://duckduckgo.com/",
+    "action": "https://duckduckgo.com/",
     "id": "duck",
     "name": "DuckDuckGo",
     "placeholder": "DuckDuckGo",
@@ -80,7 +80,7 @@ const sogou = {
 }
 
 const yandex_img = {
-    "action":"https://yandex.com/images/search",
+    "action": "https://yandex.com/images/search",
     "id": "yandex_img",
     "name": "yandex",
     "placeholder": "yandex图片搜索",
@@ -88,7 +88,7 @@ const yandex_img = {
 }
 
 const cn_bing_img = {
-    "action":"https://www.bing.com/images/search",
+    "action": "https://www.bing.com/images/search",
     "id": "cn_bing_img",
     "name": "必应图片",
     "placeholder": "必应图片搜索",
@@ -97,7 +97,7 @@ const cn_bing_img = {
 
 
 const stackoverflow = {
-    "action":"https://stackoverflow.com/search",
+    "action": "https://stackoverflow.com/search",
     "id": "stackoverflow",
     "name": "stackoverflow",
     "placeholder": "stackoverflow",
@@ -105,33 +105,33 @@ const stackoverflow = {
 }
 
 const weixin = {
-    "action":"https://weixin.sogou.com/weixin?type=2",
+    "action": "https://weixin.sogou.com/weixin?type=2",
     "id": "weixin",
     "name": "微信文章",
     "placeholder": "微信文章",
     "query": "query",
-    "query2":{
-        "name":"type",
-        "value":2
+    "query2": {
+        "name": "type",
+        "value": 2
     }
 }
 
 
 const wxgzh = {
-    "action":"https://weixin.sogou.com/weixin",
+    "action": "https://weixin.sogou.com/weixin",
     "id": "wxgzh",
     "name": "微信公众号",
     "placeholder": "微信公众号",
     "query": "query",
-    "query2":{
-        "name":"type",
-        "value":1
+    "query2": {
+        "name": "type",
+        "value": 1
     }
 }
 
 
 const zhihu = {
-    "action":"https://www.zhihu.com/search",
+    "action": "https://www.zhihu.com/search",
     "id": "zhihu",
     "name": "知乎",
     "placeholder": "知乎",
@@ -139,7 +139,7 @@ const zhihu = {
 }
 
 const juejin = {
-    "action":"https://juejin.im/search",
+    "action": "https://juejin.im/search",
     "id": "juejin",
     "name": "掘金",
     "placeholder": "掘金",
@@ -148,7 +148,7 @@ const juejin = {
 
 
 const segmentfault = {
-    "action":"https://segmentfault.com/search",
+    "action": "https://segmentfault.com/search",
     "id": "segmentfault",
     "name": "segmentfault",
     "placeholder": "segmentfault",
@@ -156,7 +156,7 @@ const segmentfault = {
 }
 
 const csdn = {
-    "action":"https://so.csdn.net/so/search/s.do",
+    "action": "https://so.csdn.net/so/search/s.do",
     "id": "csdn",
     "name": "csdn",
     "placeholder": "床上等你",
@@ -164,7 +164,7 @@ const csdn = {
 }
 
 const jianshu = {
-    "action":"https://www.jianshu.com/search",
+    "action": "https://www.jianshu.com/search",
     "id": "jianshu",
     "name": "简书",
     "placeholder": "简书",
@@ -173,7 +173,7 @@ const jianshu = {
 
 
 const douban = {
-    "action":"https://www.douban.com/search",
+    "action": "https://www.douban.com/search",
     "id": "douban",
     "name": "豆瓣",
     "placeholder": "豆瓣",
@@ -182,7 +182,7 @@ const douban = {
 
 
 const xiachufang = {
-    "action":"http://www.xiachufang.com/search/",
+    "action": "http://www.xiachufang.com/search/",
     "id": "xiachufang",
     "name": "下厨房",
     "placeholder": "下厨房",
@@ -190,7 +190,7 @@ const xiachufang = {
 }
 
 const gitee = {
-    "action":"https://search.gitee.com/",
+    "action": "https://search.gitee.com/",
     "id": "gitee",
     "name": "gitee",
     "placeholder": "gitee",
@@ -198,44 +198,52 @@ const gitee = {
 }
 
 const youtube = {
-    "action":"https://www.youtube.com/results",
-    "id":"youtube",
-    "name":"油管",
-    "placeholder":"youtube",
-    "query":"search_query"
+    "action": "https://www.youtube.com/results",
+    "id": "youtube",
+    "name": "油管",
+    "placeholder": "youtube",
+    "query": "search_query"
 }
 
 const bilibili = {
-    "action":"https://search.bilibili.com/all",
-    "id":"bilibili",
-    "name":"B站",
-    "placeholder":"bilibili",
-    "query":"keyword"
+    "action": "https://search.bilibili.com/all",
+    "id": "bilibili",
+    "name": "B站",
+    "placeholder": "bilibili",
+    "query": "keyword"
+}
+
+const fsou = {
+    "action": "https://fsou.cc/search",
+    "id": "fsou",
+    "name": "F搜",
+    "placeholder": "F搜",
+    "query": "q"
 }
 
 const zlib = {
-    "action":"https://book4you.org/s/",
-    "id":"zlib",
-    "name":"Z-Library",
-    "placeholder":"Z-Library——the world's largest ebook library",
-    "query":"q"
+    "action": "https://book4you.org/s/",
+    "id": "zlib",
+    "name": "Z-Library",
+    "placeholder": "Z-Library——the world's largest ebook library",
+    "query": "q"
 }
 
 const vqq = {
-    "action":"https://v.qq.com/x/search/",
-    "id":"vqq",
-    "name":"腾讯视频",
-    "placeholder":"腾讯视频",
-    "query":"q"
+    "action": "https://v.qq.com/x/search/",
+    "id": "vqq",
+    "name": "腾讯视频",
+    "placeholder": "腾讯视频",
+    "query": "q"
 }
 
 
 const iqiyi = {
-    "action":"https://www.iq.com/search",
-    "id":"iqiyi",
-    "name":"爱奇异",
-    "placeholder":"爱奇异",
-    "query":"query"
+    "action": "https://www.iq.com/search",
+    "id": "iqiyi",
+    "name": "爱奇异",
+    "placeholder": "爱奇异",
+    "query": "query"
 }
 
 const searchOptions = [
@@ -243,45 +251,45 @@ const searchOptions = [
         name: "常用",
         type: "most",
         default: 'google',
-        items: [google, baidu, github, bing, zlib,jd, taobao]
+        items: [google, fsou, baidu, github, bing, zlib, jd, taobao]
     },
     {
         name: "搜索",
         type: 'serach',
         default: 'baidu',
-        items: [google, bing, baidu,duck,so360,sogou,sm]
+        items: [google, bing, fsou, baidu, duck, so360, sogou, sm]
     },
 
     {
         name: "社区",
         type: 'sns',
         default: 'stackoverflow',
-        items: [stackoverflow,segmentfault,juejin,weixin,wxgzh,jianshu,zhihu,csdn,douban]
+        items: [stackoverflow, segmentfault, juejin, weixin, wxgzh, jianshu, zhihu, csdn, douban]
     },
 
     {
         name: "代码仓库",
         type: 'repo',
         default: 'github',
-        items: [github,gitee]
+        items: [github, gitee]
     },
     {
         name: "视频",
         type: 'video',
         default: 'youtube',
-        items: [youtube,bilibili,vqq,iqiyi]
+        items: [youtube, bilibili, vqq, iqiyi]
     },
     {
-        name:"图片",
-        type:'pic',
-        default:'yandex_img',
-        items:[yandex_img,cn_bing_img]
+        name: "图片",
+        type: 'pic',
+        default: 'yandex_img',
+        items: [yandex_img, cn_bing_img]
     },
     {
-        name:"生活",
-        type:'daily',
-        default:'jd',
-        items:[jd,taobao,xiachufang]
+        name: "生活",
+        type: 'daily',
+        default: 'jd',
+        items: [jd, taobao, xiachufang]
     }
 ];
 
