@@ -79,6 +79,26 @@
     "name": "码农工具",
     "icon": "tools",
     "sites": [
+        {
+          "title": "开发者武器库",
+          "desc": "开发者武器库，做开发者最专业最好用的专业工具箱",
+          "url": "https://devtool.tech/",
+          "logo": "https://devtool.tech/favicon.ico",
+          "tags": [
+            "工具箱"
+          ],
+          "rating": 5
+        },
+      {
+        "title": "简单代码截图",
+        "desc": "基于html2canvas和contentEdit的代码截图工具",
+        "url": "https://codeimg.mzh.ren/",
+        "logo": "https://codeimg.mzh.ren/favicon.ico",
+        "tags": [
+          "代码截图","水印","标题"
+        ],
+        "rating":5
+      },
       {
         "title": "Carbon | Create and share beautiful images of your source code",
         "desc": "Carbon is the easiest way to create and share beautiful images of your source code.",
@@ -209,6 +229,15 @@
   {
     "name": "OCR",
     "sites": [
+      {
+        "title":"PearOCR",
+        "desc": "在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
+        "url": "https://pearocr.com/",
+        "logo": "https://pearocr.com/favicon.ico",
+        "tags": [
+          "免费","本地","OCR"
+        ]
+      },
       {
         "title": "图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版",
         "desc": "免费在线图片文字识别，支持简体、繁体、英文、韩语、日语、俄语等多国语言的准确识别，识别结果可复制或下载txt或word，点击按钮选择图片、将图片拖入此虚线框、从剪切板粘贴截图，最多可选择50张，支持 JPG/PNG/BMP/GIF/SVG 格式。",

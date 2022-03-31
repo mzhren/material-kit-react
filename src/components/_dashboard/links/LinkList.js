@@ -10,9 +10,9 @@ function LinkList({ name, links }) {
                 </Typography>
             <Grid container spacing={3} >
                 {
-                    links.map((item, k) => (
-                        <Grid item xs={12} sm={6} md={3}>
-                            <LinkCard name={item.name} link={item} key={k} />
+                    links.map((url, k) => (
+                        <Grid item xs={12} sm={6} md={4}>
+                            <LinkCard name={url.name} link={url} key={k} />
                         </Grid>
                     ))
                 }

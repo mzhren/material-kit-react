@@ -17,7 +17,8 @@ const LINK_GROUP = {
     game3c: "数码娱乐",
     tool: "工具软件",
     online: "在线工具",
-    resources: "资源教程",
+    docs: "文档教程",
+    resources: "素材资源",
     ereading: "电子阅读",
     design: "设计图标",
     wemedia: "自媒体"

@@ -1,5 +1,5 @@
 import { Icon } from '@iconify/react';
-import { Home, LocalCafe, Code, GitHub,VideogameAsset,Build,Web,CloudDownload,RssFeed,Book,Gesture } from '@material-ui/icons';
+import { Home, LocalCafe, Code, GitHub, VideogameAsset, Build, Web, CloudDownload, RssFeed, Book, Gesture, FileCopy } from '@material-ui/icons';
 // import peopleFill from '@iconify/icons-eva/people-fill';
 // import shoppingBagFill from '@iconify/icons-eva/shopping-bag-fill';
 // import fileTextFill from '@iconify/icons-eva/file-text-fill';
@@ -63,7 +63,13 @@ const sidebarConfig = [
     }]
   },
   {
-    title: '教程资源',
+    title: '文档教程',
+    path: '/links/docs',
+    icon: <FileCopy />,
+    divider: true
+  },
+  {
+    title: '素材资源',
     path: '/links/resources',
     icon: <CloudDownload />,
     divider:true

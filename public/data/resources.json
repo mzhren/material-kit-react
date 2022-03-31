@@ -1,57 +1,5 @@
 [
   {
-    "name": "线上教程",
-    "sites": [
-      {
-        "title": "现代 JavaScript 教程",
-        "desc": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
-        "url": "https://zh.javascript.info/",
-        "logo": "https://zh.javascript.info/img/favicon/apple-touch-icon-precomposed.png",
-        "tags": ["js"]
-      },
-      {
-        "title": "HelloDjango - django REST framework 教程_追梦人物的博客",
-        "desc": "HelloDjango - django REST framework 教程_追梦人物的博客",
-        "url": "https://www.zmrenwu.com/courses/django-rest-framework-tutorial/",
-        "logo": "https://www.zmrenwu.com/favicon.ico",
-        "tags": ["django"]
-      },
-      {
-        "title": "HelloFlask - Flask资源集合地",
-        "desc": "Flask Web开发实战官方网站，Flask 论坛、教程、书、文章、开源项目等资源集合",
-        "url": "https://helloflask.com/",
-        "logo": "https://helloflask.com/static/favicon.ico",
-        "tags": ["Python", "Web"]
-      },
-      {
-        "title": "免费在线学习代码重构和设计模式",
-        "desc": "重构是一种能够在不新增功能的情况下改善代码的可控过程。设计模式是软件设计中常见问题的典型解决方案。立即开始学习！",
-        "url": "https://refactoringguru.cn/",
-        "logo": "https://refactoringguru.cn/favicon.ico?id=e1894c5648d77c8db9cb",
-        "tags": ["设计模式","重构"]
-      }, {
-        "title": "小浩算法 | 小浩算法",
-        "desc": "和小浩一起学算法",
-        "url": "https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html",
-        "logo": "https://www.geekxh.com/favicon.ico",
-        "tags": ["算法"],
-        "rating": 4.6
-      }
-    ]
-  },{
-    "name": "慕课平台",
-    "sites": [
-      {
-        "title": "Learn to Code — For Free — Coding Courses for Busy People",
-        "desc": "Learn to Code — For Free",
-        "url": "https://www.freecodecamp.org/",
-        "logo": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
-        "tags": ["免费"],
-        "rating":4.6
-      }
-    ]
-  },
-  {
     "name": "网盘搜索",
     "icon": "",
     "sites": [
@@ -60,28 +8,78 @@
         "desc": "百度云网盘资源搜索分享与下载",
         "url": "http://www.yunpangou.com/",
         "logo": "http://www.yunpangou.com/favicon.ico",
-        "tags": ["电子书", "网盘"]
+        "tags": [
+          "电子书",
+          "百度网盘"
+        ]
       },
       {
         "title": "网盘搜索，就用大力盘搜索 - 最好用的百度网盘搜索引擎，https://www.dalipan.com。",
         "desc": "大力盘搜索支持百度云搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
         "url": "https://www.dalipan.com/",
         "logo": "https://www.dalipan.com/favicon.ico",
-        "tags": ["网盘"]
+        "tags": [
+          "百度网盘"
+        ]
       },
       {
         "title": "坑搜网",
         "desc": "坑搜网网盘搜索是专业的百度云搜索引擎，实时收录百度云、百度网盘等资源，每天更新各类高清电影、视频、种子、小说等网盘资源，真正你懂的网盘搜索神器!",
         "url": "http://www.kengso.com/",
         "logo": "http://www.kengso.com/static/favicon.ico",
-        "tags": ["视频", "电子书", "网盘"]
+        "tags": [
+          "视频",
+          "电子书",
+          "网盘"
+        ]
       },
       {
         "title": "V盘搜(vpansou.com)",
         "desc": "V盘搜 基于百度云盘(百度网盘)资源搜索，致力于云盘资源的技术收集和整理，千万级的大数据量,每天都会更新收录大量视频,种子,小说,壁纸,音乐等优质网盘资源,各种百度网盘资源你懂的,让您一网打尽所有网盘资源。",
         "url": "http://www.vpansou.com/",
         "logo": "http://www.vpansou.com/static/favicon.ico",
-        "tags": ["视频", "电子书", "网盘"]
+        "tags": [
+          "视频",
+          "电子书",
+          "网盘"
+        ]
+      },
+      {
+        "title": "奈斯搜索 - 资源超丰富的阿里云盘资源搜索网站！",
+        "desc": "V盘搜 基于百度云盘(百度网盘)资源搜索，致力于云盘资源的技术收集和整理，千万级的大数据量,每天都会更新收录大量视频,种子,小说,壁纸,音乐等优质网盘资源,各种百度网盘资源你懂的,让您一网打尽所有网盘资源。",
+        "url": "https://www.niceso.fun/",
+        "logo": "https://www.niceso.fun/favicon.ico",
+        "tags": [
+          "视频",
+          "电子书",
+          "阿里网盘"
+        ]
+      },
+      {
+        "title": "UP云搜 - 最全云盘资源搜索神器",
+        "desc": "UP云搜,最优秀的阿里云盘搜索服务的平台,收集各类阿里云盘资源提供一站式搜索功能,推动互联网优质资源的高效传递!",
+        "url": "https://www.upyunso.com/",
+        "logo": "https://www.upyunso.com/static/img/upso_mlogo.png",
+        "tags": [
+          "阿里云盘"
+        ],
+        "rating": 4
+      },
+      {
+        "title": "阿里盘搜 - 阿里云盘资源搜索",
+        "desc": "阿里盘搜,支持阿里云盘搜索,可快速搜索阿里云盘资源中的有效连接,每天更新海量资源",
+        "url": "https://www.alipansou.com/",
+        "logo": "https://www.alipansou.com/favicon.ico",
+        "tags": [],
+        "rating": 4
+      },
+      {
+        "title": "百度网盘资源分享_阿里云盘资源分享网_云盘资源网",
+        "desc": "云盘资源网是完全免费的云盘资源分享平台！我们为所有百度网盘、阿里云盘、360云盘、微云、坚果云等所有云盘用户提供服务！您可以自由分享和获取各类云盘网盘资源！",
+        "url": "https://www.yunpanziyuan.com/",
+        "logo": "https://www.yunpanziyuan.com/view/img/favicon.ico",
+        "tags": [],
+        "rating": 4
       }
     ]
   },
@@ -92,14 +90,21 @@
         "desc": "熊猫办公是一家专注创意设计模板下载的网站，涵盖行业优质精品PPT模板、Word模板、Excel模板、免抠元素、视频素材、字体和音效及配乐素材等，集办公设计模板于一体的素材网。",
         "url": "https://www.tukuppt.com/",
         "logo": "https://www.tukuppt.com/favicon.ico",
-        "tags": ["ppt", "免抠", "视频"]
+        "tags": [
+          "ppt",
+          "免抠",
+          "视频"
+        ]
       },
       {
         "title": "字魂网--商用字体下载，字体定制，免费字体下载",
         "desc": "字魂网（izihun.com）是一家提供商用字体下载授权,字体定制,免费字体下载,字体授权,以及在线字体转换器的字体公司，致力于让所有人用得起正版字体.",
         "url": "https://izihun.com/",
         "logo": "https://izihun.com/favicon.ico",
-        "tags": ["商用字体", "设计"]
+        "tags": [
+          "商用字体",
+          "设计"
+        ]
       }
     ],
     "name": "付费下载"
