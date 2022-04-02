@@ -17,9 +17,22 @@ const sidebarConfig = [
     icon:<Home />
   },
   {
-    title: '技术博客',
+    title: 'IT资讯',
     path: '/links/blogs',
-    icon: <LocalCafe />
+    icon: <LocalCafe />,
+    children: [{
+      title: '技术博客',
+      path: '/links/blogs',
+      icon: <Build />
+    },{
+      title: '科技周刊',
+      path: '/links/weekly',
+      icon: <Web />
+    },{
+      title: '信息聚合',
+      path: '/links/itnews',
+      icon: <Web />
+    }]
   },
   {
     title: '语言框架',
@@ -66,7 +79,16 @@ const sidebarConfig = [
     title: '文档教程',
     path: '/links/docs',
     icon: <FileCopy />,
-    divider: true
+    divider: true,
+    children: [{
+      title: '在线教程',
+      path: '/links/docs',
+      icon: <Build />
+    },{
+      title: '科技周刊',
+      path: '/links/weekly',
+      icon: <Web />
+    }]
   },
   {
     title: '素材资源',

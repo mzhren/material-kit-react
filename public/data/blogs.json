@@ -20,7 +20,10 @@
         "desc": "1024.COM，好人一生平安，一个正经的科技网站，程序员社区。关注程序员、区块链、创业者、开发者、人工智能、开源代码、创新创意、宇宙星际、数字化转型。",
         "url": "https://1024.com/",
         "logo": "https://1024.com/favicon.ico",
-        "tags": ["商业","程序员生活"],
+        "tags": [
+          "商业",
+          "程序员生活"
+        ],
         "rating": 4.8
       },
       {
@@ -126,6 +129,14 @@
           "go",
           "比特币"
         ]
+      },
+      {
+        "title": "春水煎茶 - 王超的个人博客",
+        "desc": "王超的个人博客",
+        "url": "https://writings.sh/",
+        "logo": "https://writings.sh/assets/images/favicon.ico",
+        "tags": ["软件开发"],
+        "rating": 4.2
       },
       {
         "title": "Python Engineer",

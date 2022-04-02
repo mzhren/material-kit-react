@@ -7,22 +7,38 @@
         "desc": "有关示例和任务的简单但详细的解释包括：闭包、文档和事件，以及面向对象编程等。",
         "url": "https://zh.javascript.info/",
         "logo": "https://zh.javascript.info/img/favicon/apple-touch-icon-precomposed.png",
-        "tags": ["js"]
+        "tags": [
+          "js"
+        ]
       },
       {
         "title": "HelloDjango - django REST framework 教程_追梦人物的博客",
         "desc": "HelloDjango - django REST framework 教程_追梦人物的博客",
         "url": "https://www.zmrenwu.com/courses/django-rest-framework-tutorial/",
         "logo": "https://www.zmrenwu.com/favicon.ico",
-        "tags": ["django"]
+        "tags": [
+          "django"
+        ]
       },
       {
         "title": "小浩算法 | 小浩算法",
         "desc": "和小浩一起学算法",
         "url": "https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html",
         "logo": "https://www.geekxh.com/favicon.ico",
-        "tags": ["算法"],
+        "tags": [
+          "算法"
+        ],
         "rating": 4.6
+      },
+      {
+        "title": "《PHP 之道（PHP The Right Way 中文版）》 | PHP 技术论坛",
+        "desc": "这里是高品质的 PHP 开发者社区，致力于为 PHP 开发者提供一个分享创造、结识伙伴、协同互助的论坛。在这里你可以讨论和分享 PHP 相关知识，包括框架和 PHP 核心实现。",
+        "url": "https://learnku.com/docs/php-the-right-way/PHP8.0",
+        "logo": "https://cdn.learnku.com//uploads/communities/Y7fElYYwCFjTTXCdwPNW.png!/both/44x44",
+        "tags": [
+          "php","免费","中英"
+        ],
+        "rating": 4.9
       }
     ]
   },
@@ -34,8 +50,10 @@
         "desc": "Learn to Code — For Free",
         "url": "https://www.freecodecamp.org/",
         "logo": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
-        "tags": ["免费"],
-        "rating":4.6
+        "tags": [
+          "免费"
+        ],
+        "rating": 4.6
       }
     ]
   }

@@ -79,25 +79,27 @@
     "name": "码农工具",
     "icon": "tools",
     "sites": [
-        {
-          "title": "开发者武器库",
-          "desc": "开发者武器库，做开发者最专业最好用的专业工具箱",
-          "url": "https://devtool.tech/",
-          "logo": "https://devtool.tech/favicon.ico",
-          "tags": [
-            "工具箱"
-          ],
-          "rating": 5
-        },
+      {
+        "title": "开发者武器库",
+        "desc": "开发者武器库，做开发者最专业最好用的专业工具箱",
+        "url": "https://devtool.tech/",
+        "logo": "https://devtool.tech/favicon.ico",
+        "tags": [
+          "工具箱"
+        ],
+        "rating": 5
+      },
       {
         "title": "简单代码截图",
         "desc": "基于html2canvas和contentEdit的代码截图工具",
         "url": "https://codeimg.mzh.ren/",
         "logo": "https://codeimg.mzh.ren/favicon.ico",
         "tags": [
-          "代码截图","水印","标题"
+          "代码截图",
+          "水印",
+          "标题"
         ],
-        "rating":5
+        "rating": 5
       },
       {
         "title": "Carbon | Create and share beautiful images of your source code",
@@ -132,7 +134,10 @@
         "desc": "JavaScript Obfuscator is a free online tool that obfuscates your source code, preventing it from being stolen and used without permission.",
         "url": "https://obfuscator.io/",
         "logo": "https://obfuscator.io/favicon.ico",
-        "tags": ["js","代码混淆"],
+        "tags": [
+          "js",
+          "代码混淆"
+        ],
         "rating": 4.9
       },
       {
@@ -145,6 +150,14 @@
           "md",
           "正则"
         ]
+      },
+      {
+        "title": "我的工具箱",
+        "desc": "开发人员必备的开发工具箱,在线HTML,CSS,JavaScript格式化美化压缩。JSON数据美化转换压缩。在线时间时间戳格式化计算。支持CSV,TSV,HTML,Excel,XML,PDF,SQL,YAML,CSS,图片等数据的相互转换。",
+        "url": "https://toolgg.com/",
+        "logo": "https://toolgg.com/static/img/tool.ico",
+        "tags": [],
+        "rating": 4.9
       }
     ]
   },
@@ -230,12 +243,14 @@
     "name": "OCR",
     "sites": [
       {
-        "title":"PearOCR",
+        "title": "PearOCR",
         "desc": "在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
         "url": "https://pearocr.com/",
         "logo": "https://pearocr.com/favicon.ico",
         "tags": [
-          "免费","本地","OCR"
+          "免费",
+          "本地",
+          "OCR"
         ]
       },
       {

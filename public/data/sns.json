@@ -123,6 +123,26 @@
         ]
       },
       {
+        "title": "w2solo - 独立开发者社区",
+        "desc": "w2solo - 独立开发者社区",
+        "url": "http://w2solo.com/",
+        "logo": "https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png",
+        "tags": ["独立开发", "作品展示"],
+        "rating": 4.9
+      },
+      {
+        "title": "摸鱼办",
+        "desc": "即使生活一地鸡毛，也要偶尔抬头仰望星空。",
+        "url": "https://fish.tngeek.com/",
+        "logo": "https://tngeek-mall-1255310647.cos.ap-guangzhou.myqcloud.com/public/icon/fish.ico",
+        "tags": [
+          "吹水",
+          "摸鱼",
+          "摸鱼办"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "极客公园-推动商业新变量",
         "desc": "极客公园聚焦互联网领域，跟踪最新的科技新闻动态，关注极具创新精神的科技产品。目前涵盖前沿科技、游戏、手机评测、硬件测评、出行方式、共享经济、人工智能等全方位的科技生活内容。现有前沿社、挖App、深度报道、极客养成指南等多个内容栏目。",
         "url": "http://www.geekpark.net/",
@@ -178,7 +198,9 @@
         "desc": "站长之家(中国站长站)为个人站长与企业网络提供全面的站长资讯、源代码程序下载、海量建站素材、强大的搜索优化辅助工具、网络产品设计与运营理念以及一站式网络解决方案，十年来我们一直致力为中文网站提供动力。",
         "url": "https://www.chinaz.com/",
         "logo": "https://img.chinaz.com/2020/img/favicon.ico",
-        "tags": ["建站"],
+        "tags": [
+          "建站"
+        ],
         "rating": 4.9
       }
     ]

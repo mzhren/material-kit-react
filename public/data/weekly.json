@@ -1,0 +1,158 @@
+[
+    {
+        "name": "科技周刊",
+        "sites": [
+            {
+                "title": "分类：周刊 - 阮一峰的网络日志",
+                "desc": "分类：周刊 - 阮一峰的网络日志",
+                "url": "https://www.ruanyifeng.com/blog/weekly/",
+                "logo": "https://www.ruanyifeng.com/favicon.ico",
+                "tags": ["周刊","阮一峰"],
+                "rating": 5
+            },
+            {
+                "title": "Geekhyt/weekly: 前端食堂技术周刊，每周发布。🌰",
+                "desc": "前端食堂技术周刊，每周发布。🌰. Contribute to Geekhyt/weekly development by creating an account on GitHub.",
+                "url": "https://github.com/Geekhyt/weekly",
+                "logo": "https://github.com/fluidicon.png",
+                "tags": ["周刊","前端"],
+                "rating": 4.4
+            },
+            {
+                "title": "野生架构师 | Revue",
+                "desc": "野生架构师 - 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！\n所有的原文都放在 https://github.com/lcomplete/TechShare 。...",
+                "url": "https://www.getrevue.co/profile/lcomplete",
+                "logo": "https://d3jbm9h03wxzi9.cloudfront.net/assets/favicon-4bca5727fc21fa6ee2a6ae554a6c236825acdd046c481ffce5748911f8b1f4a3.ico",
+                "tags": [],
+                "rating": 4.9
+            },
+            {
+                "title": "100,000 Stars",
+                "desc": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
+                "url": "http://stars.chromeexperiments.com/",
+                "logo": "http://stars.chromeexperiments.com/favicon.ico",
+                "tags": [
+                    "天文"
+                ]
+            },
+            {
+                "title": "Things Come Apart - TODD MCLELLAN MOTION/STILLS",
+                "desc": "Project of disassembled objects shown in detail in a flat lay. Once laid out, the pieces were thrown through the air.",
+                "url": "https://www.toddmclellan.com/",
+                "logo": "https://format-com-cld-res.cloudinary.com/image/upload/s--flgw5fDD--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive,q_95/51589-2992525-Apart_Phone_ICON.ico",
+                "tags": [
+                    "分解"
+                ]
+            },
+            {
+                "title": "Welcome to Method of Action",
+                "desc": "Method of Action is education made fun",
+                "url": "https://method.ac/",
+                "logo": "https://method.ac/favicon-32x32.png",
+                "tags": [
+                    "ps",
+                    "设计",
+                    "游戏"
+                ]
+            },
+            {
+                "title": "开源表情包",
+                "desc": "PP制造计划 开源表情包",
+                "url": "https://www.v2fy.com/asset/0i/ChineseBQB/",
+                "logo": "https://www.v2fy.com/asset/0i/ChineseBQB/icon.png",
+                "tags": [
+                    "表情包",
+                    "斗图"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "漫画",
+        "sites": [
+            {
+                "title": "日本漫画 漫画大全 看漫画 在线漫画-漫画DB",
+                "desc": "漫画DB是全网最专业的日本漫画大全资料库。网站上的所有漫画均可免费在线看，同时每部漫画都有丰富的资料，包括登场人物、用语、设定、改编作品及创作幕后等深层的内容。",
+                "url": "https://www.manhuadb.com/",
+                "logo": "https://www.manhuadb.com/assets/www/img/favicon.png",
+                "tags": [
+                    "日本漫画",
+                    "在线"
+                ]
+            },
+            {
+                "title": "六漫画 - 好看的热门漫画_最新最全漫画_免费观看",
+                "desc": "六漫画为您推荐全网最新最全漫画，漫画在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。第一时间更新漫画。",
+                "url": "http://6mh7.com/",
+                "logo": "http://6mh7.com/favicon.ico",
+                "tags": [
+                    "漫画"
+                ]
+            },
+            {
+                "title": "日本漫畫_在線漫畫閱讀第一站_mangabz",
+                "desc": "mangabz是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人178、海賊王993、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
+                "url": "http://mangabz.com/",
+                "logo": "http://mangabz.com/favicon.ico",
+                "tags": [
+                    "日本漫畫"
+                ]
+            },
+            {
+                "title": "Webtoon XYZ : Read Webtoon (Korean Manhwa) in English Online Free!",
+                "desc": "Digital platform for read Korean webtoons. Find your favorite premium manhwa and webtoons translated to english for free. Read Webtoon Online at WEBTOON XYZ",
+                "url": "https://www.webtoon.xyz/",
+                "logo": "https://www.webtoon.xyz/wp-content/uploads/2020/09/cropped-favicon-512x512-1-32x32.png",
+                "tags": [
+                    "韩国燙",
+                    "18+",
+                    "英语"
+                ]
+            },
+            {
+                "title": "看漫画网 mh-mh.com-免费日韩漫画、美女写真，无弹窗无广告",
+                "desc": "看漫画网 mh-mh.com提供免费日韩漫画和美女写真，看漫画网 mh-mh.com收录全网最好看的漫画最新章节，免费阅读下载、无弹窗！",
+                "url": "https://www.mh-mh.com/",
+                "logo": "https://www.mh-mh.com/static/touch-icon.png",
+                "tags": [
+                    "日韩漫画",
+                    "18+"
+                ]
+            },
+            {
+                "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
+                "desc": "With more than half a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.",
+                "url": "https://e-hentai.org/",
+                "logo": "https://e-hentai.org/favicon.ico",
+                "tags": [
+                    "变态漫画",
+                    "免费"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "音乐",
+        "icon": "music",
+        "sites": [
+            {
+                "title": "网易云音乐",
+                "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+                "url": "https://music.163.com/",
+                "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
+                "tags": [
+                    "云音乐"
+                ]
+            },
+            {
+                "title": "Deepwork.fm | The ultimate work playlist",
+                "desc": "With weeks of unique, carefully selected tunes. Pick one of our 4 channels or just hit random and do your thing.",
+                "url": "https://deepwork.fm/",
+                "logo": "https://deepwork.fm/assets/images/favicon.png?v89893136269951",
+                "tags": [
+                    "fm"
+                ]
+            }
+        ]
+    }
+]

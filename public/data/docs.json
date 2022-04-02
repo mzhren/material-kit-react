@@ -29,6 +29,77 @@
                     "算法"
                 ],
                 "rating": 4.6
+            },
+            {
+                "title": "《PHP 之道（PHP The Right Way 中文版）》 | PHP 技术论坛",
+                "desc": "这里是高品质的 PHP 开发者社区，致力于为 PHP 开发者提供一个分享创造、结识伙伴、协同互助的论坛。在这里你可以讨论和分享 PHP 相关知识，包括框架和 PHP 核心实现。",
+                "url": "https://learnku.com/docs/php-the-right-way/PHP8.0",
+                "logo": "https://cdn.learnku.com//uploads/communities/Y7fElYYwCFjTTXCdwPNW.png!/both/44x44",
+                "tags": [
+                    "php",
+                    "免费",
+                    "中英"
+                ],
+                "rating": 4.9
+            },
+            {
+                "title": "LearnGolang/LearnGolang: 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.",
+                "desc": "《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World. - LearnGolang/LearnGolang: 《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.",
+                "url": "https://github.com/LearnGolang/LearnGolang",
+                "logo": "https://github.com/fluidicon.png",
+                "tags": [
+                    "golang",
+                    "免费"
+                ],
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "name": "技术路线",
+        "sites": [
+            {
+                "title": "Web Skills",
+                "desc": "A visual overview of useful skills to learn as a web developer",
+                "url": "https://andreasbm.github.io/web-skills/",
+                "logo": "https://andreasbm.github.io/web-skills/www/icon16x16.png",
+                "tags": ["Web","技术路线"],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "name": "面试技巧",
+        "sites": [
+            {
+                "title": "剑指前端 Offer",
+                "desc": "前端面试题",
+                "url": "https://febook.hzfe.org/awesome-interview/",
+                "logo": "https://febook.hzfe.org/awesome-interview/img/favicon.ico",
+                "tags": [
+                    "前端",
+                    "面试",
+                    "模拟面试"
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "name": "视频教程",
+        "sites": [
+            {
+                "title": "【斯坦福大学】数学思维课 跳出条条框框 培养数学思维|Mathematical Thinking, Stanford University_哔哩哔哩_bilibili",
+                "desc": "Coursera名校公开课 Coursera.com学习如何以数学家的方式思考——这是一个经过数千年发展的强大的认知过程。数学思维和做数学不一样——至少不像我们学校系统中典型的数学那样。学校数学通常侧重于解决高度定型问题的学习过程。专业数学家认为某种方法可以解决现实问题，这些问题可能来自于日常世界、科学或数学本身。学校数学成功的关键是学会在盒子里思考。相反，数学思维的一个关键特征是跳出框框思考——",
+                "url": "https://www.bilibili.com/video/BV1dq4y127TF",
+                "logo": "http://i1.hdslb.com/bfs/archive/4eb98c7cf171b6ac09c83acde168eaf8eb0abff1.png@57w_57h_1c.png",
+                "tags": [
+                    "数学",
+                    "视频",
+                    "教程",
+                    "B站"
+                ],
+                "rating": 4.9
             }
         ]
     },
