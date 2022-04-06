@@ -2,12 +2,12 @@
     "name": "视频教程",
     "sites": [
         {
-            "url": "https://msdn.itellyou.cn",
-            "title": "MSDN 我告诉你",
-            "desc": "致力于原版windows生态服务",
-            "tags": [
-                "软件","操作系统"
-            ]
+            "title": "Kubernetes (K8S) 3 小时快速上手 + 实践，无废话纯干货_哔哩哔哩_bilibili",
+            "desc": "课件地址：https://k8s.easydoc.net有问题欢迎留言，我会给你解答。觉得不错的话，别忘了给我一键三连如需群交流，微信加：svnbucket，备注“入群”。",
+            "url": "https://www.bilibili.com/video/BV1Tg411P7EB/",
+            "logo": "http://i0.hdslb.com/bfs/archive/676221fe26eb1f82eb55473927e9ab9c0177fd97.jpg@57w_57h_1c.png",
+            "tags": [],
+            "rating": 4
         },
         {
             "url": "https://www.423down.com",

@@ -14,7 +14,7 @@ const sidebarConfig = [
   {
     title: '快速启动',
     path: '/dashboard/app',
-    icon:<Home />
+    icon: <Home />
   },
   {
     title: 'IT资讯',
@@ -24,11 +24,11 @@ const sidebarConfig = [
       title: '技术博客',
       path: '/links/blogs',
       icon: <Build />
-    },{
+    }, {
       title: '科技周刊',
       path: '/links/weekly',
       icon: <Web />
-    },{
+    }, {
       title: '信息聚合',
       path: '/links/itnews',
       icon: <Web />
@@ -69,7 +69,7 @@ const sidebarConfig = [
       title: '开源免费',
       path: '/links/tool',
       icon: <Build />
-    },{
+    }, {
       title: '在线工具',
       path: '/links/online',
       icon: <Web />
@@ -84,17 +84,17 @@ const sidebarConfig = [
       title: '在线教程',
       path: '/links/docs',
       icon: <Build />
-    },{
-      title: '科技周刊',
-      path: '/links/weekly',
-      icon: <Web />
+    }, {
+      title: '视频教程',
+      path: '/links/video',
+      icon: <Build />
     }]
   },
   {
     title: '素材资源',
     path: '/links/resources',
     icon: <CloudDownload />,
-    divider:true
+    divider: true
   },
   {
     title: 'RSS订阅',

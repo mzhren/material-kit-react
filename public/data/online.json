@@ -14,23 +14,6 @@
     ]
   },
   {
-    "name": "码农文档",
-    "icon": "file",
-    "sites": [
-      {
-        "title": "MDN Web 文档",
-        "desc": "MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API。它还记录了一些用于 Mozilla 产品的面向开发者的文档，例如 Firefox 开发者工具。",
-        "url": "https://developer.mozilla.org/zh-CN/",
-        "logo": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
-        "tags": [
-          "web",
-          "MDN",
-          "前端"
-        ]
-      }
-    ]
-  },
-  {
     "name": "CSS",
     "icon": "tools",
     "sites": [
@@ -158,6 +141,30 @@
         "logo": "https://toolgg.com/static/img/tool.ico",
         "tags": [],
         "rating": 4.9
+      },
+      {
+        "title": "docsify",
+        "desc": "A magical documentation generator.",
+        "url": "https://docsify.js.org/#/",
+        "logo": "https://docsify.js.org/_media/favicon.ico",
+        "tags": ["文档","文档生成"],
+        "rating": 4
+      },
+      {
+        "title": "MrDoc: MrDoc，适合于个人和中小型团队的在线文档、知识库管理私有化部署方案",
+        "desc": "MrDoc，适合于个人和中小型团队的在线文档、知识库管理私有化部署方案",
+        "url": "https://gitee.com/zmister/MrDoc",
+        "logo": "https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico",
+        "tags": ["在线文档","知识库"],
+        "rating": 4
+      },
+      {
+        "title": "觅思文档MrDoc - 私有云笔记、云文档和知识库系统",
+        "desc": "",
+        "url": "https://mrdoc.pro/",
+        "logo": "https://mrdoc.pro/mrdoc-home/assets/img/mrdoc_logo_300.png",
+        "tags": [],
+        "rating": 4
       }
     ]
   },

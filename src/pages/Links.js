@@ -19,6 +19,7 @@ const LINK_GROUP = {
     online: "在线工具",
     weekly: "科技周刊",
     docs: "文档教程",
+    video: "视频教程",
     resources: "素材资源",
     ereading: "电子阅读",
     design: "设计图标",
