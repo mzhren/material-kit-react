@@ -17,12 +17,13 @@ const LINK_GROUP = {
     game3c: "数码娱乐",
     tool: "工具软件",
     online: "在线工具",
-    weekly: "科技周刊",
+    weekly: "周刊头条",
     docs: "文档教程",
     video: "视频教程",
     resources: "素材资源",
     ereading: "电子阅读",
     design: "设计图标",
+    programminggame:"编程游戏",
     wemedia: "自媒体",
     itnews:"信息聚合"
 }

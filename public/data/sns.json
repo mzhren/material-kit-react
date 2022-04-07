@@ -90,6 +90,50 @@
         "rating": 4.9
       },
       {
+        "title": "CSDN - 专业开发者社区",
+        "desc": "CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区.",
+        "url": "https://www.csdn.net/",
+        "logo": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+        "tags": [
+          "博客",
+          "开发者社区",
+          "精品问答"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "OSCHINA - 中文开源技术交流社区",
+        "desc": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
+        "url": "https://www.oschina.net/",
+        "logo": "https://static.oschina.net/new-osc/img/favicon.ico",
+        "tags": [
+          "开源",
+          "中文开源",
+          "开发者社区"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "掘金 - 代码不止，掘金不停",
+        "desc": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
+        "url": "https://juejin.cn/",
+        "logo": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/apple-touch-icon.png",
+        "tags": ["开发者社区", "文章", "论坛", "问答", "稀土"],
+        "rating": 4.9
+      },
+      {
+        "title": "技术成就梦想51CTO-中国领先的IT技术网站",
+        "desc": "51CTO是中国领先的IT技术在线学习平台和中国最大的IT技术社区之一，以服务IT技术人员职业成长为己任，对中国数千万IT技术人员拥有强大的影响力和服务能力。通过技术社区、技术博客和新媒体矩阵等综合产品服务体系，凝聚了2000万+IT技术人员、50万+位技术博主和近千家IT公司的CTO；通过丰富且高质量的IT技术在线教育资源，完整覆盖就业培训、在职提升、认证考试等职业教育领域，分别打造企业培训、个人提升创新产品矩阵，服务IT人才成长。同时，作为华为鸿蒙操作系统合作伙伴，51CTO承担了鸿蒙官方技术社区的运营，全力服务于鸿蒙开发者生态。",
+        "url": "https://www.51cto.com/",
+        "logo": "https://www.51cto.com/favicon.ico",
+        "tags": [
+          "cto",
+          "开发者社区",
+          "技术博客"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "Hi!PDA Hi!PDA",
         "desc": " Hi!PDA  - Board",
         "url": "https://www.hi-pda.com/forum/",
@@ -101,6 +145,16 @@
         ]
       },
       {
+        "title": "Ruby China",
+        "desc": "Ruby China",
+        "url": "https://ruby-china.org/",
+        "logo": "https://l.ruby-china.com/photo/2016/c309db0b49cab85a32f756541ea0e2b0.png",
+        "tags": [
+          "ruby"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "DEV Community 👩‍💻👨‍💻",
         "desc": "A constructive and inclusive social network for software developers. With you every step of your journey.",
         "url": "https://dev.to/",
@@ -108,6 +162,18 @@
         "tags": [
           "开发者社区",
           "博客平台"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "首页 - Go语言中文网 - Golang中文社区",
+        "desc": "Go语言中文网，中国 Golang 社区，Go语言学习园地，致力于构建完善的 Golang 中文社区，Go语言爱好者的学习家园。分享 Go 语言知识，交流使用经验",
+        "url": "https://studygolang.com/",
+        "logo": "https://static.golangjob.cn/static/img/favicon.ico",
+        "tags": [
+          "go",
+          "golang",
+          "golang中文社区"
         ],
         "rating": 4.9
       },
@@ -127,7 +193,10 @@
         "desc": "w2solo - 独立开发者社区",
         "url": "http://w2solo.com/",
         "logo": "https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png",
-        "tags": ["独立开发", "作品展示"],
+        "tags": [
+          "独立开发",
+          "作品展示"
+        ],
         "rating": 4.9
       },
       {

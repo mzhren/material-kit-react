@@ -19,7 +19,7 @@ const contentStyle = {
 const headerTitleStyle = {
     overflow: "hidden",
     textOverflow: "ellipsis",
-    maxWidth: "200px"
+    maxWidth: "300px"
 }
 
 

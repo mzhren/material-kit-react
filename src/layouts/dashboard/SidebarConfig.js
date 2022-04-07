@@ -88,6 +88,10 @@ const sidebarConfig = [
       title: '视频教程',
       path: '/links/video',
       icon: <Build />
+    }, {
+      title: '编程游戏',
+      path: '/links/programminggame',
+      icon: <Build />
     }]
   },
   {
