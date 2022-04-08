@@ -118,7 +118,13 @@
         "desc": "掘金是一个帮助开发者成长的社区,是给开发者用的 Hacker News,给设计师用的 Designer News,和给产品经理用的 Medium。掘金的技术文章由稀土上聚集的技术大牛和极客共同编辑为你筛选出最优质的干货,其中包括：Android、iOS、前端、后端等方面的内容。用户每天都可以在这里找到技术世界的头条内容。与此同时,掘金内还有沸点、掘金翻译计划、线下活动、专栏文章等内容。即使你是 GitHub、StackOverflow、开源中国的用户,我们相信你也可以在这里有所收获。",
         "url": "https://juejin.cn/",
         "logo": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/apple-touch-icon.png",
-        "tags": ["开发者社区", "文章", "论坛", "问答", "稀土"],
+        "tags": [
+          "开发者社区",
+          "文章",
+          "论坛",
+          "问答",
+          "稀土"
+        ],
         "rating": 4.9
       },
       {
@@ -131,6 +137,14 @@
           "开发者社区",
           "技术博客"
         ],
+        "rating": 4.9
+      },
+      {
+        "title": "CNode：Node.js专业中文社区",
+        "desc": "CNode：Node.js专业中文社区",
+        "url": "https://cnodejs.org/",
+        "logo": "https://static2.cnodejs.org/public/images/cnode_icon_32.png",
+        "tags": ["node.js"],
         "rating": 4.9
       },
       {
@@ -244,6 +258,21 @@
         ]
       },
       {
+        "title": "吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn",
+        "desc": "吾爱破解论坛致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由无数热衷于软件加密解密及反病毒爱好者共同维护 ",
+        "url": "https://www.52pojie.cn/",
+        "logo": "https://www.52pojie.cn/favicon.ico",
+        "tags": [
+          "破解",
+          "安全",
+          "病毒",
+          "安卓",
+          "加密",
+          "解密"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "砍柴网_探索科技与商业的逻辑",
         "desc": "砍柴网（ikanchai.com）创立于2013年，是一家拥有全球视野的前沿科技媒体，我们始终秉承观点独到、全面深入、有料有趣的宗旨，在科技与人文之间寻找商业新价值，坚持以人文的视角解读科技，用专业的精神剖析时代，孜孜不倦探索科技与商业的未来。 ",
         "url": "http://www.ikanchai.com/",
@@ -263,12 +292,50 @@
         ]
       },
       {
+        "title": "链滴 - 记录生活，连接点滴",
+        "desc": "记录生活，连接点滴。",
+        "url": "https://ld246.com/",
+        "logo": "https://ld246.com/images/favicon.png",
+        "tags": [],
+        "rating": 4.9
+      },
+      {
         "title": "站长之家 - 站长资讯-我们致力于为中文网站提供动力！",
         "desc": "站长之家(中国站长站)为个人站长与企业网络提供全面的站长资讯、源代码程序下载、海量建站素材、强大的搜索优化辅助工具、网络产品设计与运营理念以及一站式网络解决方案，十年来我们一直致力为中文网站提供动力。",
         "url": "https://www.chinaz.com/",
         "logo": "https://img.chinaz.com/2020/img/favicon.ico",
         "tags": [
           "建站"
+        ],
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "name": "摸鱼专区",
+    "sites": [
+      {
+        "title": "摸鱼派",
+        "desc": "如果你也是奋斗在一线、热爱工作的苦逼青年，期待与众多鱼油聚集起来，那就加入友好的摸鱼派社区吧！",
+        "url": "https://fishpi.cn/",
+        "logo": "https://fishpi.cn/images/favicon.png",
+        "tags": [
+          "摸鱼办",
+          "摸鱼社区"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "煎蛋 - 地球上没有新鲜事",
+        "desc": "煎蛋以译介方式传播网络新鲜资讯",
+        "url": "http://jandan.net/",
+        "logo": "http://cdn.jandan.net/static/img/appicon.png",
+        "tags": [
+          "搞笑",
+          "段子",
+          "妹子图",
+          "美女",
+          "摸鱼"
         ],
         "rating": 4.9
       }
