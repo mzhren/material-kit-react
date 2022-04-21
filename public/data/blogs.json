@@ -94,7 +94,10 @@
         "desc": "All about coding and writing",
         "url": "https://catcoding.me/",
         "logo": "https://catcoding.me/css/images/favicon.ico",
-        "tags": ["思维","技术写作"],
+        "tags": [
+          "思维",
+          "技术写作"
+        ],
         "rating": 4
       },
       {
@@ -143,7 +146,9 @@
         "desc": "王超的个人博客",
         "url": "https://writings.sh/",
         "logo": "https://writings.sh/assets/images/favicon.ico",
-        "tags": ["软件开发"],
+        "tags": [
+          "软件开发"
+        ],
         "rating": 4.2
       },
       {
@@ -169,6 +174,19 @@
         ]
       },
       {
+        "title": "4Ark × Blog",
+        "desc": "You can create art and beauty on a computer.",
+        "url": "https://4ark.me/",
+        "logo": "https://4ark.me/images/favicon.ico",
+        "tags": [
+          "简洁",
+          "美学",
+          "设计",
+          "周刊"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "技术胖",
         "desc": "胜洪宇关注web前端技术-前端免费视频第一博客",
         "url": "https://jspang.com/",
@@ -178,6 +196,23 @@
           "视频",
           "免费"
         ]
+      },
+      {
+        "title": "解道jdon - 传道解惑的架构师博客",
+        "desc": "领域驱动设计DDD,微服务,GitHub开源免费源代码,数据工程,RUST语言,规则引擎,DevOps文章排行榜,数据科学,Hadoop大数据处理生态系统,数据分析,",
+        "url": "https://www.jdon.com/",
+        "logo": "https://www.jdon.com/favicon.ico",
+        "tags": [
+          "DDD",
+          "微服务",
+          "数据工程",
+          "RUST",
+          "规则引擎",
+          "DevOps",
+          "数据科学",
+          "Hadoop"
+        ],
+        "rating": 4.9
       },
       {
         "title": "司徒正美 - 博客园",
@@ -284,6 +319,29 @@
           "科技",
           "软件"
         ]
+      },
+      {
+        "title": "ConardLi的blog",
+        "desc": "系统性学习，打造完善的知识体系",
+        "url": "http://www.conardli.top/blog/",
+        "logo": "http://www.conardli.top/favicon.ico",
+        "tags": [
+          "前端",
+          "VuePress",
+          "Vue",
+          "TS",
+          "NPM",
+          "React"
+        ],
+        "rating": 4
+      },
+      {
+        "title": "竹白記事本",
+        "desc": "竹白的前端筆記 HTML CSS JavaScript Vue 學習之路。",
+        "url": "https://chupai.github.io/",
+        "logo": "https://chupai.github.io/favicon.ico",
+        "tags": ["前端","vue"],
+        "rating": 4.9
       },
       {
         "title": "胡涂说 | 任抛星汉归园圃，留取乾坤盛酒囊。",

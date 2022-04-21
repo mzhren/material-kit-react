@@ -33,6 +33,14 @@
                 ]
             },
             {
+                "title": "常用设计模式有哪些？",
+                "desc": "设计模式是软件设计中常见问题的典型解决方案。每个模式就像一张蓝图，你可以通过对其进行定制来解决代码中的特定设计问题。立即开始学习！",
+                "url": "https://refactoringguru.cn/design-patterns",
+                "logo": "https://refactoringguru.cn/favicon.png",
+                "tags": ["设计模式"],
+                "rating": 4.9
+            },
+            {
                 "title": "小浩算法 | 小浩算法",
                 "desc": "和小浩一起学算法",
                 "url": "https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/01.html",
@@ -75,6 +83,17 @@
                     "B站"
                 ],
                 "rating": 4
+            },
+            {
+                "title": "浏览器工作原理与实践",
+                "desc": "极客浏览器工作原理与实践",
+                "url": "https://blog.poetries.top/browser-working-principle/",
+                "logo": "https://blog.poetries.top/browser-working-principle/logo.png",
+                "tags": [
+                    "浏览器",
+                    "浏览器原理"
+                ],
+                "rating": 4.9
             }
         ]
     },
@@ -86,7 +105,10 @@
                 "desc": "CS50x 2022",
                 "url": "https://cs50.harvard.edu/x/2022/",
                 "logo": "https://cs50.harvard.edu/x/2022/favicon.ico?1649215525",
-                "tags": ["哈佛", "cs50"],
+                "tags": [
+                    "哈佛",
+                    "cs50"
+                ],
                 "rating": 4.9
             }
         ]

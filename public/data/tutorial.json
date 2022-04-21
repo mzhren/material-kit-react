@@ -36,8 +36,18 @@
         "url": "https://learnku.com/docs/php-the-right-way/PHP8.0",
         "logo": "https://cdn.learnku.com//uploads/communities/Y7fElYYwCFjTTXCdwPNW.png!/both/44x44",
         "tags": [
-          "php","免费","中英"
+          "php",
+          "免费",
+          "中英"
         ],
+        "rating": 4.9
+      },
+      {
+        "title": "浏览器工作原理与实践",
+        "desc": "极客浏览器工作原理与实践",
+        "url": "https://blog.poetries.top/browser-working-principle/",
+        "logo": "https://blog.poetries.top/browser-working-principle/logo.png",
+        "tags": ["浏览器"],
         "rating": 4.9
       }
     ]

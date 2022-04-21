@@ -8,14 +8,19 @@
         "desc": "微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读。与微信好友一起发现更多精品好书，随时交流感想，让阅读不再孤独。",
         "url": "https://weread.qq.com/#login",
         "logo": "https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/favicon/favicon_16h.png",
-        "tags": ["微信读书"]
+        "tags": [
+          "微信读书"
+        ]
       },
       {
         "title": "首页-图灵社区",
         "desc": "首页-图灵社区",
         "url": "https://www.ituring.com.cn/",
         "logo": "https://www.ituring.com.cn/staticitr/img/favicon.png",
-        "tags": ["图灵", "程序设计"]
+        "tags": [
+          "图灵",
+          "程序设计"
+        ]
       }
     ]
   },
@@ -28,41 +33,61 @@
         "desc": "小蜜蜂在线电子书转换器, 转换电子书，支持绝多数格式如mobi, azw, txt, epub, pdf, azw3, htmlz等等，在线转换，质量高，速度快，生成的电子书能在各种设备上阅读!",
         "url": "http://cn.epubee.com/",
         "logo": "http://cn.epubee.com/icon.ico",
-        "tags": ["电子书转换"]
+        "tags": [
+          "电子书转换"
+        ]
       },
       {
         "url": "https://ebook2.lorefree.com/",
         "logo": "https://ebook2.lorefree.com/favicon.ico",
         "title": "LoreFree",
         "desc": "专业的免费电子书下载网站,支持mobi,epub,pdf,txt,azw3等阅读格式的电子书免费下载",
-        "tags": ["epub", "mobi", "pdf"]
+        "tags": [
+          "epub",
+          "mobi",
+          "pdf"
+        ]
       },
       {
         "title": "鸠摩搜索 - 文档搜索引擎",
         "desc": "鸠摩搜索引擎",
         "url": "https://www.jiumodiary.com/",
         "logo": "https://www.jiumodiary.com/images/favicon.png",
-        "tags": ["电子书", "搜索引擎"]
+        "tags": [
+          "电子书",
+          "搜索引擎"
+        ]
       },
       {
         "title": "Electronic library. Download books free. Finding books",
         "desc": "Electronic library. Download books free. Finding books | B–OK. Download books for free. Find books",
         "url": "https://b-ok.global/",
         "logo": "https://b-ok.global/apple-touch-icon.png",
-        "tags": ["找书", "免费", "下载", "中英"]
+        "tags": [
+          "找书",
+          "免费",
+          "下载",
+          "中英"
+        ]
       },
       {
         "title": "全国图书馆参考咨询联盟",
         "desc": "全国图书馆参考咨询联盟",
         "url": "http://www.ucdrs.superlib.net/",
         "logo": "http://www.ucdrs.superlib.net/favicon.ico",
-        "tags": ["电子书", "收费"]
+        "tags": [
+          "电子书",
+          "收费"
+        ]
       },
       {
         "url": "http://lcd.ccnu.edu.cn",
         "title": "中国地方志数据库",
         "desc": "华中师范大学整理的全国地方志网站",
-        "tags": ["古籍", "学术"]
+        "tags": [
+          "古籍",
+          "学术"
+        ]
       },
       {
         "title": "Z-Library single sign on",
@@ -85,116 +110,168 @@
     "icon": "file-download",
     "sites": [
       {
-        "title": "Nginx Directory",
-        "desc": "Nginx Directory",
-        "url": "http://gnetna.com/books/",
-        "logo": "http://gnetna.com/favicon.ico",
-        "tags": ["程序员向"]
-      },
-      {
-        "title": "书栈网 · BookStac",
-        "desc": "书栈网，IT程序员互联网开源编程书籍阅读分享，囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍，助你【码】力十足！",
-        "url": "https://www.bookstack.cn/",
-        "logo": "https://www.bookstack.cn/favicon.ico",
-        "tags": ["开源电子书", "小程序", "在线"]
-      },
-      {
-        "url": "http://www.j9p.com/class/r_16_1.html",
-        "logo": "http://www.j9p.com/images/logo.png",
-        "title": "pdf文件",
-        "desc": "pdf文件_精品下载",
-        "tags": ["pdf", "精校"]
-      },
-      {
-        "title": "gitenberg",
-        "url": "https://www.gitenberg.org",
-        "logo": "https://gitensite.s3.amazonaws.com/favicon.ico",
-        "desc": "英文电子书搜索网站",
-        "tags": ["英语", "epub"]
+        "title": "free-programming-books",
+        "desc": ":books: Freely available programming books",
+        "url": "https://ebookfoundation.github.io/free-programming-books/",
+        "logo": "https://ebookfoundation.github.io/favicon.ico",
+        "tags": ["免费","编程"],
+        "rating": 4.9
       },
       {
         "title": "每天一本编程书，每天进步一点点",
         "desc": "SaltTiger | 每天一本编程书，每天进步一点点",
         "url": "https://salttiger.com/",
         "logo": "https://salttiger.com/favicon.ico",
-        "tags": ["电子书", "编程", "英语"]
+        "tags": [
+          "电子书",
+          "编程",
+          "英语"
+        ]
       },
+      {
+        "title": "书栈网 · BookStac",
+        "desc": "书栈网，IT程序员互联网开源编程书籍阅读分享，囊括小程序、前端、后端、移动端、云计算、大数据、区块链、机器学习、人工智能和面试笔试等相关书籍，助你【码】力十足！",
+        "url": "https://www.bookstack.cn/",
+        "logo": "https://www.bookstack.cn/favicon.ico",
+        "tags": [
+          "开源电子书",
+          "小程序",
+          "在线"
+        ]
+      },
+      {
+        "url": "http://www.j9p.com/class/r_16_1.html",
+        "logo": "http://www.j9p.com/images/logo.png",
+        "title": "pdf文件",
+        "desc": "pdf文件_精品下载",
+        "tags": [
+          "pdf",
+          "精校"
+        ]
+      },
+      {
+        "title": "gitenberg",
+        "url": "https://www.gitenberg.org",
+        "logo": "https://gitensite.s3.amazonaws.com/favicon.ico",
+        "desc": "英文电子书搜索网站",
+        "tags": [
+          "英语",
+          "epub"
+        ]
+      },
+      
       {
         "title": "书行天下| PDF电子书学习下载站",
         "desc": "书行天下网是一个免费分享下载阅读各类最新pdf电子书籍的网络书屋，每天免费为大家分享大量涵盖各学科分类的pdf电子书、最新PDF图书、PDF高清电子书供大家免费下载阅读！",
         "url": "https://www.sxpdf.com/",
         "logo": "https://www.sxpdf.com/favicon.ico",
-        "tags": ["pdf", "免费", "计算机"]
+        "tags": [
+          "pdf",
+          "免费",
+          "计算机"
+        ]
       },
       {
         "title": "编程学习资料-码农之家",
         "desc": "码农之家为程序员朋友们提供计算机电子书资源免费下载，打造成编程电子书的专业网站，精选计算机pdf电子书内容并推荐有价值的视频教程内容，为大家学习编程和计算机知识节省成本。",
         "url": "https://www.xz577.com/",
         "logo": "https://www.xz577.com/favicon.ico",
-        "tags": ["码农", "视频", "电子书"]
+        "tags": [
+          "码农",
+          "视频",
+          "电子书"
+        ]
       },
       {
         "title": "七里香_一个免费的pdf电子书在线阅读网",
         "desc": "一个提供pdf电子书在线阅读的网站、免费pdf电子书在线阅读的网站",
         "url": "http://lxqnsys.com/pdf/",
         "logo": "http://lxqnsys.com/wlmt2.0/www.ico.la_da3cd70b625de5984ffb3461b7ffb207_64X64.ico",
-        "tags": ["pdf", "在线"]
+        "tags": [
+          "pdf",
+          "在线"
+        ]
       },
       {
         "title": "书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站",
         "desc": "书籍知识库",
         "url": "https://book.zhishikoo.com/",
         "logo": "https://book.zhishikoo.com/wp-content/uploads/2019/09/ico.png",
-        "tags": ["下载", "百度盘"]
+        "tags": [
+          "下载",
+          "百度盘"
+        ]
       },
       {
         "title": "书山有路-一个分享书籍的小憩",
         "desc": "书山有路-一个分享书籍的小憩",
         "url": "http://www.ssylu.com/",
         "logo": "http://www.ssylu.com/wp-content/themes/a-supercms/favicon.ico",
-        "tags": ["历史", "推理"]
+        "tags": [
+          "历史",
+          "推理"
+        ]
       },
       {
         "title": "八零电子书-下载PDF电子书，TXT全集电子书免费下载站",
         "desc": "八零电子书:（http://www.80pdf.com）每天精选互联网好看的PDF电子书及TXT全集电子书文档供浏览者学习使用，各类PDF,TXT书籍下载仅供学习交流使用。八零电子书所有的pdf,txt电子书免费下载，八零电子书是一个非盈利的PDF电子书,txt电子书读书学习网站。",
         "url": "http://www.80pdf.com/",
         "logo": "http://www.80pdf.com/favicon.ico",
-        "tags": ["pdf", "免费", "城通网盘"]
+        "tags": [
+          "pdf",
+          "免费",
+          "城通网盘"
+        ]
       },
       {
         "url": "http://www.modernhistory.org.cn",
         "title": "抗日战争与近代中日关系文献数据平台",
         "desc": "汇集抗日战争及近代中日关系的文献数据",
-        "tags": ["历史", "古籍", "学术", "文化"]
+        "tags": [
+          "历史",
+          "古籍",
+          "学术",
+          "文化"
+        ]
       },
       {
         "title": "PDF电子书下载 | 慧眼看",
         "desc": "慧眼看PDF电子书网提供最新免费的PDF电子书下载，以PDF电子书为主为用户提供学习下载PDF电子书使用。",
         "url": "http://www.huiyankan.com/",
         "logo": "http://pic.huiyankan.com/wp-content/themes/begin-lts/img/favicon.ico",
-        "tags": ["pdf", "ctfile"]
+        "tags": [
+          "pdf",
+          "ctfile"
+        ]
       },
       {
         "title": "酬勤教程网",
         "desc": "酬勤教程网",
         "url": "http://www.chouqinshuwu.com/",
         "logo": "http://www.chouqinshuwu.com/wp-content/themes/Nana/images/favicon.ico",
-        "tags": ["杂"]
+        "tags": [
+          "杂"
+        ]
       },
       {
         "title": "电子工程师硬件开发源码下载；技术资源下载；领先的开发源码社区 - 21ic电子技术资料下载站",
         "desc": "21ic电子工程师硬件开发源码下载,技术资源下载,源码下载,书籍文档等超过￥200G电子资料下载，每日新增超过180个资源，领先的开发源码社区，全力打造电子行业专业权威的下载网站。",
         "url": "https://dl.21ic.com/",
         "logo": "https://dl.21ic.com/images/favicon.ico",
-        "tags": ["电子学"]
+        "tags": [
+          "电子学"
+        ]
       },
       {
         "title": "Home - A library with lots of books",
         "desc": "33098116_一本万利锦囊_梁凤仪中信.djvu,33110762_硅谷传奇_杰里卡普兰_四川人民.djvu,簪中录(套装共4册)-侧侧轻寒.epub,瀧野邦雄：關於清代八股文的八股（提股、出題、 (1).pdf,耶路撒冷的列维纳斯：现象学、伦理学、政治、美学.pdf 电子书书籍在线阅读下载",
         "url": "http://x5v.net/",
         "logo": "http://x5v.net/favicon.ico",
-        "tags": ["积分","付费"],
-        "rating":3
+        "tags": [
+          "积分",
+          "付费"
+        ],
+        "rating": 3
       }
     ]
   }

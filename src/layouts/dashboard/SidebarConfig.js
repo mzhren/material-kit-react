@@ -42,7 +42,16 @@ const sidebarConfig = [
   {
     title: '圈子社区',
     path: '/links/sns',
-    icon: <GitHub />
+    icon: <GitHub />,
+    children: [{
+      title: '码农社区',
+      path: '/links/sns',
+      icon: <Web />
+    }, {
+      title: '摸鱼专区',
+      path: '/links/fish',
+      icon: <Build />
+    }]
   },
   {
     title: '奇趣娱乐',
@@ -63,16 +72,16 @@ const sidebarConfig = [
   },
   {
     title: '工具软件',
-    path: '/links/tool',
+    path: '/links/online',
     icon: <Build />,
     children: [{
-      title: '开源免费',
-      path: '/links/tool',
-      icon: <Build />
-    }, {
       title: '在线工具',
       path: '/links/online',
       icon: <Web />
+    }, {
+      title: '开源免费',
+      path: '/links/tool',
+      icon: <Build />
     }]
   },
   {

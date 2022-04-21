@@ -1,64 +1,5 @@
 [
   {
-    "name": "在线刷题",
-    "sites": [
-      {
-        "title": "LintCode 领扣",
-        "desc": "Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on. We provide Chinese and English versions for coders around the world.",
-        "url": "https://www.lintcode.com/",
-        "logo": "https://www.lintcode.com/static/favicon.ico",
-        "tags": [
-          "在线刷题"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "CSS",
-    "icon": "tools",
-    "sites": [
-      {
-        "title": "Can I use... Support tables for HTML5, CSS3, etc",
-        "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
-        "url": "https://caniuse.com/css-rrggbbaa",
-        "logo": "https://caniuse.com/img/favicon-128.png",
-        "tags": [
-          "CSS",
-          "兼容性"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "SVG",
-    "icon": "tools",
-    "sites": [
-      {
-        "title": "Calligrapher.ai: Realistic computer-generated handwriting",
-        "desc": "Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.",
-        "url": "https://www.calligrapher.ai/",
-        "logo": "https://www.calligrapher.ai/favicon.ico",
-        "tags": [
-          "手写",
-          "文字转svg"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "图床",
-    "icon": "photo",
-    "sites": [
-      {
-        "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
-        "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
-        "url": "https://imgchr.com/",
-        "logo": "https://imgchr.com/content/images/system/favicon_1587118523486_91617a.png",
-        "tags": []
-      }
-    ]
-  },
-  {
     "name": "码农工具",
     "icon": "tools",
     "sites": [
@@ -71,6 +12,14 @@
           "工具箱"
         ],
         "rating": 5
+      },
+      {
+        "title": "Devhints — TL;DR for developer documentation",
+        "desc": "A ridiculous collection of web development cheatsheets · One-page guide to ",
+        "url": "https://devhints.io/",
+        "logo": "https://devhints.io/assets/favicon.png",
+        "tags": ["备忘录","cheat sheet"],
+        "rating": 4.9
       },
       {
         "title": "简单代码截图",
@@ -147,7 +96,10 @@
         "desc": "A magical documentation generator.",
         "url": "https://docsify.js.org/#/",
         "logo": "https://docsify.js.org/_media/favicon.ico",
-        "tags": ["文档","文档生成"],
+        "tags": [
+          "文档",
+          "文档生成"
+        ],
         "rating": 4
       },
       {
@@ -155,7 +107,10 @@
         "desc": "MrDoc，适合于个人和中小型团队的在线文档、知识库管理私有化部署方案",
         "url": "https://gitee.com/zmister/MrDoc",
         "logo": "https://assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico",
-        "tags": ["在线文档","知识库"],
+        "tags": [
+          "在线文档",
+          "知识库"
+        ],
         "rating": 4
       },
       {
@@ -168,6 +123,66 @@
       }
     ]
   },
+  {
+    "name": "在线刷题",
+    "sites": [
+      {
+        "title": "LintCode 领扣",
+        "desc": "Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on. We provide Chinese and English versions for coders around the world.",
+        "url": "https://www.lintcode.com/",
+        "logo": "https://www.lintcode.com/static/favicon.ico",
+        "tags": [
+          "在线刷题"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CSS",
+    "icon": "tools",
+    "sites": [
+      {
+        "title": "Can I use... Support tables for HTML5, CSS3, etc",
+        "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+        "url": "https://caniuse.com/css-rrggbbaa",
+        "logo": "https://caniuse.com/img/favicon-128.png",
+        "tags": [
+          "CSS",
+          "兼容性"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SVG",
+    "icon": "tools",
+    "sites": [
+      {
+        "title": "Calligrapher.ai: Realistic computer-generated handwriting",
+        "desc": "Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.",
+        "url": "https://www.calligrapher.ai/",
+        "logo": "https://www.calligrapher.ai/favicon.ico",
+        "tags": [
+          "手写",
+          "文字转svg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "图床",
+    "icon": "photo",
+    "sites": [
+      {
+        "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
+        "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
+        "url": "https://imgchr.com/",
+        "logo": "https://imgchr.com/content/images/system/favicon_1587118523486_91617a.png",
+        "tags": []
+      }
+    ]
+  },
+ 
   {
     "name": "在线工具",
     "sites": [

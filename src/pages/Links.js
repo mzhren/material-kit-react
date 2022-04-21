@@ -25,6 +25,7 @@ const LINK_GROUP = {
     design: "设计图标",
     programminggame:"编程游戏",
     wemedia: "自媒体",
+    fish: "摸鱼专区",
     itnews:"信息聚合"
 }
 

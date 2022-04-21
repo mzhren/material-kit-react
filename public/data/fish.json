@@ -1,0 +1,38 @@
+[{
+    "name": "摸鱼专区",
+    "sites": [
+      {
+        "title": "摸鱼派",
+        "desc": "如果你也是奋斗在一线、热爱工作的苦逼青年，期待与众多鱼油聚集起来，那就加入友好的摸鱼派社区吧！",
+        "url": "https://fishpi.cn/",
+        "logo": "https://fishpi.cn/images/favicon.png",
+        "tags": [
+          "摸鱼办",
+          "摸鱼社区"
+        ],
+        "rating": 4.9
+      },
+      {
+        "title": "鱼塘热榜",
+        "desc": "鱼塘热榜提供了国内外各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、Github、抖音、今日头条等等,在这里你能够轻松了解全网最新资讯",
+        "url": "https://mo.fish/",
+        "logo": "https://mo.fish/fish.ico",
+        "tags": ["聚合", "热榜", "榜单"],
+        "rating": 4.9
+      },
+      {
+        "title": "煎蛋 - 地球上没有新鲜事",
+        "desc": "煎蛋以译介方式传播网络新鲜资讯",
+        "url": "http://jandan.net/",
+        "logo": "http://cdn.jandan.net/static/img/appicon.png",
+        "tags": [
+          "搞笑",
+          "段子",
+          "妹子图",
+          "美女",
+          "摸鱼"
+        ],
+        "rating": 4.9
+      }
+    ]
+  }]

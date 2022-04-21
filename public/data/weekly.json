@@ -37,10 +37,32 @@
                 "desc": "为独立创造者提供独立见解，发现新产品，内容包含不限于新闻洞察、行业分析、产品推荐、推特精选、产品运营、产品设计、UI设计、技术开发、生活方式等。",
                 "url": "https://www.decohack.com/",
                 "logo": "https://www.decohack.com/wp-content/uploads/2022/03/13113516251.png",
-                "tags": ["微信订阅", "独立开发者"],
+                "tags": [
+                    "微信订阅",
+                    "独立开发者"
+                ],
                 "rating": 4.6
             },
-            {"title":"开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻","desc":"开发者头条，程序员必装的App。使用开发者头条App，程序员可以阅读头条新闻、分享技术文章、发布开源项目，订阅技术极客/技术团队开通的独家号/团队号和关注编程牛人。","url":"https://toutiao.io/","logo":"https://toutiao.io/apple-icon-57x57.png","tags":[],"rating":4.9},
+            {
+                "title": "开发者头条 - 程序员分享平台 | 程序员必装的App | 技术极客的头条新闻",
+                "desc": "开发者头条，程序员必装的App。使用开发者头条App，程序员可以阅读头条新闻、分享技术文章、发布开源项目，订阅技术极客/技术团队开通的独家号/团队号和关注编程牛人。",
+                "url": "https://toutiao.io/",
+                "logo": "https://toutiao.io/apple-icon-57x57.png",
+                "tags": [],
+                "rating": 4.9
+            },
+            {
+                "title": "4Ark × Blog 周刊",
+                "desc": "You can create art and beauty on a computer.",
+                "url": "https://4ark.me/weekly/",
+                "logo": "https://4ark.me/images/favicon.ico",
+                "tags": [
+                    "周刊",
+                    "程序员",
+                    "简洁"
+                ],
+                "rating": 4.9
+            },
             {
                 "title": "100,000 Stars",
                 "desc": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
