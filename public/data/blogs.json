@@ -340,7 +340,10 @@
         "desc": "竹白的前端筆記 HTML CSS JavaScript Vue 學習之路。",
         "url": "https://chupai.github.io/",
         "logo": "https://chupai.github.io/favicon.ico",
-        "tags": ["前端","vue"],
+        "tags": [
+          "前端",
+          "vue"
+        ],
         "rating": 4.9
       },
       {
@@ -359,6 +362,14 @@
         "url": "https://www.pupboss.com/",
         "logo": "data:image/x-icon;base64,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",
         "tags": [],
+        "rating": 4.9
+      },
+      {
+        "title": "云原生实验室 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang|云原生",
+        "desc": "云原生实验室是一个关注容器、kubernetes、istio、devops、prometheus、envoy、golang、云原生、微服务等技术的个人博客。",
+        "url": "https://icloudnative.io/",
+        "logo": "https://icloudnative.io/favicon/apple-icon-57x57.png",
+        "tags": ["容器", "kubernetes", "docker", "istio", "devops", "prometheus", "envoy", "golang", "云原生", "微服务"],
         "rating": 4.9
       }
     ]
