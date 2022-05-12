@@ -53,7 +53,7 @@
             },
             {
                 "title": "4Ark × Blog 周刊",
-                "desc": "You can create art and beauty on a computer.",
+                "desc": "每周分享一些我的生活感悟、推荐文章、有趣的东西，期待能给你带来一些帮助。",
                 "url": "https://4ark.me/weekly/",
                 "logo": "https://4ark.me/images/favicon.ico",
                 "tags": [
@@ -61,134 +61,114 @@
                     "程序员",
                     "简洁"
                 ],
+                "rating": 4.1
+            },
+            {
+                "title": "混沌周刊",
+                "desc": "混沌周刊 – 有关科技，有关开发，有关生活",
+                "url": "https://weekly.love/",
+                "logo": "https://i0.wp.com/weekly.love/wp-content/uploads/2021/05/cropped-Weekly.png?fit=32%2C32&ssl=1",
+                "tags": [
+                    "周刊",
+                    "科技",
+                    "开发",
+                    "生活"
+                ],
+                "rating": 4.0
+            },
+            {
+                "title": "独立开发变现周刊汇总 - ezindie.com",
+                "desc": "独立开发变现人物志、产品周刊、工具集",
+                "url": "https://www.ezindie.com/weekly",
+                "logo": "https://www.ezindie.com/favicon.ico",
+                "tags": [
+                    "周刊",
+                    "产品",
+                    "独立开发",
+                    "工具"
+                ],
+                "rating": 4.3
+            },
+            {
+                "title": "酷玩周刊 | Revue",
+                "desc": "酷玩周刊 - 发掘一切有趣的数字生活...",
+                "url": "https://www.getrevue.co/profile/coldplay-weekly",
+                "logo": "https://d3jbm9h03wxzi9.cloudfront.net/assets/favicon-4bca5727fc21fa6ee2a6ae554a6c236825acdd046c481ffce5748911f8b1f4a3.ico",
+                "tags": [
+                    "周刊",
+                    "产品",
+                    "娱乐"
+                ],
                 "rating": 4.9
             },
             {
-                "title": "100,000 Stars",
-                "desc": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
-                "url": "http://stars.chromeexperiments.com/",
-                "logo": "http://stars.chromeexperiments.com/favicon.ico",
+                "title": "啰里啰唆",
+                "desc": "啰里啰唆是一份针对互联网和生活爱好者的数字杂志，旨在发现和分享一切有趣的东西。部分内容来自互联网采编，也有一些是编者本人的思考和短文，话题不固定，每期大约十五分钟阅读量，暂定每周四发布。—— 由 萝的卜 创作",
+                "url": "https://luoliluosuo.zhubai.love/",
+                "logo": "https://luoliluosuo.zhubai.love/favicon.png",
                 "tags": [
-                    "天文"
-                ]
+                    "杂志",
+                    "互联网",
+                    "周刊"
+                ],
+                "rating": 4.9
             },
             {
-                "title": "Things Come Apart - TODD MCLELLAN MOTION/STILLS",
-                "desc": "Project of disassembled objects shown in detail in a flat lay. Once laid out, the pieces were thrown through the air.",
-                "url": "https://www.toddmclellan.com/",
-                "logo": "https://format-com-cld-res.cloudinary.com/image/upload/s--flgw5fDD--/c_limit,g_center,h_16,w_16/fl_keep_iptc.progressive,q_95/51589-2992525-Apart_Phone_ICON.ico",
+                "title": "开源早读课周刊",
+                "desc": "Contribute to hapiman/weekly development by creating an account on GitHub.",
+                "url": "https://github.com/hapiman/weekly",
+                "logo": "https://github.com/fluidicon.png",
                 "tags": [
-                    "分解"
-                ]
+                    "周刊",
+                    "开源"
+                ],
+                "rating": 4.2
             },
             {
-                "title": "Welcome to Method of Action",
-                "desc": "Method of Action is education made fun",
-                "url": "https://method.ac/",
-                "logo": "https://method.ac/favicon-32x32.png",
+                "title": "好工具周刊",
+                "desc": "发现并分享有趣，有创意，免费、好用的工具，每周四发布。—— 由 BestXTools 创作",
+                "url": "https://bestxtools.zhubai.love/",
+                "logo": "https://bestxtools.zhubai.love/favicon.png",
                 "tags": [
-                    "ps",
-                    "设计",
-                    "游戏"
-                ]
+                    "周刊",
+                    "工具"
+                ],
+                "rating": 4.3
             },
             {
-                "title": "开源表情包",
-                "desc": "PP制造计划 开源表情包",
-                "url": "https://www.v2fy.com/asset/0i/ChineseBQB/",
-                "logo": "https://www.v2fy.com/asset/0i/ChineseBQB/icon.png",
+                "title": "产品鸭",
+                "desc": "每周读一篇新产品与设计思路介绍，创业者产品创业的精神武装。—— 由 Madlifer 创作",
+                "url": "https://produck.zhubai.love/",
+                "logo": "https://produck.zhubai.love/favicon.png",
                 "tags": [
-                    "表情包",
-                    "斗图"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "漫画",
-        "sites": [
-            {
-                "title": "日本漫画 漫画大全 看漫画 在线漫画-漫画DB",
-                "desc": "漫画DB是全网最专业的日本漫画大全资料库。网站上的所有漫画均可免费在线看，同时每部漫画都有丰富的资料，包括登场人物、用语、设定、改编作品及创作幕后等深层的内容。",
-                "url": "https://www.manhuadb.com/",
-                "logo": "https://www.manhuadb.com/assets/www/img/favicon.png",
-                "tags": [
-                    "日本漫画",
-                    "在线"
-                ]
+                    "周刊",
+                    "产品"
+                ],
+                "rating": 4.2
             },
             {
-                "title": "六漫画 - 好看的热门漫画_最新最全漫画_免费观看",
-                "desc": "六漫画为您推荐全网最新最全漫画，漫画在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。第一时间更新漫画。",
-                "url": "http://6mh7.com/",
-                "logo": "http://6mh7.com/favicon.ico",
+                "title": "GeekPlux Lab",
+                "desc": "商业、技术、财富、个人提升等，Always Exploring。付费订阅每两周一篇科技公司分析。",
+                "url": "https://geekplux.zhubai.love/",
+                "logo": "https://geekplux.zhubai.love/favicon.png",
                 "tags": [
-                    "漫画"
-                ]
+                    "商业",
+                    "技术",
+                    "财富",
+                    "个人提升",
+                    "周刊"
+                ],
+                "rating": 4.1
             },
             {
-                "title": "日本漫畫_在線漫畫閱讀第一站_mangabz",
-                "desc": "mangabz是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人178、海賊王993、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
-                "url": "http://mangabz.com/",
-                "logo": "http://mangabz.com/favicon.ico",
+                "title": "浴室沉思录",
+                "desc": "你好，这里是胡鹤仙的 Newsletter ——浴室沉思录 现代人只有在浴室里和马桶上才是真正独处的，洗澡是“即便再怎么样也不应该被剥夺的活动”之一，我们完全可以在那段时间里正义禀然地放松。 在这里我分享我的思考与见闻。",
+                "url": "https://zhiy.cc/Bathinking",
+                "logo": "https://zhiy.cc/logo.png",
                 "tags": [
-                    "日本漫畫"
-                ]
-            },
-            {
-                "title": "Webtoon XYZ : Read Webtoon (Korean Manhwa) in English Online Free!",
-                "desc": "Digital platform for read Korean webtoons. Find your favorite premium manhwa and webtoons translated to english for free. Read Webtoon Online at WEBTOON XYZ",
-                "url": "https://www.webtoon.xyz/",
-                "logo": "https://www.webtoon.xyz/wp-content/uploads/2020/09/cropped-favicon-512x512-1-32x32.png",
-                "tags": [
-                    "韩国燙",
-                    "18+",
-                    "英语"
-                ]
-            },
-            {
-                "title": "看漫画网 mh-mh.com-免费日韩漫画、美女写真，无弹窗无广告",
-                "desc": "看漫画网 mh-mh.com提供免费日韩漫画和美女写真，看漫画网 mh-mh.com收录全网最好看的漫画最新章节，免费阅读下载、无弹窗！",
-                "url": "https://www.mh-mh.com/",
-                "logo": "https://www.mh-mh.com/static/touch-icon.png",
-                "tags": [
-                    "日韩漫画",
-                    "18+"
-                ]
-            },
-            {
-                "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
-                "desc": "With more than half a million absolutely free hentai doujinshi, manga, cosplay and CG galleries, E-Hentai Galleries is the world's largest free Hentai archive.",
-                "url": "https://e-hentai.org/",
-                "logo": "https://e-hentai.org/favicon.ico",
-                "tags": [
-                    "变态漫画",
-                    "免费"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "音乐",
-        "icon": "music",
-        "sites": [
-            {
-                "title": "网易云音乐",
-                "desc": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
-                "url": "https://music.163.com/",
-                "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
-                "tags": [
-                    "云音乐"
-                ]
-            },
-            {
-                "title": "Deepwork.fm | The ultimate work playlist",
-                "desc": "With weeks of unique, carefully selected tunes. Pick one of our 4 channels or just hit random and do your thing.",
-                "url": "https://deepwork.fm/",
-                "logo": "https://deepwork.fm/assets/images/favicon.png?v89893136269951",
-                "tags": [
-                    "fm"
-                ]
+                    "周刊"
+                ],
+                "rating": 3.0
             }
         ]
     }
