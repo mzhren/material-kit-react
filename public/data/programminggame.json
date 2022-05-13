@@ -17,6 +17,14 @@
                 "logo": "https://likexia.gitee.io/game/favicon.ico",
                 "tags": [],
                 "rating": 4.9
+            },
+            {
+                "title": "TypeScript 题库",
+                "desc": "Collection of TypeScript type challenges with online judge - type-challenges/README.zh-CN.md at main · type-challenges/type-challenges",
+                "url": "https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md",
+                "logo": "https://github.com/fluidicon.png",
+                "tags": ["TypeScript","challenges","游戏","题库"],
+                "rating": 4.9
             }
         ]
     }

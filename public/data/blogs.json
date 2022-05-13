@@ -16,15 +16,12 @@
         ]
       },
       {
-        "title": "1024 - 好人一生平安 - 1024.COM",
-        "desc": "1024.COM，好人一生平安，一个正经的科技网站，程序员社区。关注程序员、区块链、创业者、开发者、人工智能、开源代码、创新创意、宇宙星际、数字化转型。",
-        "url": "https://1024.com/",
-        "logo": "https://1024.com/favicon.ico",
-        "tags": [
-          "商业",
-          "程序员生活"
-        ],
-        "rating": 4.8
+        "title": "云风的 BLOG",
+        "desc": "思绪来得快去得也快，偶尔会在这里停留",
+        "url": "https://blog.codingnow.com/",
+        "logo": "https://blog.codingnow.com/favicon.ico",
+        "tags": [],
+        "rating": 4.9
       },
       {
         "url": "http://www.yinwang.org/",
@@ -36,6 +33,17 @@
           "观点",
           "设计"
         ]
+      },
+      {
+        "title": "1024 - 好人一生平安 - 1024.COM",
+        "desc": "1024.COM，好人一生平安，一个正经的科技网站，程序员社区。关注程序员、区块链、创业者、开发者、人工智能、开源代码、创新创意、宇宙星际、数字化转型。",
+        "url": "https://1024.com/",
+        "logo": "https://1024.com/favicon.ico",
+        "tags": [
+          "商业",
+          "程序员生活"
+        ],
+        "rating": 4.8
       },
       {
         "title": "罗磊的独立博客 - 前端工程师，ZUOLUOTV制作人",
@@ -369,7 +377,18 @@
         "desc": "云原生实验室是一个关注容器、kubernetes、istio、devops、prometheus、envoy、golang、云原生、微服务等技术的个人博客。",
         "url": "https://icloudnative.io/",
         "logo": "https://icloudnative.io/favicon/apple-icon-57x57.png",
-        "tags": ["容器", "kubernetes", "docker", "istio", "devops", "prometheus", "envoy", "golang", "云原生", "微服务"],
+        "tags": [
+          "容器",
+          "kubernetes",
+          "docker",
+          "istio",
+          "devops",
+          "prometheus",
+          "envoy",
+          "golang",
+          "云原生",
+          "微服务"
+        ],
         "rating": 4.9
       }
     ]
