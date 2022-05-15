@@ -1,8 +1,6 @@
-[
-    {
+[{
         "name": "线上教程",
-        "sites": [
-            {
+        "sites": [{
                 "title": "MDN Web 文档",
                 "desc": "MDN Web Docs 网站提供开放网络（Open Web）技术有关的信息，包括用于网站和渐进式网络应用的 HTML、CSS 和 API。它还记录了一些用于 Mozilla 产品的面向开发者的文档，例如 Firefox 开发者工具。",
                 "url": "https://developer.mozilla.org/zh-CN/",
@@ -37,7 +35,9 @@
                 "desc": "设计模式是软件设计中常见问题的典型解决方案。每个模式就像一张蓝图，你可以通过对其进行定制来解决代码中的特定设计问题。立即开始学习！",
                 "url": "https://refactoringguru.cn/design-patterns",
                 "logo": "https://refactoringguru.cn/favicon.png",
-                "tags": ["设计模式"],
+                "tags": [
+                    "设计模式"
+                ],
                 "rating": 4.9
             },
             {
@@ -94,80 +94,79 @@
                     "浏览器原理"
                 ],
                 "rating": 4.9
-            }
+            },
+            {
+                "title": "DevDocs API Documentation",
+                "desc": "Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…",
+                "url": "https://devdocs.io/",
+                "logo": "https://devdocs.io/favicon.ico",
+                "tags": ["docs", "在线文档"]
+            },
+            { "title": "a documents hub - adochub.com", "desc": "adochub.com is a website host most open source documents so you can find the project docs you want in one place", "url": "https://adochub.com/", "logo": "https://adochub.com/favicon.ico", "tags": [] }
         ]
     },
     {
         "name": "在线课程",
-        "sites": [
-            {
-                "title": "CS50x 2022",
-                "desc": "CS50x 2022",
-                "url": "https://cs50.harvard.edu/x/2022/",
-                "logo": "https://cs50.harvard.edu/x/2022/favicon.ico?1649215525",
-                "tags": [
-                    "哈佛",
-                    "cs50"
-                ],
-                "rating": 4.9
-            }
-        ]
+        "sites": [{
+            "title": "CS50x 2022",
+            "desc": "CS50x 2022",
+            "url": "https://cs50.harvard.edu/x/2022/",
+            "logo": "https://cs50.harvard.edu/x/2022/favicon.ico?1649215525",
+            "tags": [
+                "哈佛",
+                "cs50"
+            ],
+            "rating": 4.9
+        }]
     },
     {
         "name": "技术路线",
-        "sites": [
-            {
-                "title": "Web Skills",
-                "desc": "A visual overview of useful skills to learn as a web developer",
-                "url": "https://andreasbm.github.io/web-skills/",
-                "logo": "https://andreasbm.github.io/web-skills/www/icon16x16.png",
-                "tags": [
-                    "Web",
-                    "技术路线"
-                ],
-                "rating": 4.9
-            }
-        ]
+        "sites": [{
+            "title": "Web Skills",
+            "desc": "A visual overview of useful skills to learn as a web developer",
+            "url": "https://andreasbm.github.io/web-skills/",
+            "logo": "https://andreasbm.github.io/web-skills/www/icon16x16.png",
+            "tags": [
+                "Web",
+                "技术路线"
+            ],
+            "rating": 4.9
+        }]
     },
     {
         "name": "面试技巧",
-        "sites": [
-            {
-                "title": "剑指前端 Offer",
-                "desc": "前端面试题",
-                "url": "https://febook.hzfe.org/awesome-interview/",
-                "logo": "https://febook.hzfe.org/awesome-interview/img/favicon.ico",
-                "tags": [
-                    "前端",
-                    "面试",
-                    "模拟面试"
-                ],
-                "rating": 4.9
-            }
-        ]
+        "sites": [{
+            "title": "剑指前端 Offer",
+            "desc": "前端面试题",
+            "url": "https://febook.hzfe.org/awesome-interview/",
+            "logo": "https://febook.hzfe.org/awesome-interview/img/favicon.ico",
+            "tags": [
+                "前端",
+                "面试",
+                "模拟面试"
+            ],
+            "rating": 4.9
+        }]
     },
     {
         "name": "视频教程",
-        "sites": [
-            {
-                "title": "【斯坦福大学】数学思维课 跳出条条框框 培养数学思维|Mathematical Thinking, Stanford University_哔哩哔哩_bilibili",
-                "desc": "Coursera名校公开课 Coursera.com学习如何以数学家的方式思考——这是一个经过数千年发展的强大的认知过程。数学思维和做数学不一样——至少不像我们学校系统中典型的数学那样。学校数学通常侧重于解决高度定型问题的学习过程。专业数学家认为某种方法可以解决现实问题，这些问题可能来自于日常世界、科学或数学本身。学校数学成功的关键是学会在盒子里思考。相反，数学思维的一个关键特征是跳出框框思考——",
-                "url": "https://www.bilibili.com/video/BV1dq4y127TF",
-                "logo": "http://i1.hdslb.com/bfs/archive/4eb98c7cf171b6ac09c83acde168eaf8eb0abff1.png@57w_57h_1c.png",
-                "tags": [
-                    "数学",
-                    "视频",
-                    "教程",
-                    "B站"
-                ],
-                "rating": 4.9
-            }
-        ]
+        "sites": [{
+            "title": "【斯坦福大学】数学思维课 跳出条条框框 培养数学思维|Mathematical Thinking, Stanford University_哔哩哔哩_bilibili",
+            "desc": "Coursera名校公开课 Coursera.com学习如何以数学家的方式思考——这是一个经过数千年发展的强大的认知过程。数学思维和做数学不一样——至少不像我们学校系统中典型的数学那样。学校数学通常侧重于解决高度定型问题的学习过程。专业数学家认为某种方法可以解决现实问题，这些问题可能来自于日常世界、科学或数学本身。学校数学成功的关键是学会在盒子里思考。相反，数学思维的一个关键特征是跳出框框思考——",
+            "url": "https://www.bilibili.com/video/BV1dq4y127TF",
+            "logo": "http://i1.hdslb.com/bfs/archive/4eb98c7cf171b6ac09c83acde168eaf8eb0abff1.png@57w_57h_1c.png",
+            "tags": [
+                "数学",
+                "视频",
+                "教程",
+                "B站"
+            ],
+            "rating": 4.9
+        }]
     },
     {
         "name": "慕课平台",
-        "sites": [
-            {
+        "sites": [{
                 "title": "Learn to Code — For Free — Coding Courses for Busy People",
                 "desc": "Learn to Code — For Free",
                 "url": "https://www.freecodecamp.org/",
