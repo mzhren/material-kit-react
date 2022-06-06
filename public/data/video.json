@@ -1,30 +1,56 @@
-[{
-    "name": "视频教程",
-    "sites": [
-        {
-            "title": "Kubernetes (K8S) 3 小时快速上手 + 实践，无废话纯干货_哔哩哔哩_bilibili",
-            "desc": "课件地址：https://k8s.easydoc.net有问题欢迎留言，我会给你解答。觉得不错的话，别忘了给我一键三连如需群交流，微信加：svnbucket，备注“入群”。",
-            "url": "https://www.bilibili.com/video/BV1Tg411P7EB/",
-            "logo": "http://i0.hdslb.com/bfs/archive/676221fe26eb1f82eb55473927e9ab9c0177fd97.jpg@57w_57h_1c.png",
-            "tags": [],
-            "rating": 4
-        },
-        {
-            "url": "https://www.423down.com",
-            "title": "423down绿色软件下载",
-            "desc": "一个有品质的软件分享下载站",
-            "tags": [
-                "软件"
-            ]
-        },
-        {
-            "url": "https://www.ffmpeg.org/",
-            "title": "FFMpeg",
-            "logo":"https://www.ffmpeg.org/favicon.ico",
-            "desc": "A complete, cross-platform solution to record, convert and stream audio and video.",
-            "tags": [
-                "开源","命令行"
-            ]
-        }
-    ]
-}]
+[
+    {
+        "name": "视频教程",
+        "sites": [
+            {
+                "title": "Kubernetes (K8S) 3 小时快速上手 + 实践，无废话纯干货_哔哩哔哩_bilibili",
+                "desc": "课件地址：https://k8s.easydoc.net有问题欢迎留言，我会给你解答。觉得不错的话，别忘了给我一键三连如需群交流，微信加：svnbucket，备注“入群”。",
+                "url": "https://www.bilibili.com/video/BV1Tg411P7EB/",
+                "logo": "http://i0.hdslb.com/bfs/archive/676221fe26eb1f82eb55473927e9ab9c0177fd97.jpg@57w_57h_1c.png",
+                "tags": [],
+                "rating": 4
+            },
+            {
+                "title": "【斯坦福大学】数学思维课 跳出条条框框 培养数学思维|Mathematical Thinking, Stanford University_哔哩哔哩_bilibili",
+                "desc": "Coursera名校公开课 Coursera.com学习如何以数学家的方式思考——这是一个经过数千年发展的强大的认知过程。数学思维和做数学不一样——至少不像我们学校系统中典型的数学那样。学校数学通常侧重于解决高度定型问题的学习过程。专业数学家认为某种方法可以解决现实问题，这些问题可能来自于日常世界、科学或数学本身。学校数学成功的关键是学会在盒子里思考。相反，数学思维的一个关键特征是跳出框框思考——",
+                "url": "https://www.bilibili.com/video/BV1dq4y127TF",
+                "logo": "http://i1.hdslb.com/bfs/archive/4eb98c7cf171b6ac09c83acde168eaf8eb0abff1.png@57w_57h_1c.png",
+                "tags": [
+                    "数学",
+                    "视频",
+                    "教程",
+                    "B站"
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "name": "慕课平台",
+        "sites": [
+            {
+                "title": "Learn to Code — For Free — Coding Courses for Busy People",
+                "desc": "Learn to Code — For Free",
+                "url": "https://www.freecodecamp.org/",
+                "logo": "https://www.freecodecamp.org/favicon-32x32.png?v=6cba562cbd10e31af925a976f3db73f7",
+                "tags": [
+                    "免费"
+                ],
+                "rating": 4.6
+            },
+            {
+                "title": "网易云课堂 - 悄悄变强大",
+                "desc": "网易云课堂，一个专注于成人终身学习的在线教育平台。立足于实用性的要求, 与优质的教育内容创作者一起，为您提供全面、有效的在线学习内容。",
+                "url": "https://study.163.com/",
+                "logo": "https://study.163.com/favicon.ico",
+                "tags": [
+                    "在线",
+                    "视频",
+                    "慕课",
+                    "网易"
+                ],
+                "rating": 4.9
+            }
+        ]
+    }
+]
