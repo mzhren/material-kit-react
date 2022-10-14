@@ -9,6 +9,17 @@
                 "logo": "https://i1.funletu.com/img/1572229551-funletu-logo-favicon.png",
                 "tags": [],
                 "rating": 4.9
+            },
+            {
+                "title": "AlleyRead - 重塑你的信息源",
+                "desc": "AlleyRead 是一款帮助用户发现、收藏、预览 newsletter 的导航站，通过用户推荐、平台审核，从国内外全网筛选优质内容源。Alleyread 致力于提升读者内容探索和阅读体验，基于此开发设计一系列优质功能。",
+                "url": "https://alleyread.com/",
+                "logo": "https://alleyread.com/favicon.ico",
+                "tags": [
+                    "newsletter",
+                    "RSS"
+                ],
+                "rating": 4.9
             }
         ]
     }

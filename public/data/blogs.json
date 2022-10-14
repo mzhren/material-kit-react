@@ -329,6 +329,17 @@
         ]
       },
       {
+        "title": "首页|biaoblog|专注web开发技术分享",
+        "desc": "专注web开发技术分享",
+        "url": "http://biaoblog.cn/",
+        "logo": "http://biaoblog.cn:3000/uploads/1653375680185.png",
+        "tags": [
+          "web",
+          "前端"
+        ],
+        "rating": 4.9
+      },
+      {
         "title": "ConardLi的blog",
         "desc": "系统性学习，打造完善的知识体系",
         "url": "http://www.conardli.top/blog/",
@@ -390,7 +401,8 @@
           "微服务"
         ],
         "rating": 4.9
-      }
+      },
+      {"title":"JPlay","desc":"JPlay","url":"https://jplay.github.io/","logo":"https://jplay.github.io/images/apple-touch-icon-next.png","tags":[],"rating":4.9}
     ]
   },
   {

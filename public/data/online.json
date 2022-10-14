@@ -1,13 +1,18 @@
-[{
+[
+    {
         "name": "码农工具",
         "icon": "tools",
-        "sites": [{
+        "sites": [
+            {
                 "title": "开发者武器库",
                 "desc": "开发者武器库，做开发者最专业最好用的专业工具箱",
                 "url": "https://devtool.tech/",
                 "logo": "https://devtool.tech/favicon.ico",
                 "tags": [
-                    "工具箱", "base64", "格式化", "图床"
+                    "工具箱",
+                    "base64",
+                    "格式化",
+                    "图床"
                 ],
                 "rating": 5
             },
@@ -16,7 +21,10 @@
                 "desc": "A ridiculous collection of web development cheatsheets · One-page guide to ",
                 "url": "https://devhints.io/",
                 "logo": "https://devhints.io/assets/favicon.png",
-                "tags": ["备忘录", "cheat sheet"],
+                "tags": [
+                    "备忘录",
+                    "cheat sheet"
+                ],
                 "rating": 4.9
             },
             {
@@ -90,6 +98,16 @@
                 "rating": 4.9
             },
             {
+                "title": "Diffchecker",
+                "desc": "Diffchecker will compare text to find the difference between two text files. Just paste your files and click Find Difference!",
+                "url": "https://www.diffchecker.com/",
+                "logo": "https://www.diffchecker.com/favicon.ico",
+                "tags": [
+                    "文档比较"
+                ],
+                "rating": 4.9
+            },
+            {
                 "title": "docsify",
                 "desc": "A magical documentation generator.",
                 "url": "https://docsify.js.org/#/",
@@ -112,6 +130,14 @@
                 "rating": 4
             },
             {
+                "title": "在线工具 - ToolB",
+                "desc": "在线工具 - ToolB",
+                "url": "https://toolb.cn/",
+                "logo": "https://toolb.cn/favicon.ico",
+                "tags": [],
+                "rating": 4.2
+            },
+            {
                 "title": "觅思文档MrDoc - 私有云笔记、云文档和知识库系统",
                 "desc": "",
                 "url": "https://mrdoc.pro/",
@@ -119,64 +145,81 @@
                 "tags": [],
                 "rating": 4
             },
-            { "title": "PWA Manifest Generator", "desc": "PWA Manifest Generator", "url": "https://www.simicart.com/manifest-generator.html/", "logo": "https://www.simicart.com/skin/frontend/default/simicart2.0/css/2017/images/icon-logo.png", "tags": ["PWA", "Manifest"] }
+            {
+                "title": "PWA Manifest Generator",
+                "desc": "PWA Manifest Generator",
+                "url": "https://www.simicart.com/manifest-generator.html/",
+                "logo": "https://www.simicart.com/skin/frontend/default/simicart2.0/css/2017/images/icon-logo.png",
+                "tags": [
+                    "PWA",
+                    "Manifest"
+                ]
+            }
         ]
     },
     {
         "name": "在线刷题",
-        "sites": [{
-            "title": "LintCode 领扣",
-            "desc": "Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on. We provide Chinese and English versions for coders around the world.",
-            "url": "https://www.lintcode.com/",
-            "logo": "https://www.lintcode.com/static/favicon.ico",
-            "tags": [
-                "在线刷题"
-            ]
-        }]
+        "sites": [
+            {
+                "title": "LintCode 领扣",
+                "desc": "Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on. We provide Chinese and English versions for coders around the world.",
+                "url": "https://www.lintcode.com/",
+                "logo": "https://www.lintcode.com/static/favicon.ico",
+                "tags": [
+                    "在线刷题"
+                ]
+            }
+        ]
     },
     {
         "name": "CSS",
         "icon": "tools",
-        "sites": [{
-            "title": "Can I use... Support tables for HTML5, CSS3, etc",
-            "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
-            "url": "https://caniuse.com/css-rrggbbaa",
-            "logo": "https://caniuse.com/img/favicon-128.png",
-            "tags": [
-                "CSS",
-                "兼容性"
-            ]
-        }]
+        "sites": [
+            {
+                "title": "Can I use... Support tables for HTML5, CSS3, etc",
+                "desc": "\"Can I use\" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.",
+                "url": "https://caniuse.com/css-rrggbbaa",
+                "logo": "https://caniuse.com/img/favicon-128.png",
+                "tags": [
+                    "CSS",
+                    "兼容性"
+                ]
+            }
+        ]
     },
     {
         "name": "SVG",
         "icon": "tools",
-        "sites": [{
-            "title": "Calligrapher.ai: Realistic computer-generated handwriting",
-            "desc": "Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.",
-            "url": "https://www.calligrapher.ai/",
-            "logo": "https://www.calligrapher.ai/favicon.ico",
-            "tags": [
-                "手写",
-                "文字转svg"
-            ]
-        }]
+        "sites": [
+            {
+                "title": "Calligrapher.ai: Realistic computer-generated handwriting",
+                "desc": "Realistic handwriting generator. Convert text to handwriting using an in-browser recurrent neural network. Choose from various print and cursive styles. Customize the outputs and download as SVG.",
+                "url": "https://www.calligrapher.ai/",
+                "logo": "https://www.calligrapher.ai/favicon.ico",
+                "tags": [
+                    "手写",
+                    "文字转svg"
+                ]
+            }
+        ]
     },
     {
         "name": "图床",
         "icon": "photo",
-        "sites": [{
-            "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
-            "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
-            "url": "https://imgchr.com/",
-            "logo": "https://imgchr.com/content/images/system/favicon_1587118523486_91617a.png",
-            "tags": []
-        }]
+        "sites": [
+            {
+                "title": "路过图床 - 免费图片上传, 专业图片外链, 免费公共图床",
+                "desc": "路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.",
+                "url": "https://imgchr.com/",
+                "logo": "https://imgchr.com/content/images/system/favicon_1587118523486_91617a.png",
+                "tags": []
+            }
+        ]
     },
-
     {
         "name": "在线工具",
-        "sites": [{
+        "sites": [
+            {
                 "url": "https://tableconvert.com/",
                 "title": "tableconvert online",
                 "logo": "https://tableconvert.com/static/images/favicon.png",
@@ -248,12 +291,31 @@
                 "tags": [
                     "数据协作"
                 ]
+            },
+            {
+                "title": "PhotoFun - 高效图片压缩",
+                "desc": "PhotoFun 图片在线压缩处理",
+                "url": "https://www.photofun.cn/compress/",
+                "logo": "https://www.photofun.cn/compress/favicon.ico",
+                "tags": [
+                    "图片压缩"
+                ],
+                "rating": 4.4
+            },
+            {
+                "title": "JSON Crack - Crack your data into pieces",
+                "desc": "Simple visualization tool for your JSON data. No forced structure, paste your JSON and view it instantly.",
+                "url": "https://jsoncrack.com/widget?json=%5B%5B%22squadName%22%2C%22homeTown%22%2C%22formed%22%2C%22secretBase%22%2C%22active%22%2C%22members%22%2C%22a%7C0%7C1%7C2%7C3%7C4%7C5%22%2C%22Super%20hero%20squad%22%2C%22Metro%20City%22%2C%22n%7CWW%22%2C%22Super%20tower%22%2C%22b%7CT%22%2C%22name%22%2C%22age%22%2C%22secretIdentity%22%2C%22powers%22%2C%22a%7CC%7CD%7CE%7CF%22%2C%22Molecule%20Man%22%2C%22n%7CT%22%2C%22Dan%20Jukes%22%2C%22Radiation%20resistance%22%2C%22Turning%20tiny%22%2C%22Radiation%20blast%22%2C%22a%7CK%7CL%7CM%22%2C%22o%7CG%7CH%7CI%7CJ%7CN%22%2C%22Madame%20Uppercut%22%2C%22n%7Cd%22%2C%22Jane%20Wilson%22%2C%22Million%20tonne%20punch%22%2C%22Damage%20resistance%22%2C%22Superhuman%20reflexes%22%2C%22a%7CS%7CT%7CU%22%2C%22o%7CG%7CP%7CQ%7CR%7CV%22%2C%22Eternal%20Flame%22%2C%22n%7C4C92%22%2C%22Unknown%22%2C%22Immortality%22%2C%22Heat%20Immunity%22%2C%22Inferno%22%2C%22Teleportation%22%2C%22Interdimensional%20travel%22%2C%22a%7Ca%7Cb%7Cc%7Cd%7Ce%22%2C%22o%7CG%7CX%7CY%7CZ%7Cf%22%2C%22a%7CO%7CW%7Cg%22%2C%22o%7C6%7C7%7C8%7C9%7CA%7CB%7Ch%22%5D%2C%22i%22%5D",
+                "logo": "https://jsoncrack.com/favicon.ico",
+                "tags": ["json", "可视化"],
+                "rating": 4.9
             }
         ]
     },
     {
         "name": "OCR",
-        "sites": [{
+        "sites": [
+            {
                 "title": "PearOCR",
                 "desc": "在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传",
                 "url": "https://pearocr.com/",
@@ -278,7 +340,8 @@
     {
         "name": "导航站",
         "icon": "sitemap",
-        "sites": [{
+        "sites": [
+            {
                 "title": "DEX List - The index page for creative workers.",
                 "desc": "The all-in-one List for designers, agencies, freelancers and creative workers.",
                 "url": "https://dexlist.page/",

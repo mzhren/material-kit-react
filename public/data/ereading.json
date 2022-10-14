@@ -21,6 +21,14 @@
           "图灵",
           "程序设计"
         ]
+      },
+      {
+        "title": "识典古籍",
+        "desc": "识典古籍是抖音公益与北大合作共建的古籍阅读平台。致力于为用户提供免费公开、稳定、快速、方便的检索和阅读古籍的服务。",
+        "url": "https://www.shidianguji.com/?page_from=reading_page",
+        "logo": "https://lf-cdn-tos.bytescm.com/obj/static/guji/shidian/cn/favicon/logo.svg",
+        "tags": ["古籍","经典"],
+        "rating": 4.9
       }
     ]
   },
@@ -114,7 +122,10 @@
         "desc": ":books: Freely available programming books",
         "url": "https://ebookfoundation.github.io/free-programming-books/",
         "logo": "https://ebookfoundation.github.io/favicon.ico",
-        "tags": ["免费","编程"],
+        "tags": [
+          "免费",
+          "编程"
+        ],
         "rating": 4.9
       },
       {
@@ -159,7 +170,6 @@
           "epub"
         ]
       },
-      
       {
         "title": "书行天下| PDF电子书学习下载站",
         "desc": "书行天下网是一个免费分享下载阅读各类最新pdf电子书籍的网络书屋，每天免费为大家分享大量涵盖各学科分类的pdf电子书、最新PDF图书、PDF高清电子书供大家免费下载阅读！",

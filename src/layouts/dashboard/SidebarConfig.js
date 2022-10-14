@@ -37,7 +37,16 @@ const sidebarConfig = [
   {
     title: '语言框架',
     path: '/links/pl',
-    icon: <Code />
+    icon: <Code />,
+    children: [{
+      title: 'JavaScript',
+      path: '/links/js',
+      icon: <Code />
+    },{
+      title: 'CSS',
+      path: '/links/css',
+      icon: <Code />
+    }]
   },
   {
     title: '圈子社区',
