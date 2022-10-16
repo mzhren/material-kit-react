@@ -46,6 +46,10 @@ const sidebarConfig = [
       title: 'CSS',
       path: '/links/css',
       icon: <Code />
+    },{
+      title: 'Python',
+      path: '/links/py',
+      icon: <Code />
     }]
   },
   {

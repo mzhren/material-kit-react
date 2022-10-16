@@ -402,7 +402,22 @@
         ],
         "rating": 4.9
       },
-      {"title":"JPlay","desc":"JPlay","url":"https://jplay.github.io/","logo":"https://jplay.github.io/images/apple-touch-icon-next.png","tags":[],"rating":4.9}
+      {
+        "title": "JPlay",
+        "desc": "JPlay",
+        "url": "https://jplay.github.io/",
+        "logo": "https://jplay.github.io/images/apple-touch-icon-next.png",
+        "tags": [],
+        "rating": 4.9
+      },
+      {
+        "title": "首页 | Hsu Yeung 的博客",
+        "desc": "Hsu Yeung 的个人博客。",
+        "url": "https://www.hsuyeung.com/",
+        "logo": "https://www.hsuyeung.com/favicon.ico",
+        "tags": ["个人博客"],
+        "rating": 4
+      }
     ]
   },
   {

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Python",
+        "icon": "code",
+        "sites": [
+            {
+                "title": "The best python automation module | Clicknium",
+                "desc": "Clicknium enables the easiest way to start web and desktop automation in python. Get started now for free.",
+                "url": "https://www.clicknium.com/",
+                "logo": "https://www.clicknium.com/img/favicon.ico",
+                "tags": ["自动化"],
+                "rating": 4.5
+            },
+            {
+                "title": "JavaScript.com",
+                "desc": "JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript experts. Learn JavaScript or free with our easy to use input output machine.",
+                "url": "https://www.javascript.com/",
+                "logo": "https://www.javascript.com/etc/clientlibs/pluralsight/main/images/favicons/apple-touch-icon-57x57.png",
+                "tags": [
+                    "js"
+                ]
+            },
+            {
+                "title": "TypeScript中文网 · TypeScript——JavaScript的超集",
+                "desc": "TypeScript带来了可选的静态类型检查以及最新的ECMAScript特性。",
+                "url": "https://www.tslang.cn/",
+                "logo": "https://www.tslang.cn/assets/images/icons/apple-touch-icon-57x57.png",
+                "tags": [
+                    "ts",
+                    "js"
+                ]
+            },
+            {
+                "title": "PHP: Hypertext Preprocessor",
+                "desc": "PHP: Hypertext Preprocessor",
+                "url": "https://www.php.net/",
+                "logo": "https://www.php.net/favicon.ico",
+                "tags": [
+                    "php",
+                    "php文档"
+                ]
+            },
+            {
+                "title": "Welcome to Python.org",
+                "desc": "The official home of the Python Programming Language",
+                "url": "https://www.python.org/",
+                "logo": "https://www.python.org/static/favicon.ico",
+                "tags": [
+                    "python"
+                ]
+            },
+            {
+                "title": "Dart 编程语言主页 | Dart",
+                "desc": "Dart 是一个针对全平台优化的编程语言。",
+                "url": "https://dart.cn/",
+                "logo": "https://dart.cn/assets/shared/dart/icon/64.png",
+                "tags": [
+                    "dart"
+                ]
+            },
+            {
+                "title": "PowerShell Documentation - PowerShell | Microsoft Docs",
+                "desc": "Official product documentation for PowerShell",
+                "url": "https://docs.microsoft.com/en-us/powershell/",
+                "logo": "https://docs.microsoft.com/favicon.ico",
+                "tags": [
+                    "PowerShell",
+                    "官方文档"
+                ]
+            },
+            {
+                "title": "GraphQL | 一种为你的 API 而生的查询语言",
+                "desc": "GraphQL 提供了 API 中数据的完整描述，提供让客户端能够准确地获取需要的数据而不包含任何冗余的能力，让 API 更加容易随着时间推移而演进，并提供强大的开发者工具。",
+                "url": "https://graphql.cn/",
+                "logo": "https://graphql.cn/img/favicon.png",
+                "tags": [
+                    "API"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "工具框架",
+        "icon": "star",
+        "sites": [
+            {
+                "title": "React 官方中文文档 ",
+                "desc": "用于构建用户界面的 JavaScript 库",
+                "url": "https://zh-hans.reactjs.org/",
+                "logo": "https://zh-hans.reactjs.org/favicon.ico",
+                "tags": [
+                    "前端",
+                    "mvc",
+                    "vd"
+                ]
+            },
+            {
+                "title": "Vue.js",
+                "desc": "Vue.js - The Progressive JavaScript Framework",
+                "url": "https://cn.vuejs.org/index.html",
+                "logo": "https://cn.vuejs.org/images/icons/apple-icon-57x57.png",
+                "tags": [
+                    "vue"
+                ]
+            },
+            {
+                "title": "Flutter - Beautiful native apps in record time",
+                "desc": "Flutter SDK is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+                "url": "https://flutter.dev/",
+                "logo": "https://flutter.dev/images/favicon.png",
+                "tags": [
+                    "Flutter",
+                    "app"
+                ]
+            },
+            {
+                "title": "Flutter中文网",
+                "desc": "Flutter中文网是中国最大的Flutter开发者交流学习平台，致力于打造Flutter开发中文社区。在这里能轻松找到代码实例、项目案例、并有专人提供最新文档翻译。",
+                "url": "https://flutterchina.club/",
+                "logo": "https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/favicon.png",
+                "tags": [
+                    "flutter"
+                ]
+            },
+            {
+                "title": "Electron | 使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序。",
+                "desc": "Electron | 使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序。",
+                "url": "https://www.electronjs.org/",
+                "logo": "https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico",
+                "tags": [
+                    "WEB技术",
+                    "开源",
+                    "跨平台"
+                ],
+                "rating": 4.8
+            },
+            {
+                "title": "MUI: The React component library you always wanted",
+                "desc": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design. You will develop React applications faster.",
+                "url": "https://mui.com/zh/",
+                "logo": "https://mui.com/static/favicon.ico",
+                "tags": [
+                    "Material-UI",
+                    "React",
+                    "V5"
+                ]
+            },
+            {
+                "title": "Material-UI：当下流行的 React UI 框架",
+                "desc": "React 组件用于更快速、更简便的 web 开发。你也可以建立你自己的设计系统，或者从 Material Design 开始。",
+                "url": "https://v4.mui.com/zh/",
+                "logo": "https://v4.mui.com/static/favicon.ico",
+                "tags": [
+                    "Material-UI",
+                    "V4"
+                ]
+            },
+            {
+                "title": "ent. An entity framework for Go",
+                "desc": "Simple, yet powerful ORM for modeling and querying data.",
+                "url": "https://entgo.io/",
+                "logo": "https://entgo.io/favicon.ico",
+                "tags": [
+                    "go",
+                    "orm"
+                ],
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "name": "前端插件",
+        "icon": "plug",
+        "sites": [
+            {
+                "title": "Masonry",
+                "desc": "Cascading grid layout library",
+                "url": "https://masonry.desandro.com/",
+                "logo": "https://masonry.desandro.com/favicon.ico",
+                "tags": [
+                    "瀑布式"
+                ]
+            },
+            {
+                "title": "styled-components",
+                "desc": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅🏾",
+                "url": "https://styled-components.com/",
+                "logo": "https://styled-components.com/favicon.png",
+                "tags": [
+                    "react",
+                    "css in js"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "文档",
+        "icon": "file",
+        "sites": [
+            {
+                "title": "JavaScript | MDN",
+                "desc": "本部分将专注于 JavaScript 语言本身，而非局限于网页或其他限制环境。想要了解网页有关的 APIs ，请参考 Web APIs 以及 DOM。",
+                "url": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
+                "logo": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png",
+                "tags": [
+                    "js",
+                    "MDN"
+                ]
+            }
+        ]
+    }
+]

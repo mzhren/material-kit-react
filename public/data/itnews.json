@@ -3,6 +3,26 @@
         "name": "信息聚合",
         "sites": [
             {
+                "title": "Hacker News 中文版 - 用中文浏览Hacker News 最新提交, Points >= 2",
+                "desc": "用中文浏览Hacker News 最新提交, Points >= 2 ",
+                "url": "https://hnnew.buzzing.cc/",
+                "logo": "https://hnnew.buzzing.cc/icon.png",
+                "tags": ["hacknews","资讯"],
+                "rating": 4.5
+            },
+            {
+                "title": "今日热榜",
+                "desc": "今日热榜",
+                "url": "https://rebang.today/",
+                "logo": "https://rebang.today/favicon.ico",
+                "tags": [
+                    "技术",
+                    "资讯",
+                    "聚合"
+                ],
+                "rating": 4
+            },
+            {
                 "title": "Funletu – 发现好物，分享资源，推荐精品",
                 "desc": "Funletu",
                 "url": "https://funletu.com/",

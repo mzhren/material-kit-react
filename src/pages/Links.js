@@ -26,7 +26,10 @@ const LINK_GROUP = {
     programminggame:"编程游戏",
     wemedia: "自媒体",
     fish: "摸鱼专区",
-    itnews:"信息聚合"
+    itnews:"信息聚合",
+    js:"JavaScript",
+    css:"CSS",
+    py:"Python"
 }
 
 const backdropStyle = {

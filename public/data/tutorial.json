@@ -20,6 +20,7 @@
           "django"
         ]
       },
+      
       {
         "title": "小浩算法 | 小浩算法",
         "desc": "和小浩一起学算法",
@@ -47,7 +48,9 @@
         "desc": "极客浏览器工作原理与实践",
         "url": "https://blog.poetries.top/browser-working-principle/",
         "logo": "https://blog.poetries.top/browser-working-principle/logo.png",
-        "tags": ["浏览器"],
+        "tags": [
+          "浏览器"
+        ],
         "rating": 4.9
       }
     ]

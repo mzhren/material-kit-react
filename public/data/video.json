@@ -27,7 +27,14 @@
     },
     {
         "name": "慕课平台",
-        "sites": [
+        "sites": [{
+            "title": "TutHub.io - Find the best resources to learn programming",
+            "desc": "The community-driven search tool for programming tutorials",
+            "url": "https://www.tuthub.io/",
+            "logo": "https://www.tuthub.io/favicon.ico",
+            "tags": ["教程集合"],
+            "rating": 4
+          },
             {
                 "title": "Learn to Code — For Free — Coding Courses for Busy People",
                 "desc": "Learn to Code — For Free",

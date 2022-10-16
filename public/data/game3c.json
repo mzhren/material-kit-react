@@ -51,7 +51,10 @@
                 "desc": "游研社是以游戏内容为主的新媒体，出品内容包括大量游戏、动漫有关的研究文章和社长聊街机、社长说、游研剧场、老四强等系列视频内容",
                 "url": "https://www.yystv.cn/",
                 "logo": "https://alioss.yystv.cn/images/yyslogo124.png",
-                "tags": ["游戏","动漫"],
+                "tags": [
+                    "游戏",
+                    "动漫"
+                ],
                 "rating": 4
             }
         ]
@@ -85,6 +88,14 @@
                 "tags": [
                     "分解"
                 ]
+            },
+            {
+                "title": "自由钢琴 - AutoPiano | 在线钢琴，键盘钢琴，模拟钢琴，多种乐器选择，好听又好玩",
+                "desc": "自由钢琴(AutoPiano)是利用HTML5技术开发的在线钢琴应用，致力于为钢琴爱好者、音乐爱好者提供一个优雅、简洁的平台，在学习工作之余可以在线弹钢琴，享受音乐、生活的美好。自由钢琴支持自动演奏和手动演奏，简单易学，快来试试吧~",
+                "url": "https://www.autopiano.cn/",
+                "logo": "https://www.autopiano.cn/favicon.ico",
+                "tags": ["钢琴"],
+                "rating": 4
             },
             {
                 "title": "Welcome to Method of Action",
